@@ -1,0 +1,1852 @@
+POI_ID,Name,City,Type,Category,Latitude,Longitude,Cost_LKR,Time_Mins,Interest_Beach,Interest_Nature,Interest_History,Interest_Religious
+1,Gangaramaya Temple,Colombo,Landmark,Temple,6.9167,79.8566,400,60,0,0,1,1.0
+2,Galle Face Green,Colombo,Landmark,Park,6.9271,79.8446,0,90,1,1,1,0.0
+3,Viharamahadevi Park,Colombo,Landmark,Park,6.9142,79.8606,0,60,0,1,0,0.0
+4,Independence Square,Colombo,Landmark,Monument,6.9042,79.8674,0,45,0,0,1,0.0
+5,National Museum of Colombo,Colombo,Landmark,Museum,6.9105,79.8604,1500,120,0,0,1,0.0
+6,Jami Ul-Alfar Mosque,Colombo,Landmark,Mosque,6.9385,79.8515,0,30,0,0,1,1.0
+7,Lotus Tower,Colombo,Landmark,Viewpoint,6.9272,79.8584,4000,90,0,0,0,0.0
+8,Seema Malakaya,Colombo,Landmark,Temple,6.9166,79.8552,300,30,0,1,1,1.0
+9,Dutch Hospital Shopping Precinct,Colombo,Landmark,Historic,6.9329,79.8437,0,60,0,0,1,0.0
+10,Colombo Port Maritime Museum,Colombo,Landmark,Museum,6.9405,79.8465,500,60,1,0,1,0.0
+11,Kelaniya Raja Maha Vihara,Colombo,Landmark,Temple,6.9535,79.919,0,90,0,0,1,1.0
+12,Beira Lake,Colombo,Landmark,Lake,6.9213,79.8524,0,45,0,1,0,0.0
+13,Mount Lavinia Beach,Colombo,Landmark,Beach,6.834,79.8615,0,120,1,1,0,0.0
+14,Sri Kailawasanathan Swami Devasthanam Kovil,Colombo,Landmark,Temple,6.9264,79.8517,0,45,0,0,1,1.0
+15,Pettah Floating Market,Colombo,Landmark,Market,6.9327,79.8526,0,60,0,0,0,0.0
+16,Old Parliament Building,Colombo,Landmark,Monument,6.9317,79.8427,0,30,1,0,1,0.0
+17,World Trade Center Colombo,Colombo,Landmark,Architecture,6.9328,79.8437,0,30,0,0,0,0.0
+18,Crow Island Beach Park,Colombo,Landmark,Park,6.9749,79.869,0,90,1,1,0,0.0
+19,Beddagana Wetland Park,Colombo,Landmark,Park,6.8906,79.9079,200,90,0,1,0,0.0
+20,Bellanwila Rajamaha Viharaya,Colombo,Landmark,Temple,6.8458,79.9023,0,60,0,0,1,1.0
+21,Independence Memorial Museum,Colombo,Landmark,Museum,6.9043,79.8672,300,60,0,0,1,0.0
+22,Ape Gama,Colombo,Landmark,Cultural,6.8856,79.9157,500,90,0,0,1,0.0
+23,Diyatha Uyana,Colombo,Landmark,Park,6.9009,79.9164,0,90,0,1,0,0.0
+24,Nelum Pokuna,Colombo,Landmark,Architecture,6.9114,79.8623,0,30,0,0,0,0.0
+25,Asokaramaya Buddhist Temple,Colombo,Landmark,Temple,6.8855,79.8631,0,45,0,0,1,1.0
+26,Ministry of Crab,Colombo,Restaurant,Fine Dining,6.9328,79.8438,15000,120,0,0,0,0.0
+27,Nuga Gama,Colombo,Restaurant,Local,6.9189,79.8495,6000,90,0,0,0,0.0
+28,The Gallery Cafe,Colombo,Restaurant,Cafe,6.8953,79.8524,4000,90,0,0,1,0.0
+29,Upalis by Nawaloka,Colombo,Restaurant,Local,6.9126,79.8635,2500,60,0,0,0,0.0
+30,Palmyrah Restaurant,Colombo,Restaurant,Local,6.9063,79.8515,4500,90,0,0,0,0.0
+31,Green Cabin,Colombo,Restaurant,Local,6.8995,79.8541,1500,60,0,0,0,0.0
+32,Beach Wadiya,Colombo,Restaurant,Seafood,6.8797,79.853,3500,90,1,0,0,0.0
+33,Nihonbashi,Colombo,Restaurant,Fine Dining,6.9265,79.8485,12000,120,0,0,0,0.0
+34,The Lagoon,Colombo,Restaurant,Seafood,6.9188,79.8494,8000,120,0,0,0,0.0
+35,Chutneys,Colombo,Restaurant,Indian,6.9187,79.8493,4000,90,0,0,0,0.0
+36,Shanmugas,Colombo,Restaurant,Indian,6.8821,79.8572,3000,60,0,0,0,0.0
+37,Barefoot Garden Cafe,Colombo,Restaurant,Cafe,6.8955,79.8532,2000,90,0,0,0,0.0
+38,t-Lounge by Dilmah,Colombo,Restaurant,Cafe,6.9326,79.844,1800,60,0,0,0,0.0
+39,Sugar Bistro & Wine Bar,Colombo,Restaurant,Cafe,6.9205,79.848,5000,90,0,0,0,0.0
+40,Kaema Sutra,Colombo,Restaurant,Local,6.9262,79.8444,6000,90,0,0,0,0.0
+41,Pettah Market Walk,Colombo,Activity,Shopping,6.938,79.8511,0,120,0,0,1,0.0
+42,Good Market Colombo,Colombo,Activity,Shopping,6.9037,79.8615,0,90,0,0,0,0.0
+43,Spa Ceylon Royal Indulgence,Colombo,Activity,Leisure,6.9329,79.8437,10000,120,0,0,0,0.0
+44,Royal Colombo Golf Club,Colombo,Activity,Leisure,6.9135,79.8822,8000,240,0,1,0,0.0
+45,Majestic City,Colombo,Activity,Shopping,6.8938,79.8546,0,120,0,0,0,0.0
+46,Crescat Boulevard,Colombo,Activity,Shopping,6.9176,79.8481,0,90,0,0,0,0.0
+47,Dehiwala Zoo,Colombo,Activity,Leisure,6.8555,79.8735,3000,180,0,1,0,0.0
+48,Casino Marina,Colombo,Activity,Fun-time,6.9022,79.8504,5000,180,0,0,0,0.0
+49,Excel World Entertainment Park,Colombo,Activity,Fun-time,6.9172,79.8647,2000,120,0,0,0,0.0
+50,Colombo City Open Deck Bus Tour,Colombo,Activity,Leisure,6.9216,79.8447,4000,150,1,0,1,0.0
+51,Temple of the Sacred Tooth Relic,Kandy,Landmark,Temple,7.2936,80.6413,2000,120,0,0,1,1.0
+52,Kandy Lake,Kandy,Landmark,Lake,7.2916,80.6428,0,60,0,1,0,0.0
+53,Peradeniya Botanical Gardens,Kandy,Landmark,Park,7.2714,80.5954,3000,180,0,1,0,0.0
+54,Bahirawakanda Vihara Buddha Statue,Kandy,Landmark,Temple,7.2922,80.6288,300,45,0,0,1,1.0
+55,Udawatta Kele Sanctuary,Kandy,Landmark,Park,7.2995,80.6426,800,120,0,1,1,0.0
+56,Ceylon Tea Museum,Kandy,Landmark,Museum,7.2625,80.6322,1000,90,0,0,1,0.0
+57,National Museum of Kandy,Kandy,Landmark,Museum,7.2935,80.642,1200,60,0,0,1,0.0
+58,World Buddhist Museum,Kandy,Landmark,Museum,7.2941,80.6418,500,60,0,0,1,1.0
+59,Kandy View Point,Kandy,Landmark,Viewpoint,7.2882,80.6384,0,30,0,1,0,0.0
+60,Arthur's Seat,Kandy,Landmark,Viewpoint,7.2869,80.6388,0,30,0,1,0,0.0
+61,Kandy Garrison Cemetery,Kandy,Landmark,Historic,7.2946,80.6427,0,45,0,0,1,0.0
+62,Commonwealth War Cemetery,Kandy,Landmark,Historic,7.2798,80.6128,0,45,0,0,1,0.0
+63,Lankatilaka Vihara,Kandy,Landmark,Temple,7.2285,80.5566,500,60,0,0,1,1.0
+64,Gadaladeniya Vihara,Kandy,Landmark,Temple,7.2568,80.5562,500,60,0,0,1,1.0
+65,Embekka Devalaya,Kandy,Landmark,Temple,7.2185,80.5666,500,60,0,0,1,1.0
+66,Natha Devalaya,Kandy,Landmark,Temple,7.2931,80.6402,0,30,0,0,1,1.0
+67,Pattini Devalaya,Kandy,Landmark,Temple,7.2932,80.6395,0,30,0,0,1,1.0
+68,Maha Vishnu Devalaya,Kandy,Landmark,Temple,7.2943,80.6406,0,30,0,0,1,1.0
+69,Kataragama Devalaya,Kandy,Landmark,Temple,7.2926,80.6375,0,30,0,0,1,1.0
+70,Degaldoruwa Raja Maha Vihara,Kandy,Landmark,Temple,7.3061,80.6625,200,45,0,0,1,1.0
+71,Hanthana Mountain Range,Kandy,Landmark,Viewpoint,7.252,80.632,0,240,0,1,0,0.0
+72,Royal Palace of Kandy,Kandy,Landmark,Historic,7.2942,80.6415,1000,60,0,0,1,0.0
+73,Kandy Clock Tower,Kandy,Landmark,Monument,7.293,80.6341,0,15,0,0,1,0.0
+74,Asgiriya Maha Viharaya,Kandy,Landmark,Temple,7.2982,80.6324,0,45,0,0,1,1.0
+75,Wales Park,Kandy,Landmark,Park,7.291,80.637,0,45,0,1,0,0.0
+76,The Empire Cafe,Kandy,Restaurant,Cafe,7.2928,80.6401,3000,60,0,0,0,0.0
+77,White House Restaurant,Kandy,Restaurant,Local,7.294,80.636,2500,60,0,0,0,0.0
+78,Buono,Kandy,Restaurant,Cafe,7.2945,80.6358,2000,60,0,0,0,0.0
+79,Kandy Muslim Hotel,Kandy,Restaurant,Local,7.2929,80.6352,1000,45,0,0,0,0.0
+80,Sala Thai,Kandy,Restaurant,Fine Dining,7.2952,80.6351,4000,90,0,0,0,0.0
+81,Vito Wood Fired Pizza,Kandy,Restaurant,Italian,7.2885,80.6378,3500,60,0,0,0,0.0
+82,Cafe Secret Alley,Kandy,Restaurant,Cafe,7.2933,80.6355,1500,60,0,0,0,0.0
+83,Slightly Chilled Lounge Bar,Kandy,Restaurant,Cafe,7.2905,80.642,4500,120,0,0,0,0.0
+84,The Bakehouse Kandy,Kandy,Restaurant,Cafe,7.2925,80.6365,1200,45,0,0,0,0.0
+85,Balaji Dosai,Kandy,Restaurant,Indian,7.292,80.637,800,45,0,0,0,0.0
+86,Royal Bar & Hotel Restaurant,Kandy,Restaurant,Fine Dining,7.2938,80.6366,5000,90,0,0,1,0.0
+87,Helga's Folly,Kandy,Restaurant,Fine Dining,7.2915,80.6515,8000,120,0,0,1,0.0
+88,The Kandy House Dining,Kandy,Restaurant,Fine Dining,7.3065,80.659,10000,120,0,0,1,0.0
+89,History Restaurant,Kandy,Restaurant,Local,7.2941,80.6355,3000,60,0,0,1,0.0
+90,Devon Restaurant,Kandy,Restaurant,Local,7.2932,80.635,1500,60,0,0,0,0.0
+91,Kandy Cultural Dance Show,Kandy,Activity,Fun-time,7.2918,80.6411,2500,60,0,0,1,0.0
+92,Kandy City Center,Kandy,Activity,Shopping,7.2934,80.6373,0,120,0,0,0,0.0
+93,Central Market Kandy,Kandy,Activity,Shopping,7.291,80.6345,0,60,0,0,0,0.0
+94,Gem Museum & Lapidary,Kandy,Activity,Workshops,7.2855,80.635,0,60,0,0,1,0.0
+95,Batik Factory Tour,Kandy,Activity,Workshops,7.281,80.615,0,60,0,0,0,0.0
+96,Giragama Tea Plantation,Kandy,Activity,Leisure,7.265,80.57,0,90,0,1,0,0.0
+97,Wood Carving Workshop,Kandy,Activity,Workshops,7.288,80.63,0,60,0,0,0,0.0
+98,Pallekele International Cricket Stadium,Kandy,Activity,Leisure,7.2758,80.7228,2000,180,0,0,0,0.0
+99,Kandy Lake Boat Ride,Kandy,Activity,Leisure,7.2915,80.6425,1500,30,0,1,0,0.0
+100,Luv SL Kandy,Kandy,Activity,Shopping,7.293,80.637,0,60,0,0,0,0.0
+101,St. Mary's Church,Negombo,Landmark,Church,7.2078,79.8322,0,45,0,0,1,1.0
+102,Negombo Dutch Fort,Negombo,Landmark,Historic,7.2086,79.8291,0,30,0,0,1,0.0
+103,Angurukaramulla Temple,Negombo,Landmark,Temple,7.2065,79.8465,0,45,0,0,1,1.0
+104,Negombo Beach Park,Negombo,Landmark,Park,7.2341,79.8415,0,120,1,1,0,0.0
+105,Lellama Fish Market,Negombo,Landmark,Market,7.2148,79.8306,0,60,1,0,1,0.0
+106,Muthurajawela Marsh,Negombo,Landmark,Nature,7.1086,79.8732,1500,120,0,1,0,0.0
+107,Negombo Lagoon,Negombo,Landmark,Lake,7.1519,79.8416,0,60,0,1,0,0.0
+108,St. Sebastian's Church,Negombo,Landmark,Church,7.2185,79.834,0,30,0,0,1,1.0
+109,Browns Beach,Negombo,Landmark,Beach,7.2301,79.8402,0,180,1,1,0,0.0
+110,St. Stephen's Anglican Church,Negombo,Landmark,Church,7.2091,79.829,0,30,0,0,1,1.0
+111,Duwa Island,Negombo,Landmark,Historic,7.213,79.826,0,60,1,1,1,0.0
+112,Sri Singama Kali Amman Kovil,Negombo,Landmark,Temple,7.2105,79.835,0,30,0,0,1,1.0
+113,Maha Oya Estuary,Negombo,Landmark,Nature,7.2769,79.8443,0,60,1,1,0,0.0
+114,Abhayasekararama Temple,Negombo,Landmark,Temple,7.2045,79.842,0,45,0,0,1,1.0
+115,Hamilton Canal,Negombo,Landmark,Historic,7.215,79.833,0,60,0,1,1,0.0
+116,Grand Mosque Negombo,Negombo,Landmark,Mosque,7.21,79.8345,0,30,0,0,1,1.0
+117,Morawala Beach,Negombo,Landmark,Beach,7.1956,79.8256,0,90,1,1,0,0.0
+118,Dutch Clock Tower,Negombo,Landmark,Monument,7.2085,79.8292,0,15,0,0,1,0.0
+119,St. Peter's Church,Negombo,Landmark,Church,7.205,79.831,0,30,0,0,1,1.0
+120,Rukmani Devi Park,Negombo,Landmark,Park,7.2015,79.8355,0,45,0,1,0,0.0
+121,St. Anne's Church Palangathure,Negombo,Landmark,Church,7.251,79.845,0,45,0,0,1,1.0
+122,Holy Trinity Church,Negombo,Landmark,Church,7.22,79.84,0,30,0,0,1,1.0
+123,Main Street Mosque,Negombo,Landmark,Mosque,7.208,79.837,0,30,0,0,1,1.0
+124,Pitipana Fishery Harbour,Negombo,Landmark,Market,7.184,79.825,0,45,1,0,0,0.0
+125,Kochchikade St. Anthony's Shrine,Negombo,Landmark,Church,7.2655,79.8543,0,60,0,0,1,1.0
+126,Lords Restaurant Complex,Negombo,Restaurant,Fine Dining,7.2345,79.842,6000,120,0,0,0,0.0
+127,King Coconut Restaurant,Negombo,Restaurant,Seafood,7.225,79.8395,4000,90,1,0,0,0.0
+128,Tusker Restaurant,Negombo,Restaurant,Local,7.2305,79.8405,3500,90,0,0,0,0.0
+129,Prego Italian Restaurant,Negombo,Restaurant,Italian,7.232,79.841,4500,90,0,0,0,0.0
+130,Sea View Restaurant,Negombo,Restaurant,Seafood,7.228,79.84,5000,90,1,0,0,0.0
+131,Bijou Restaurant,Negombo,Restaurant,Fine Dining,7.229,79.8402,5500,120,0,0,0,0.0
+132,Honcho,Negombo,Restaurant,Asian,7.236,79.8425,3000,60,0,0,0,0.0
+133,Cafe J Negombo,Negombo,Restaurant,Cafe,7.2275,79.8398,2000,60,0,0,0,0.0
+134,Mr Burger,Negombo,Restaurant,Local,7.215,79.835,1000,45,0,0,0,0.0
+135,Dolce Vita Coffee Shop & Restaurant,Negombo,Restaurant,Cafe,7.2335,79.8415,2500,60,1,0,0,0.0
+136,Edwin,Negombo,Restaurant,Seafood,7.2315,79.8408,3500,90,0,0,0,0.0
+137,Jude Restaurant,Negombo,Restaurant,Local,7.226,79.839,2000,60,0,0,0,0.0
+138,Bacco Italian Restaurant,Negombo,Restaurant,Italian,7.2355,79.8422,4000,90,0,0,0,0.0
+139,Coconut Grove,Negombo,Restaurant,Local,7.222,79.8375,2500,60,0,0,0,0.0
+140,Blue Orbit,Negombo,Restaurant,Cafe,7.224,79.8385,1500,45,0,0,0,0.0
+141,Muthurajawela Boat Safari,Negombo,Activity,Leisure,7.11,79.87,3500,180,0,1,0,0.0
+142,Negombo Lagoon Boat Tour,Negombo,Activity,Leisure,7.16,79.84,2500,120,1,1,0,0.0
+143,Kite Surfing Negombo,Negombo,Activity,Fun-time,7.24,79.843,8000,180,1,1,0,0.0
+144,Negombo Water Park,Negombo,Activity,Fun-time,7.25,79.845,1500,180,0,0,0,0.0
+145,Jasmin Villa Ayurveda Spa,Negombo,Activity,Leisure,7.235,79.848,5000,120,0,0,0,0.0
+146,Negombo Plaza Shopping,Negombo,Activity,Shopping,7.205,79.835,0,90,0,0,0,0.0
+147,Traditional Cooking Class,Negombo,Activity,Workshops,7.2285,79.841,4000,150,0,0,0,0.0
+148,Catamaran Sailing,Negombo,Activity,Leisure,7.23,79.84,3000,120,1,1,0,0.0
+149,Scuba Diving Centre,Negombo,Activity,Fun-time,7.2365,79.843,12000,240,1,1,0,0.0
+150,Odel Negombo,Negombo,Activity,Shopping,7.21,79.838,0,60,0,0,0,0.0
+151,Mount Lavinia Beach,Mount Lavinia,Landmark,Beach,6.8345,79.861,0,120,1,1,0,0.0
+152,Mount Lavinia Hotel Architecture,Mount Lavinia,Landmark,Historic,6.8338,79.8618,0,60,1,0,1,0.0
+153,Sri Lanka Air Force Museum,Mount Lavinia,Landmark,Museum,6.8205,79.8884,500,120,0,0,1,0.0
+154,National Zoological Gardens of Sri Lanka,Mount Lavinia,Landmark,Park,6.8555,79.8735,3000,180,0,1,0,0.0
+155,Bellanwila Rajamaha Viharaya,Mount Lavinia,Landmark,Temple,6.8458,79.9023,0,60,0,0,1,1.0
+156,Attidiya Bird Sanctuary,Mount Lavinia,Landmark,Nature,6.8402,79.8925,0,120,0,1,0,0.0
+157,Sri Anjaneyar Temple,Mount Lavinia,Landmark,Temple,6.8655,79.8702,0,45,0,0,1,1.0
+158,Dehiwala Beach,Mount Lavinia,Landmark,Beach,6.848,79.859,0,90,1,1,0,0.0
+159,St. Anthony's Church,Mount Lavinia,Landmark,Church,6.8365,79.8645,0,30,0,0,1,1.0
+160,Christ Church Galkissa,Mount Lavinia,Landmark,Church,6.8305,79.866,0,30,0,0,1,1.0
+161,Subodharama Karandeniya Temple,Mount Lavinia,Landmark,Temple,6.852,79.875,0,45,0,0,1,1.0
+162,Weras Ganga Park,Mount Lavinia,Landmark,Park,6.842,79.9005,0,60,0,1,0,0.0
+163,Mount Lavinia Railway Station,Mount Lavinia,Landmark,Historic,6.8352,79.8631,0,15,1,0,1,0.0
+164,Galkissa Purana Viharaya,Mount Lavinia,Landmark,Temple,6.8315,79.8685,0,45,0,0,1,1.0
+165,S de S Jayasinghe Ground,Mount Lavinia,Landmark,Park,6.8505,79.8705,0,45,0,1,0,0.0
+166,Our Lady of Sorrows Church,Mount Lavinia,Landmark,Church,6.844,79.862,0,30,0,0,0,1.0
+167,Sri Venkateshwara Maha Vishnu Moorthy Kovil,Mount Lavinia,Landmark,Temple,6.856,79.865,0,45,0,0,1,1.0
+168,Karagampitiya Ambalama,Mount Lavinia,Landmark,Historic,6.8485,79.871,0,30,0,0,1,0.0
+169,Ratmalana Railway Monument,Mount Lavinia,Landmark,Monument,6.822,79.8755,0,20,0,0,1,0.0
+170,Seneviratnarama Maha Viharaya,Mount Lavinia,Landmark,Temple,6.839,79.872,0,45,0,0,1,1.0
+171,Bodhirukkaramaya Temple,Mount Lavinia,Landmark,Temple,6.826,79.88,0,30,0,0,0,1.0
+172,Dharmaramaya Temple,Mount Lavinia,Landmark,Temple,6.832,79.876,0,40,0,0,0,1.0
+173,Sri Jayasinharamaya Temple,Mount Lavinia,Landmark,Temple,6.841,79.881,0,45,0,0,0,1.0
+174,Nedimala Buddhist Temple,Mount Lavinia,Landmark,Temple,6.849,79.885,0,30,0,0,0,1.0
+175,Ratmalana Airport Viewpoint,Mount Lavinia,Landmark,Viewpoint,6.821,79.8855,0,30,0,0,1,0.0
+176,Seafood Cove,Mount Lavinia,Restaurant,Seafood,6.8339,79.8616,6000,120,1,0,0,0.0
+177,The Governor's Restaurant,Mount Lavinia,Restaurant,Fine Dining,6.8336,79.8619,7500,120,0,0,1,0.0
+178,Loon Tao,Mount Lavinia,Restaurant,Asian,6.836,79.861,4500,90,1,0,0,0.0
+179,Buba Beach Seafood Restaurant,Mount Lavinia,Restaurant,Seafood,6.831,79.8625,5000,90,1,0,0,0.0
+180,Sugar Beach Mount Lavinia,Mount Lavinia,Restaurant,Cafe,6.835,79.8612,4000,90,1,0,0,0.0
+181,La Rambla,Mount Lavinia,Restaurant,Fine Dining,6.8385,79.8655,5500,120,0,0,0,0.0
+182,Shore By O!,Mount Lavinia,Restaurant,Local,6.8375,79.8605,3500,90,1,0,0,0.0
+183,JoJo's Place,Mount Lavinia,Restaurant,Seafood,6.8368,79.8608,3000,60,1,0,0,0.0
+184,Mount Breeze Restaurant,Mount Lavinia,Restaurant,Local,6.8325,79.863,2500,60,1,0,0,0.0
+185,Burger's King Mount Lavinia,Mount Lavinia,Restaurant,Local,6.839,79.865,1500,45,0,0,0,0.0
+186,The Station,Mount Lavinia,Restaurant,Seafood,6.8485,79.8595,4500,90,1,0,0,0.0
+187,Oru Seafood Restaurant,Mount Lavinia,Restaurant,Seafood,6.8355,79.8615,4000,90,1,0,0,0.0
+188,Kandoori Restaurant,Mount Lavinia,Restaurant,Indian,6.842,79.864,2500,60,0,0,0,0.0
+189,Steamers Seafood Restaurant,Mount Lavinia,Restaurant,Seafood,6.834,79.8613,3500,90,1,0,0,0.0
+190,Family Baker Mount Lavinia,Mount Lavinia,Restaurant,Cafe,6.838,79.8655,1000,30,0,0,0,0.0
+191,Island Scuba Diving,Mount Lavinia,Activity,Fun-time,6.8355,79.8605,12000,180,1,1,0,0.0
+192,Spa Ceylon Mount Lavinia,Mount Lavinia,Activity,Leisure,6.8385,79.865,6000,120,0,0,0,0.0
+193,Odel Mount Lavinia,Mount Lavinia,Activity,Shopping,6.837,79.8645,0,60,0,0,0,0.0
+194,Traditional Sri Lankan Cooking Class,Mount Lavinia,Activity,Workshops,6.835,79.866,4000,150,0,0,0,0.0
+195,Kandy Fashion Dehiwala,Mount Lavinia,Activity,Shopping,6.851,79.864,0,90,0,0,0,0.0
+196,Arpico Supercentre Dehiwala,Mount Lavinia,Activity,Shopping,6.845,79.8645,0,60,0,0,0,0.0
+197,Concord Cinema,Mount Lavinia,Activity,Fun-time,6.853,79.865,1000,150,0,0,0,0.0
+198,Mount Lavinia Sunset Cruise,Mount Lavinia,Activity,Leisure,6.834,79.86,8000,120,1,1,0,0.0
+199,Attidiya Boat Safari,Mount Lavinia,Activity,Leisure,6.84,79.892,2500,90,0,1,0,0.0
+200,Beach Volleyball Mount Lavinia,Mount Lavinia,Activity,Fun-time,6.836,79.8608,0,60,1,0,0,0.0
+201,Kalutara Bodhiya,Kalutara,Landmark,Temple,6.5925,79.9606,0,60,0,0,1,1.0
+202,Richmond Castle,Kalutara,Landmark,Museum,6.5956,79.9822,500,90,0,1,1,0.0
+203,Calido Beach,Kalutara,Landmark,Beach,6.589,79.955,0,120,1,1,0,0.0
+204,Gangatilaka Viharaya,Kalutara,Landmark,Temple,6.593,79.961,0,45,0,0,1,1.0
+205,Holy Cross Church,Kalutara,Landmark,Church,6.5772,79.9585,0,30,0,0,1,1.0
+206,Kalutara Beach,Kalutara,Landmark,Beach,6.575,79.956,0,120,1,1,0,0.0
+207,Asokaramaya Buddhist Temple,Kalutara,Landmark,Temple,6.5805,79.965,0,45,0,0,0,1.0
+208,Kalutara Clock Tower,Kalutara,Landmark,Monument,6.5855,79.9605,0,15,0,0,1,0.0
+209,Kalu Ganga Bridge Viewpoint,Kalutara,Landmark,Viewpoint,6.594,79.9615,0,30,0,1,0,0.0
+210,Bodhinagala Forest Hermitage,Kalutara,Landmark,Temple,6.721,80.145,0,120,0,1,0,1.0
+211,Thudugala Ella Waterfall,Kalutara,Landmark,Nature,6.4851,80.052,200,90,0,1,0,0.0
+212,St. John's Church,Kalutara,Landmark,Church,6.5865,79.962,0,30,0,0,1,1.0
+213,Kande Viharaya Temple,Kalutara,Landmark,Temple,6.446,79.998,0,60,0,0,1,1.0
+214,Brief Garden by Bevis Bawa,Kalutara,Landmark,Park,6.425,80.015,2000,120,0,1,1,0.0
+215,Katukurunda Beach,Kalutara,Landmark,Beach,6.552,79.96,0,90,1,1,0,0.0
+216,Wadduwa Beach,Kalutara,Landmark,Beach,6.666,79.936,0,120,1,1,0,0.0
+217,Barberyn Island Lighthouse,Kalutara,Landmark,Historic,6.4635,79.9765,1500,90,1,0,1,0.0
+218,Kalutara North Beach,Kalutara,Landmark,Beach,6.612,79.951,0,90,1,1,0,0.0
+219,Kalu Ganga Estuary,Kalutara,Landmark,Nature,6.588,79.957,0,60,1,1,0,0.0
+220,Vernan U Fernando Memorial Park,Kalutara,Landmark,Park,6.584,79.963,0,45,0,1,0,0.0
+221,South Kalutara Railway Station,Kalutara,Landmark,Historic,6.5815,79.961,0,20,0,0,1,0.0
+222,Sri Lankaramaya Temple,Kalutara,Landmark,Temple,6.5895,79.967,0,45,0,0,0,1.0
+223,Kalutara Balika Monument,Kalutara,Landmark,Monument,6.583,79.9625,0,15,0,0,1,0.0
+224,Agamathi Balika Park,Kalutara,Landmark,Park,6.5875,79.9645,0,45,0,1,0,0.0
+225,Kalutara Public Library Grounds,Kalutara,Landmark,Park,6.585,79.9615,0,30,0,1,0,0.0
+226,Olu Restaurant,Kalutara,Restaurant,Fine Dining,6.57,79.957,8000,120,1,0,0,0.0
+227,Acquolina,Kalutara,Restaurant,Fine Dining,6.5702,79.9572,10000,120,1,0,0,0.0
+228,Black is White Cafe,Kalutara,Restaurant,Cafe,6.586,79.961,2000,60,0,0,0,0.0
+229,Red Lobster Kalutara,Kalutara,Restaurant,Seafood,6.578,79.958,4500,90,1,0,0,0.0
+230,Kalutara Muslim Hotel,Kalutara,Restaurant,Local,6.5852,79.9608,1000,45,0,0,0,0.0
+231,Oasis Restaurant,Kalutara,Restaurant,Local,6.587,79.962,1500,60,0,0,0,0.0
+232,Peppermint Cafe,Kalutara,Restaurant,Cafe,6.582,79.9615,1800,60,0,0,0,0.0
+233,Sea View Restaurant,Kalutara,Restaurant,Seafood,6.574,79.9565,3500,90,1,0,0,0.0
+234,Green Shadow Restaurant,Kalutara,Restaurant,Local,6.591,79.965,2000,60,0,0,0,0.0
+235,The Riverside Halpe,Kalutara,Restaurant,Local,6.602,79.975,2500,90,0,1,0,0.0
+236,Mango Tree Restaurant,Kalutara,Restaurant,Indian,6.5845,79.9625,3000,60,0,0,0,0.0
+237,Dinemore Kalutara,Kalutara,Restaurant,Cafe,6.5835,79.9618,2200,60,0,0,0,0.0
+238,KFC Kalutara,Kalutara,Restaurant,Fast Food,6.5862,79.9605,1500,45,0,0,0,0.0
+239,Royal View Restaurant,Kalutara,Restaurant,Local,6.5885,79.9635,1800,60,0,0,0,0.0
+240,New Pilawoos Kalutara,Kalutara,Restaurant,Local,6.5858,79.9612,1200,45,0,0,0,0.0
+241,Kalu Ganga Boat Safari,Kalutara,Activity,Leisure,6.59,79.96,3500,120,0,1,0,0.0
+242,Kalutara Basket Society,Kalutara,Activity,Shopping,6.586,79.962,0,60,0,0,1,0.0
+243,Kalutara Market Walk,Kalutara,Activity,Shopping,6.5848,79.9602,0,60,0,0,0,0.0
+244,Katukurunda Motor Racing Track,Kalutara,Activity,Fun-time,6.545,79.965,1000,180,0,0,0,0.0
+245,Wood Carving Workshop,Kalutara,Activity,Workshops,6.595,79.97,2000,90,0,0,1,0.0
+246,Ayurveda Spa Kalutara,Kalutara,Activity,Leisure,6.572,79.958,6000,120,0,0,0,0.0
+247,Water Sports Centre Wadduwa,Kalutara,Activity,Fun-time,6.665,79.935,5000,120,1,1,0,0.0
+248,Fishing Village Tour,Kalutara,Activity,Leisure,6.57,79.955,1500,90,1,0,1,0.0
+249,Arpico Supercentre Kalutara,Kalutara,Activity,Shopping,6.581,79.962,0,60,0,0,0,0.0
+250,Batik Factory Tour,Kalutara,Activity,Workshops,6.605,79.968,1000,60,0,0,1,0.0
+251,Bentota Beach,Bentota,Landmark,Beach,6.4215,79.9935,0,120,1,1,0,0.0
+252,Ventura Beach,Bentota,Landmark,Beach,6.428,79.995,0,120,1,1,0,0.0
+253,Moragalla Beach,Bentota,Landmark,Beach,6.438,79.988,0,90,1,1,0,0.0
+254,Kande Viharaya Temple,Bentota,Landmark,Temple,6.4465,79.9985,0,60,0,0,1,1.0
+255,Lunuganga Estate,Bentota,Landmark,Park,6.405,80.01,2000,120,0,1,1,0.0
+256,Brief Garden by Bevis Bawa,Bentota,Landmark,Park,6.425,80.015,2000,120,0,1,1,0.0
+257,Galapatha Rajamaha Viharaya,Bentota,Landmark,Temple,6.415,80.02,0,45,0,0,1,1.0
+258,Dedduwa Lake,Bentota,Landmark,Lake,6.408,80.018,0,60,0,1,0,0.0
+259,Cinnamon Island,Bentota,Landmark,Nature,6.41,80.015,500,60,0,1,1,0.0
+260,Kosgoda Sea Turtle Conservation Project,Bentota,Landmark,Nature,6.335,80.03,1500,60,1,1,0,0.0
+261,Victor Hasselblad Sea Turtle Center,Bentota,Landmark,Nature,6.338,80.028,1000,60,1,1,0,0.0
+262,Bentota Lake,Bentota,Landmark,Lake,6.42,80.005,0,60,0,1,0,0.0
+263,Sri Kalyanaramaya Maha Viharaya,Bentota,Landmark,Temple,6.43,80.01,0,45,0,0,1,1.0
+264,Bentota River Mangroves,Bentota,Landmark,Nature,6.415,80.005,0,90,0,1,0,0.0
+265,Aluthgama Railway Station,Bentota,Landmark,Historic,6.433,80.0,0,20,0,0,1,0.0
+266,Bentota Railway Station,Bentota,Landmark,Historic,6.422,79.998,0,20,0,0,1,0.0
+267,Bodhisamiparamaya Temple,Bentota,Landmark,Temple,6.418,80.002,0,30,0,0,1,1.0
+268,Induruwa Beach,Bentota,Landmark,Beach,6.385,80.005,0,120,1,1,0,0.0
+269,Bentota Bridge Viewpoint,Bentota,Landmark,Viewpoint,6.429,79.998,0,30,0,1,0,0.0
+270,Bentota Picnic Park,Bentota,Landmark,Park,6.424,79.996,0,60,0,1,0,0.0
+271,Katukoliha Temple,Bentota,Landmark,Temple,6.412,80.025,0,45,0,0,1,1.0
+272,Muthumari Amman Kovil,Bentota,Landmark,Temple,6.435,79.995,0,30,0,0,0,1.0
+273,Yathramulla Temple,Bentota,Landmark,Temple,6.426,80.008,0,30,0,0,1,1.0
+274,Sri Pushparamaya Temple,Bentota,Landmark,Temple,6.422,80.012,0,45,0,0,1,1.0
+275,Bentota Estuary Point,Bentota,Landmark,Viewpoint,6.4295,79.994,0,45,1,1,0,0.0
+276,Amal Restaurant,Bentota,Restaurant,Seafood,6.41,79.999,4000,90,1,0,0,0.0
+277,Pier 88 River Seafood Restaurant,Bentota,Restaurant,Seafood,6.428,79.999,3500,90,0,1,0,0.0
+278,Golden Grill Restaurant,Bentota,Restaurant,Fine Dining,6.423,79.997,5000,120,0,0,0,0.0
+279,Randholee Restaurant,Bentota,Restaurant,Local,6.425,79.999,2500,60,0,0,0,0.0
+280,The Villa Cafe,Bentota,Restaurant,Cafe,6.418,79.998,4500,90,0,0,0,0.0
+281,Malli's Seafood Restaurant,Bentota,Restaurant,Seafood,6.432,79.997,3000,60,1,0,0,0.0
+282,Diya Sisila Restaurant,Bentota,Restaurant,Fine Dining,6.415,80.015,6000,120,0,1,0,0.0
+283,Aida Seafood Restaurant,Bentota,Restaurant,Seafood,6.427,79.998,4000,90,0,0,0,0.0
+284,Trax Bentota,Bentota,Restaurant,Cafe,6.421,79.999,2000,60,0,0,0,0.0
+285,Vintage Restaurant,Bentota,Restaurant,Local,6.426,80.001,2500,60,0,0,0,0.0
+286,Wunderbar Beach Club,Bentota,Restaurant,Seafood,6.413,79.998,3500,90,1,0,0,0.0
+287,Bamboos Garden Restaurant,Bentota,Restaurant,Local,6.422,80.002,2000,60,0,0,0,0.0
+288,Nova Seafood,Bentota,Restaurant,Seafood,6.419,79.998,3000,90,1,0,0,0.0
+289,Lihiniya Seafood,Bentota,Restaurant,Seafood,6.424,79.996,3500,90,1,0,0,0.0
+290,Bentota Rock Beach Restaurant,Bentota,Restaurant,Local,6.416,79.998,2500,60,1,0,0,0.0
+291,Sunshine Water Sports Centre,Bentota,Activity,Fun-time,6.427,79.997,5000,120,1,1,0,0.0
+292,Malu Banna Water Sports,Bentota,Activity,Fun-time,6.4285,79.9985,4500,120,1,1,0,0.0
+293,Bentota River Safari,Bentota,Activity,Leisure,6.426,79.999,3500,120,0,1,0,0.0
+294,Sahana Spa Bentota,Bentota,Activity,Leisure,6.42,80.0,8000,120,0,0,0,0.0
+295,Bentota Bazaar Shopping,Bentota,Activity,Shopping,6.423,80.001,0,60,0,0,0,0.0
+296,Ceylon Jewelry & Gems Workshop,Bentota,Activity,Workshops,6.425,80.002,0,60,0,0,0,0.0
+297,Traditional Cooking Class Bentota,Bentota,Activity,Workshops,6.415,80.005,4000,150,0,0,1,0.0
+298,Luv SL Bentota,Bentota,Activity,Shopping,6.424,79.998,0,45,0,0,0,0.0
+299,Diyakawa Water Sports,Bentota,Activity,Fun-time,6.425,79.9995,5000,120,1,1,0,0.0
+300,Ayurveda Niwasa,Bentota,Activity,Leisure,6.418,80.001,6000,90,0,0,0,0.0
+301,Ariyapala Mask Museum,Ambalangoda,Landmark,Museum,6.2367,80.0531,0,60,0,0,1,0.0
+302,Ambalangoda Beach,Ambalangoda,Landmark,Beach,6.231,80.048,0,120,1,1,0,0.0
+303,Sri Sunandaramaya Maha Viharaya,Ambalangoda,Landmark,Temple,6.234,80.055,0,45,0,0,1,1.0
+304,Traditional Puppet Art Museum,Ambalangoda,Landmark,Museum,6.2355,80.052,300,60,0,0,1,0.0
+305,Ambalangoda Fishery Harbour,Ambalangoda,Landmark,Market,6.23,80.047,0,45,1,0,0,0.0
+306,Urawatta Beach,Ambalangoda,Landmark,Beach,6.24,80.045,0,90,1,1,0,0.0
+307,Akurala Beach,Ambalangoda,Landmark,Beach,6.195,80.06,0,120,1,1,0,0.0
+308,Madampe Lake,Ambalangoda,Landmark,Lake,6.23,80.065,0,60,0,1,0,0.0
+309,Ambalangoda Clock Tower,Ambalangoda,Landmark,Monument,6.233,80.051,0,15,0,0,1,0.0
+310,Randombe Beach,Ambalangoda,Landmark,Beach,6.22,80.052,0,90,1,1,0,0.0
+311,Hirewatta Beach,Ambalangoda,Landmark,Beach,6.225,80.05,0,90,1,1,0,0.0
+312,Sailatalaramaya Viharaya,Ambalangoda,Landmark,Temple,6.24,80.056,0,45,0,0,1,1.0
+313,Pathini Devalaya Ambalangoda,Ambalangoda,Landmark,Temple,6.235,80.054,0,30,0,0,1,1.0
+314,Tsunami Photo Museum,Ambalangoda,Landmark,Museum,6.17,80.08,500,60,0,0,1,0.0
+315,Seenigama Muhudu Viharaya,Ambalangoda,Landmark,Temple,6.16,80.085,0,45,1,0,1,1.0
+316,Goviya Lake,Ambalangoda,Landmark,Nature,6.245,80.06,0,60,0,1,0,0.0
+317,Nindana Temple,Ambalangoda,Landmark,Temple,6.25,80.065,0,30,0,0,0,1.0
+318,Ambalangoda Railway Station,Ambalangoda,Landmark,Historic,6.2345,80.0515,0,20,0,0,1,0.0
+319,Kaluwadumulla Temple,Ambalangoda,Landmark,Temple,6.22,80.06,0,45,0,0,1,1.0
+320,Viharagoda Temple,Ambalangoda,Landmark,Temple,6.26,80.05,0,30,0,0,0,1.0
+321,Bandu Wijesooriya School of Dancing,Ambalangoda,Landmark,Historic,6.236,80.053,0,45,0,0,1,0.0
+322,Meetiyagoda Moonstone Mine Viewpoint,Ambalangoda,Landmark,Viewpoint,6.2,80.09,0,45,0,1,1,0.0
+323,Sumanaramaya Temple,Ambalangoda,Landmark,Temple,6.225,80.058,0,30,0,0,0,1.0
+324,Devananda College Ground,Ambalangoda,Landmark,Park,6.238,80.054,0,45,0,1,0,0.0
+325,Galagoda Shailatharama Viharaya,Ambalangoda,Landmark,Temple,6.27,80.08,0,60,0,0,1,1.0
+326,Restaurant Mihintha,Ambalangoda,Restaurant,Local,6.234,80.051,1500,60,0,0,0,0.0
+327,White House Restaurant,Ambalangoda,Restaurant,Local,6.235,80.05,1800,60,0,0,0,0.0
+328,Chili's Restaurant Ambalangoda,Ambalangoda,Restaurant,Local,6.2335,80.052,2000,60,0,0,0,0.0
+329,The Mask Restaurant,Ambalangoda,Restaurant,Local,6.236,80.0525,2500,90,0,0,0,0.0
+330,Sonya Seafood Restaurant,Ambalangoda,Restaurant,Seafood,6.2315,80.049,3500,90,1,0,0,0.0
+331,Sanda Hut Restaurant,Ambalangoda,Restaurant,Local,6.2325,80.0505,1200,45,0,0,0,0.0
+332,Blue Ocean Seafood,Ambalangoda,Restaurant,Seafood,6.2305,80.0485,4000,90,1,0,0,0.0
+333,City Food Restaurant,Ambalangoda,Restaurant,Fast Food,6.2345,80.051,1000,45,0,0,0,0.0
+334,Dinithi Restaurant,Ambalangoda,Restaurant,Local,6.233,80.053,1500,60,0,0,0,0.0
+335,Seven Eleven Cafe Ambalangoda,Ambalangoda,Restaurant,Cafe,6.2355,80.0515,1800,60,0,0,0,0.0
+336,Nethmi Restaurant,Ambalangoda,Restaurant,Local,6.2365,80.0535,1200,45,0,0,0,0.0
+337,Salty River Resort Restaurant,Ambalangoda,Restaurant,Fine Dining,6.23,80.06,4500,120,0,1,0,0.0
+338,Ransara Restaurant,Ambalangoda,Restaurant,Local,6.238,80.05,1500,60,0,0,0,0.0
+339,Sea Breeze Cafe,Ambalangoda,Restaurant,Cafe,6.232,80.0495,2000,60,1,0,0,0.0
+340,Ambalangoda Rest House Restaurant,Ambalangoda,Restaurant,Local,6.231,80.048,2500,90,1,0,0,0.0
+341,Ariyapala Mask Carving Workshop,Ambalangoda,Activity,Workshops,6.2368,80.0532,2000,120,0,0,1,0.0
+342,Traditional Puppet Show,Ambalangoda,Activity,Fun-time,6.2356,80.0521,1500,90,0,0,1,0.0
+343,Ambalangoda Antique Shopping,Ambalangoda,Activity,Shopping,6.234,80.0515,0,90,0,0,1,0.0
+344,Madu Ganga Boat Safari,Ambalangoda,Activity,Leisure,6.26,80.04,3500,150,0,1,0,0.0
+345,Akurala Surf School,Ambalangoda,Activity,Fun-time,6.1955,80.0605,4000,120,1,1,0,0.0
+346,Cinnamon Peeling Workshop,Ambalangoda,Activity,Workshops,6.25,80.06,1500,90,0,1,0,0.0
+347,Moonstone Mine Tour Meetiyagoda,Ambalangoda,Activity,Leisure,6.2,80.0905,500,60,0,1,1,0.0
+348,Ambalangoda Market Walk,Ambalangoda,Activity,Shopping,6.232,80.05,0,60,0,0,0,0.0
+349,Batik Factory Tour Ambalangoda,Ambalangoda,Activity,Workshops,6.24,80.055,1000,60,0,0,0,0.0
+350,Arpico Super Store Shopping,Ambalangoda,Activity,Shopping,6.233,80.0525,0,60,0,0,0,0.0
+351,Hikkaduwa Beach,Hikkaduwa,Landmark,Beach,6.14,80.1,0,120,1,1,0,0.0
+352,Hikkaduwa Coral Sanctuary,Hikkaduwa,Landmark,Nature,6.138,80.099,0,90,1,1,0,0.0
+353,Narigama Beach,Hikkaduwa,Landmark,Beach,6.128,80.104,0,120,1,1,0,0.0
+354,Seenigama Muhudu Viharaya,Hikkaduwa,Landmark,Temple,6.162,80.086,0,60,1,0,1,1.0
+355,Tsunami Honganji Vihara,Hikkaduwa,Landmark,Monument,6.171,80.081,0,45,0,0,1,1.0
+356,Community Tsunami Photo Museum,Hikkaduwa,Landmark,Museum,6.17,80.082,500,60,0,0,1,0.0
+357,Thotagamuwa Raja Maha Viharaya,Hikkaduwa,Landmark,Temple,6.165,80.085,0,45,0,0,1,1.0
+358,Ratgama Lake,Hikkaduwa,Landmark,Lake,6.095,80.14,0,90,0,1,0,0.0
+359,Hikkaduwa Lake,Hikkaduwa,Landmark,Lake,6.145,80.115,0,60,0,1,0,0.0
+360,Sea Turtle Hatchery & Rescue Center,Hikkaduwa,Landmark,Nature,6.155,80.095,1000,60,1,1,0,0.0
+361,Sandagiri Maha Viharaya,Hikkaduwa,Landmark,Temple,6.135,80.11,0,30,0,0,1,1.0
+362,Dodanduwa Fishery Harbour,Hikkaduwa,Landmark,Historic,6.095,80.125,0,45,1,0,1,0.0
+363,Sri Pushparamaya Temple,Hikkaduwa,Landmark,Temple,6.142,80.108,0,30,0,0,1,1.0
+364,Thiragama Beach,Hikkaduwa,Landmark,Beach,6.115,80.11,0,90,1,1,0,0.0
+365,Gangarama Maha Viharaya,Hikkaduwa,Landmark,Temple,6.13,80.115,0,45,0,0,1,1.0
+366,Hikkaduwa Railway Station,Hikkaduwa,Landmark,Historic,6.143,80.106,0,15,0,0,1,0.0
+367,Kumarakanda Viharaya,Hikkaduwa,Landmark,Temple,6.105,80.13,0,30,0,0,1,1.0
+368,Telwatta Bird Sanctuary,Hikkaduwa,Landmark,Nature,6.175,80.09,0,90,0,1,0,0.0
+369,Sri Shilakkanda Maha Viharaya,Hikkaduwa,Landmark,Temple,6.15,80.105,0,30,0,0,0,1.0
+370,Seenigama Beach,Hikkaduwa,Landmark,Beach,6.16,80.088,0,90,1,1,0,0.0
+371,Hikkaduwa National Park,Hikkaduwa,Landmark,Park,6.139,80.101,2500,120,1,1,0,0.0
+372,Saffron Robes Gallery and Studio,Hikkaduwa,Landmark,Museum,6.145,80.102,0,45,0,0,1,0.0
+373,Peraliya Tsunami Memorial,Hikkaduwa,Landmark,Monument,6.173,80.08,0,30,0,0,1,0.0
+374,Hikkaduwa Bus Stand Monument,Hikkaduwa,Landmark,Monument,6.145,80.104,0,15,0,0,1,0.0
+375,Oruwa Statue Viewpoint,Hikkaduwa,Landmark,Viewpoint,6.1425,80.1035,0,15,1,0,0,0.0
+376,A Refresh Restaurant,Hikkaduwa,Restaurant,Fine Dining,6.135,80.102,3500,90,0,0,0,0.0
+377,Salty Swamis Cafe & Surf Shop,Hikkaduwa,Restaurant,Cafe,6.132,80.103,2500,60,0,0,0,0.0
+378,Spaghetti & Co,Hikkaduwa,Restaurant,Italian,6.138,80.1,3000,90,0,0,0,0.0
+379,J.L.H. Beach Restaurant,Hikkaduwa,Restaurant,Seafood,6.139,80.099,4000,90,1,0,0,0.0
+380,Mamas Coral Beach Restaurant,Hikkaduwa,Restaurant,Seafood,6.141,80.098,3500,90,1,0,0,0.0
+381,The Rotti Shop,Hikkaduwa,Restaurant,Local,6.142,80.102,800,45,0,0,0,0.0
+382,No Name Restaurant,Hikkaduwa,Restaurant,Local,6.14,80.101,1500,60,0,0,0,0.0
+383,Asian Jewel Boutique Restaurant,Hikkaduwa,Restaurant,Fine Dining,6.15,80.115,5000,120,0,0,0,0.0
+384,Nordic House Cafe,Hikkaduwa,Restaurant,Cafe,6.136,80.101,2000,60,0,0,0,0.0
+385,Hello Burger,Hikkaduwa,Restaurant,Fast Food,6.137,80.1,1500,45,0,0,0,0.0
+386,Neela's Restaurant,Hikkaduwa,Restaurant,Seafood,6.13,80.104,2500,90,1,0,0,0.0
+387,Dolphin Restaurant,Hikkaduwa,Restaurant,Seafood,6.133,80.103,3000,90,1,0,0,0.0
+388,Thambili Cafe,Hikkaduwa,Restaurant,Cafe,6.129,80.105,1800,60,1,0,0,0.0
+389,Aroma Restaurant,Hikkaduwa,Restaurant,Local,6.143,80.105,1200,60,0,0,0,0.0
+390,True Dosa,Hikkaduwa,Restaurant,Indian,6.144,80.103,1000,45,0,0,0,0.0
+391,Hikkaduwa Surf School,Hikkaduwa,Activity,Fun-time,6.13,80.104,3000,120,1,1,0,0.0
+392,International Diving School,Hikkaduwa,Activity,Fun-time,6.138,80.099,8000,180,1,1,0,0.0
+393,Blue Deep Diving Centre,Hikkaduwa,Activity,Fun-time,6.136,80.1,7500,180,1,1,0,0.0
+394,Hikkaduwa Lake Safari,Hikkaduwa,Activity,Leisure,6.145,80.115,2500,90,0,1,0,0.0
+395,Secret Root Spa,Hikkaduwa,Activity,Leisure,6.125,80.11,5000,120,0,0,0,0.0
+396,Traditional Cooking Class,Hikkaduwa,Activity,Workshops,6.15,80.11,3500,150,0,0,0,0.0
+397,Hikkaduwa Friday Market,Hikkaduwa,Activity,Shopping,6.148,80.105,0,90,0,0,0,0.0
+398,Rathgama Lagoon Boat Tour,Hikkaduwa,Activity,Leisure,6.095,80.14,3000,120,0,1,0,0.0
+399,Glass Bottom Boat Ride,Hikkaduwa,Activity,Leisure,6.139,80.099,2000,60,1,1,0,0.0
+400,Odel Hikkaduwa,Hikkaduwa,Activity,Shopping,6.142,80.103,0,60,0,0,0,0.0
+401,Galle Dutch Fort,Galle,Landmark,Historic,6.0258,80.2176,0,120,0,0,1,0.0
+402,Galle Lighthouse,Galle,Landmark,Monument,6.0247,80.2195,0,30,1,0,1,0.0
+403,Galle Dutch Hospital,Galle,Landmark,Historic,6.0264,80.2185,0,60,0,0,1,0.0
+404,National Maritime Museum,Galle,Landmark,Museum,6.0274,80.2181,1000,60,0,0,1,0.0
+405,Galle Fort Clock Tower,Galle,Landmark,Monument,6.0292,80.2163,0,15,0,0,1,0.0
+406,All Saints Anglican Church,Galle,Landmark,Church,6.0267,80.2173,0,30,0,0,1,1.0
+407,Groote Kerk (Dutch Reformed Church),Galle,Landmark,Church,6.027,80.217,0,30,0,0,1,1.0
+408,Sudharmalaya Temple,Galle,Landmark,Temple,6.0278,80.2136,0,30,0,0,1,1.0
+409,Meera Mosque,Galle,Landmark,Mosque,6.0249,80.2188,0,30,0,0,1,1.0
+410,Galle Fort Beach,Galle,Landmark,Beach,6.0252,80.2201,0,60,1,1,0,0.0
+411,Flag Rock Bastion,Galle,Landmark,Viewpoint,6.0242,80.2165,0,30,1,0,1,0.0
+412,Unawatuna Beach,Galle,Landmark,Beach,6.0121,80.2454,0,180,1,1,0,0.0
+413,Jungle Beach,Galle,Landmark,Beach,6.0175,80.2372,0,120,1,1,0,0.0
+414,Japanese Peace Pagoda,Galle,Landmark,Monument,6.0185,80.2366,0,45,0,0,0,1.0
+415,Rumassala Sanctuary,Galle,Landmark,Nature,6.0169,80.2389,0,120,0,1,0,0.0
+416,Historical Mansion Museum,Galle,Landmark,Museum,6.0256,80.217,0,45,0,0,1,0.0
+417,Galle International Cricket Stadium,Galle,Landmark,Park,6.0315,80.2144,0,60,0,0,1,0.0
+418,Sea Turtle Hatchery Mahamodara,Galle,Landmark,Nature,6.0468,80.1973,1500,60,1,1,0,0.0
+419,Yatagala Raja Maha Viharaya,Galle,Landmark,Temple,6.0182,80.2625,0,60,0,0,1,1.0
+420,Galle Fort Ramparts,Galle,Landmark,Park,6.026,80.214,0,90,1,0,1,0.0
+421,Star Bastion,Galle,Landmark,Viewpoint,6.0305,80.2145,0,30,0,0,1,0.0
+422,Sun Bastion,Galle,Landmark,Viewpoint,6.0303,80.2166,0,30,0,0,1,0.0
+423,Moon Bastion,Galle,Landmark,Viewpoint,6.0308,80.2155,0,30,0,0,1,0.0
+424,Dewata Beach,Galle,Landmark,Beach,6.0336,80.2361,0,120,1,1,0,0.0
+425,St. Mary's Cathedral,Galle,Landmark,Church,6.0416,80.2206,0,30,0,0,1,1.0
+426,A Minute by Tuk Tuk,Galle,Restaurant,Fine Dining,6.0265,80.2185,4500,90,1,0,0,0.0
+427,Pedlar's Inn Cafe,Galle,Restaurant,Cafe,6.026,80.2171,2500,60,0,0,1,0.0
+428,Church Street Social,Galle,Restaurant,Fine Dining,6.0271,80.2178,6000,120,0,0,1,0.0
+429,Elita Restaurant,Galle,Restaurant,Seafood,6.025,80.2165,3500,90,1,0,0,0.0
+430,Poonie's Kitchen,Galle,Restaurant,Cafe,6.0263,80.2168,2000,60,0,0,0,0.0
+431,Hoppa Galle Fort,Galle,Restaurant,Local,6.0255,80.2161,2500,60,0,0,0,0.0
+432,Lucky Fort Restaurant,Galle,Restaurant,Local,6.0285,80.2142,1800,90,0,0,0,0.0
+433,The Original Rocket Burger,Galle,Restaurant,Fast Food,6.0268,80.217,1500,45,0,0,0,0.0
+434,Indian Hut,Galle,Restaurant,Indian,6.0245,80.218,2000,60,0,0,0,0.0
+435,Sugar Bistro and Wine Bar,Galle,Restaurant,Fine Dining,6.0264,80.2184,5500,120,0,0,0,0.0
+436,The Tuna & The Crab,Galle,Restaurant,Fine Dining,6.0262,80.2186,8000,120,0,0,0,0.0
+437,Coconut Sambol,Galle,Restaurant,Local,6.0275,80.216,1200,45,0,0,0,0.0
+438,Imal's Restaurant,Galle,Restaurant,Local,6.0252,80.2155,1500,60,0,0,0,0.0
+439,Calorie Counter Galle,Galle,Restaurant,Cafe,6.0265,80.216,2200,60,0,0,0,0.0
+440,Crepe-ology,Galle,Restaurant,Cafe,6.0261,80.2169,1800,60,0,0,0,0.0
+441,Ahikava Surf School,Galle,Activity,Fun-time,6.0335,80.236,3500,120,1,1,0,0.0
+442,Barefoot Galle Fort,Galle,Activity,Shopping,6.026,80.2172,0,60,0,0,1,0.0
+443,Spa Ceylon Galle Fort,Galle,Activity,Leisure,6.0263,80.2175,6000,120,0,0,0,0.0
+444,Traditional Gem Mine Tour,Galle,Activity,Workshops,6.0255,80.2165,2000,60,0,0,1,0.0
+445,Galle Fort Walking Tour,Galle,Activity,Leisure,6.0258,80.2176,3000,150,0,0,1,0.0
+446,Galle Fort Cooking Class,Galle,Activity,Workshops,6.028,80.214,4500,180,0,0,0,0.0
+447,Odel Galle,Galle,Activity,Shopping,6.0265,80.2185,0,60,0,0,0,0.0
+448,Stick No Bills Poster Gallery,Galle,Activity,Shopping,6.027,80.2175,0,45,0,0,1,0.0
+449,Galle Harbour Boat Tour,Galle,Activity,Leisure,6.0295,80.2225,4000,120,1,1,0,0.0
+450,Deep Sea Fishing Galle,Galle,Activity,Fun-time,6.029,80.222,15000,240,1,1,0,0.0
+451,Unawatuna Beach,Unawatuna,Landmark,Beach,6.0121,80.2454,0,120,1,1,0,0.0
+452,Jungle Beach,Unawatuna,Landmark,Beach,6.0175,80.2372,0,120,1,1,0,0.0
+453,Japanese Peace Pagoda,Unawatuna,Landmark,Monument,6.0185,80.2366,0,45,0,0,0,1.0
+454,Yatagala Raja Maha Viharaya,Unawatuna,Landmark,Temple,6.0182,80.2625,0,60,0,0,1,1.0
+455,Rumassala Sanctuary,Unawatuna,Landmark,Nature,6.0169,80.2389,0,120,0,1,0,0.0
+456,Dalawella Beach,Unawatuna,Landmark,Beach,5.9986,80.2647,0,120,1,1,0,0.0
+457,Mihiripenna Beach,Unawatuna,Landmark,Beach,5.9945,80.2701,0,90,1,1,0,0.0
+458,Frog Rock,Unawatuna,Landmark,Viewpoint,5.9961,80.2678,0,30,1,1,0,0.0
+459,Unawatuna Railway Station,Unawatuna,Landmark,Historic,6.0195,80.245,0,20,0,0,1,0.0
+460,Bonavista Temple,Unawatuna,Landmark,Temple,6.0221,80.237,0,30,0,0,1,1.0
+461,Wella Devalaya,Unawatuna,Landmark,Temple,6.009,80.248,0,30,1,0,1,1.0
+462,Unawatuna Mosque,Unawatuna,Landmark,Mosque,6.0135,80.244,0,30,0,0,0,1.0
+463,Rumassala South Beach,Unawatuna,Landmark,Beach,6.016,80.2355,0,90,1,1,0,0.0
+464,Sahana Beach,Unawatuna,Landmark,Beach,6.028,80.234,0,90,1,1,0,0.0
+465,Koggala Lake,Unawatuna,Landmark,Lake,5.99,80.31,0,120,0,1,0,0.0
+466,Sea Turtle Hatchery Habaraduwa,Unawatuna,Landmark,Nature,5.992,80.294,1000,60,1,1,0,0.0
+467,Thalpe Beach,Unawatuna,Landmark,Beach,5.9905,80.278,0,120,1,1,0,0.0
+468,Stilt Fishermen Viewpoint,Unawatuna,Landmark,Viewpoint,5.991,80.285,0,30,1,0,1,0.0
+469,Kathaluwa Purana Viharaya,Unawatuna,Landmark,Temple,5.9925,80.32,0,45,0,0,1,1.0
+470,Handunugoda Tea Estate,Unawatuna,Landmark,Nature,6.01,80.33,0,90,0,1,1,0.0
+471,Unawatuna Coral Reef,Unawatuna,Landmark,Nature,6.0105,80.2455,0,60,1,1,0,0.0
+472,Devanigala Temple,Unawatuna,Landmark,Temple,6.0205,80.2505,0,45,0,0,1,1.0
+473,Talpe Natural Pools,Unawatuna,Landmark,Nature,5.9895,80.279,0,60,1,1,0,0.0
+474,Rumassala Galle Fort Viewpoint,Unawatuna,Landmark,Viewpoint,6.021,80.234,0,30,1,1,0,0.0
+475,Martin Wickramasinghe Folk Museum,Unawatuna,Landmark,Museum,5.9908,80.306,1000,90,0,0,1,0.0
+476,Kingfisher Restaurant,Unawatuna,Restaurant,Seafood,6.0115,80.245,4000,90,1,0,0,0.0
+477,Bedspace Kitchen,Unawatuna,Restaurant,Fine Dining,6.015,80.246,5500,120,0,0,0,0.0
+478,SkinnyToms Deli,Unawatuna,Restaurant,Cafe,6.013,80.2475,2500,60,0,0,0,0.0
+479,Koha Surf Lounge,Unawatuna,Restaurant,Local,6.0125,80.247,2000,60,0,0,0,0.0
+480,La Boheme,Unawatuna,Restaurant,Italian,6.0132,80.2465,3500,90,0,0,0,0.0
+481,Jinas Vegetarian and Vegan,Unawatuna,Restaurant,Cafe,6.014,80.2455,2000,60,0,0,0,0.0
+482,Pink Elephant,Unawatuna,Restaurant,Local,6.0135,80.2472,1800,60,0,0,0,0.0
+483,Thaproban Beach House Restaurant,Unawatuna,Restaurant,Fine Dining,6.0118,80.2445,4500,120,1,0,0,0.0
+484,Happy Spice,Unawatuna,Restaurant,Local,6.0145,80.248,1500,60,0,0,0,0.0
+485,Tartaruga Hotel Restaurant,Unawatuna,Restaurant,Seafood,6.012,80.2455,3000,90,1,0,0,0.0
+486,Black & White Restaurant,Unawatuna,Restaurant,Seafood,6.011,80.246,3500,90,1,0,0,0.0
+487,The Rotti Shop Unawatuna,Unawatuna,Restaurant,Local,6.0142,80.2468,1000,45,0,0,0,0.0
+488,Wok Wok,Unawatuna,Restaurant,Asian,6.0138,80.247,2500,60,0,0,0,0.0
+489,The Hideout Unawatuna,Unawatuna,Restaurant,Cafe,6.016,80.248,2200,60,0,0,0,0.0
+490,Sea Waves Restaurant,Unawatuna,Restaurant,Local,6.0105,80.2475,2000,60,1,0,0,0.0
+491,Unawatuna Diving Centre,Unawatuna,Activity,Fun-time,6.0125,80.2455,8000,180,1,1,0,0.0
+492,Pearl Divers,Unawatuna,Activity,Fun-time,6.013,80.246,7500,180,1,1,0,0.0
+493,Karunas Cooking Class,Unawatuna,Activity,Workshops,6.0155,80.249,4000,150,0,0,0,0.0
+494,Sri Yoga Shala,Unawatuna,Activity,Leisure,6.018,80.255,2500,90,0,1,0,0.0
+495,Dalawella Rope Swing,Unawatuna,Activity,Fun-time,5.9986,80.2647,500,30,1,0,0,0.0
+496,Jungle Beach Snorkeling,Unawatuna,Activity,Fun-time,6.0175,80.2372,2000,90,1,1,0,0.0
+497,Spa Ceylon Unawatuna,Unawatuna,Activity,Leisure,6.0135,80.2468,6000,120,0,0,0,0.0
+498,Unawatuna Beach Road Shopping,Unawatuna,Activity,Shopping,6.014,80.247,0,90,0,0,0,0.0
+499,Deep Sea Fishing Unawatuna,Unawatuna,Activity,Leisure,6.011,80.245,15000,240,1,1,0,0.0
+500,Koggala Lake Boat Safari,Unawatuna,Activity,Leisure,5.99,80.31,3500,120,0,1,0,0.0
+501,Weligama Beach,Weligama,Landmark,Beach,5.972,80.43,0,120,1,1,0,0.0
+502,Taprobane Island,Weligama,Landmark,Historic,5.9702,80.4261,0,60,1,1,1,0.0
+503,Kushtarajagala Statue,Weligama,Landmark,Monument,5.9815,80.4182,0,45,0,0,1,1.0
+504,Sri Aggrabodhi Viharaya,Weligama,Landmark,Temple,5.978,80.425,0,60,0,0,1,1.0
+505,Pelena Beach,Weligama,Landmark,Beach,5.965,80.44,0,90,1,1,0,0.0
+506,Weligama Fishing Harbour,Weligama,Landmark,Market,5.968,80.42,0,60,1,0,1,0.0
+507,Midigama Beach,Weligama,Landmark,Beach,5.9665,80.3885,0,120,1,1,0,0.0
+508,Gurubebila Beach,Weligama,Landmark,Beach,5.966,80.402,0,90,1,1,0,0.0
+509,Polwatta River,Weligama,Landmark,Nature,5.985,80.435,0,90,0,1,0,0.0
+510,Snake Farm Weligama,Weligama,Landmark,Museum,5.996,80.45,1000,60,0,1,0,0.0
+511,Weligama Clock Tower,Weligama,Landmark,Monument,5.9745,80.428,0,15,0,0,1,0.0
+512,St. Mary's Church Weligama,Weligama,Landmark,Church,5.9725,80.426,0,30,0,0,1,1.0
+513,Weligama Jumma Mosque,Weligama,Landmark,Mosque,5.973,80.4295,0,30,0,0,0,1.0
+514,Abhayamudalindaramaya Temple,Weligama,Landmark,Temple,5.971,80.433,0,45,0,0,1,1.0
+515,Weligama Railway Station,Weligama,Landmark,Historic,5.976,80.43,0,20,0,0,1,0.0
+516,Kapparatota Fishery Harbour,Weligama,Landmark,Market,5.969,80.417,0,45,1,0,0,0.0
+517,Paravi Wella Beach,Weligama,Landmark,Beach,5.9705,80.423,0,90,1,1,0,0.0
+518,Weligama Fish Market,Weligama,Landmark,Market,5.9725,80.4285,0,45,1,0,0,0.0
+519,Weligama Bay Viewpoint,Weligama,Landmark,Viewpoint,5.9715,80.4255,0,30,1,1,0,0.0
+520,Sri Sudarshanaramaya Temple,Weligama,Landmark,Temple,5.9795,80.432,0,45,0,0,1,1.0
+521,Weligama Post Office,Weligama,Landmark,Historic,5.975,80.429,0,15,0,0,1,0.0
+522,Midigama Left Point,Weligama,Landmark,Viewpoint,5.9662,80.389,0,45,1,1,0,0.0
+523,Jungle Beach Weligama,Weligama,Landmark,Beach,5.975,80.415,0,90,1,1,0,0.0
+524,Kushtarajagala Viewpoint,Weligama,Landmark,Viewpoint,5.982,80.4185,0,30,0,1,1,0.0
+525,Weligama River Bridge,Weligama,Landmark,Viewpoint,5.981,80.4355,0,20,0,1,0,0.0
+526,Ceylon Sliders,Weligama,Restaurant,Cafe,5.9715,80.4265,3500,90,1,0,0,0.0
+527,Hangten Rooftop Restaurant,Weligama,Restaurant,Fine Dining,5.9725,80.428,4000,90,1,0,0,0.0
+528,Soul Cafe,Weligama,Restaurant,Cafe,5.9735,80.429,2500,60,0,0,0,0.0
+529,Meewitha Cool Spot,Weligama,Restaurant,Local,5.974,80.4285,1500,45,0,0,0,0.0
+530,Weligama Roti Shop,Weligama,Restaurant,Local,5.9742,80.4275,800,30,0,0,0,0.0
+531,Tiki Cliff Top Restaurant,Weligama,Restaurant,Seafood,5.97,80.424,4500,120,1,0,0,0.0
+532,Aloha Coffee Gallery,Weligama,Restaurant,Cafe,5.972,80.427,2200,60,0,0,0,0.0
+533,Fish Point Weligama,Weligama,Restaurant,Seafood,5.971,80.4295,3000,90,1,0,0,0.0
+534,Moochie's Weligama,Weligama,Restaurant,Cafe,5.973,80.4305,2800,60,0,0,0,0.0
+535,Nomad Cafe,Weligama,Restaurant,Cafe,5.9718,80.426,3200,60,0,0,0,0.0
+536,Blue Coral Restaurant,Weligama,Restaurant,Local,5.9755,80.431,2000,60,0,0,0,0.0
+537,W15 Restaurant,Weligama,Restaurant,Fine Dining,5.9728,80.4315,6500,120,1,0,0,0.0
+538,The Surfer Rooftop,Weligama,Restaurant,Seafood,5.9722,80.432,3500,90,1,0,0,0.0
+539,Chef Akila Kitchen,Weligama,Restaurant,Local,5.976,80.427,1800,60,0,0,0,0.0
+540,Rise Weligama,Weligama,Restaurant,Italian,5.9732,80.4288,3800,90,0,0,0,0.0
+541,Freedom Surf School,Weligama,Activity,Fun-time,5.9715,80.431,4000,120,1,1,0,0.0
+542,Weligama Surf Center,Weligama,Activity,Fun-time,5.972,80.43,3500,120,1,1,0,0.0
+543,Weligama Lace Weaving Factory,Weligama,Activity,Workshops,5.977,80.425,1500,60,0,0,1,0.0
+544,Good Spa Weligama,Weligama,Activity,Leisure,5.974,80.4255,6000,120,0,0,0,0.0
+545,Whale Watching Weligama,Weligama,Activity,Leisure,5.968,80.42,12000,240,1,1,0,0.0
+546,Pelican Surf Camp,Weligama,Activity,Fun-time,5.973,80.4325,4500,120,1,1,0,0.0
+547,Sri Lankan Cooking Class,Weligama,Activity,Workshops,5.9765,80.4265,3000,150,0,0,0,0.0
+548,Weligama Retail Market Walk,Weligama,Activity,Shopping,5.9745,80.4275,0,60,0,0,0,0.0
+549,Basecamp Weligama Yoga,Weligama,Activity,Leisure,5.971,80.425,2500,90,0,1,0,0.0
+550,Polwatta River Safari,Weligama,Activity,Leisure,5.985,80.435,3500,120,0,1,0,0.0
+551,Mirissa Beach,Mirissa,Landmark,Beach,5.9449,80.4581,0,120,1,1,0,0.0
+552,Coconut Tree Hill,Mirissa,Landmark,Viewpoint,5.9416,80.465,0,45,1,1,0,0.0
+553,Parrot Rock Bridge,Mirissa,Landmark,Viewpoint,5.9431,80.4578,0,30,1,1,0,0.0
+554,Secret Beach Mirissa,Mirissa,Landmark,Beach,5.9445,80.4492,0,120,1,1,0,0.0
+555,Sri Sunandarama Dharmayathanaya,Mirissa,Landmark,Temple,5.9505,80.4552,0,45,0,0,1,1.0
+556,Bandaramulla Temple,Mirissa,Landmark,Temple,5.949,80.463,0,45,0,0,1,1.0
+557,Mirissa Fisheries Harbour,Mirissa,Landmark,Monument,5.9483,80.4536,0,60,1,0,1,0.0
+558,Weligambay Beach,Mirissa,Landmark,Beach,5.943,80.45,0,90,1,1,0,0.0
+559,Turtle Point Mirissa,Mirissa,Landmark,Nature,5.944,80.461,0,60,1,1,0,0.0
+560,Thalaramba Beach,Mirissa,Landmark,Beach,5.9425,80.4705,0,90,1,1,0,0.0
+561,Mirissa Bodhiya,Mirissa,Landmark,Temple,5.9478,80.456,0,30,0,0,0,1.0
+562,Mirissa Lagoon,Mirissa,Landmark,Nature,5.952,80.455,0,60,0,1,0,0.0
+563,Giragala Viewpoint,Mirissa,Landmark,Viewpoint,5.9435,80.4585,0,30,1,1,0,0.0
+564,Udupila Clock Tower,Mirissa,Landmark,Monument,5.95,80.4545,0,15,0,0,1,0.0
+565,Kandavahari Temple,Mirissa,Landmark,Temple,5.9465,80.452,0,30,0,0,1,1.0
+566,Polhena Beach,Mirissa,Landmark,Beach,5.9372,80.5218,0,120,1,1,0,0.0
+567,Madiha Beach,Mirissa,Landmark,Beach,5.939,80.51,0,90,1,1,0,0.0
+568,Matara Paravi Duwa Temple,Mirissa,Landmark,Temple,5.9423,80.5485,0,45,1,0,1,1.0
+569,Star Fort Matara,Mirissa,Landmark,Museum,5.9472,80.5458,500,60,0,0,1,0.0
+570,Dondra Head Lighthouse,Mirissa,Landmark,Monument,5.9214,80.5898,500,60,1,0,1,0.0
+571,Weherahena Poorwarama Maha Viharaya,Mirissa,Landmark,Temple,5.961,80.575,0,60,0,0,1,1.0
+572,Martin Wickramasinghe Folk Museum,Mirissa,Landmark,Museum,5.9908,80.306,1000,90,0,0,1,0.0
+573,Koggala Lake,Mirissa,Landmark,Lake,5.99,80.31,0,120,0,1,0,0.0
+574,Kushtarajagala Statue,Mirissa,Landmark,Monument,5.9815,80.4182,0,45,0,0,1,1.0
+575,Taprobane Island,Mirissa,Landmark,Historic,5.9702,80.4261,0,60,1,1,1,0.0
+576,Zephyr Restaurant and Bar,Mirissa,Restaurant,Fine Dining,5.9452,80.457,4000,90,1,0,0,0.0
+577,Papa Mango,Mirissa,Restaurant,Seafood,5.944,80.463,3500,90,1,0,0,0.0
+578,Dewmini Roti Shop,Mirissa,Restaurant,Local,5.949,80.458,1000,45,0,0,0,0.0
+579,Shady Lane Mirissa,Mirissa,Restaurant,Cafe,5.946,80.459,2000,60,0,0,0,0.0
+580,Salt Mirissa,Mirissa,Restaurant,Seafood,5.9448,80.4585,3800,90,1,0,0,0.0
+581,Petti Petti Mirissa,Mirissa,Restaurant,Cafe,5.942,80.468,2500,60,1,0,0,0.0
+582,O Mirissa Cafe and Bistro,Mirissa,Restaurant,Cafe,5.947,80.4565,2200,60,0,0,0,0.0
+583,The Slow Vegan,Mirissa,Restaurant,Cafe,5.9455,80.4588,2800,60,1,0,0,0.0
+584,Bay Moon Restaurant,Mirissa,Restaurant,Seafood,5.9445,80.4575,3000,90,1,0,0,0.0
+585,Wood Space Mirissa,Mirissa,Restaurant,Local,5.9485,80.455,1500,60,0,0,0,0.0
+586,Palm Villa Restaurant,Mirissa,Restaurant,Local,5.9442,80.4595,2500,60,1,0,0,0.0
+587,Mirissa Eye,Mirissa,Restaurant,Seafood,5.945,80.456,4000,90,1,0,0,0.0
+588,Little Red House,Mirissa,Restaurant,Local,5.948,80.457,1800,60,0,0,0,0.0
+589,Ahimsa Vegan Cafe,Mirissa,Restaurant,Cafe,5.9465,80.458,2000,60,0,0,0,0.0
+590,Central Beach Inn Restaurant,Mirissa,Restaurant,Seafood,5.9447,80.4582,3200,90,1,0,0,0.0
+591,Raja and the Whales,Mirissa,Activity,Leisure,5.9483,80.4536,15000,240,1,1,0,0.0
+592,Mirissa Water Sports,Mirissa,Activity,Fun-time,5.948,80.454,8000,120,1,1,0,0.0
+593,Surf School Mirissa,Mirissa,Activity,Fun-time,5.945,80.458,4500,120,1,1,0,0.0
+594,Spa Ceylon Mirissa,Mirissa,Activity,Leisure,5.946,80.4575,6000,120,0,0,0,0.0
+595,Secret Beach Snorkeling,Mirissa,Activity,Fun-time,5.9445,80.4492,2000,90,1,1,0,0.0
+596,Sail Lanka Charter,Mirissa,Activity,Leisure,5.9485,80.453,20000,300,1,1,0,0.0
+597,Mirissa Surf Point,Mirissa,Activity,Fun-time,5.9442,80.4585,0,120,1,1,0,0.0
+598,Traditional Cooking Class Mirissa,Mirissa,Activity,Workshops,5.949,80.458,3500,150,0,0,0,0.0
+599,Mirissa Morning Fish Market,Mirissa,Activity,Shopping,5.948,80.453,0,60,1,0,0,0.0
+600,Secret Root Spa Mirissa,Mirissa,Activity,Leisure,5.95,80.456,5000,90,0,0,0,0.0
+601,Gregory Lake,Nuwara Eliya,Landmark,Lake,6.958,80.781,200,90,0,1,0,0.0
+602,Victoria Park,Nuwara Eliya,Landmark,Park,6.971,80.769,300,60,0,1,1,0.0
+603,Hakgala Botanical Garden,Nuwara Eliya,Landmark,Park,6.927,80.82,2000,120,0,1,0,0.0
+604,Pedro Tea Estate,Nuwara Eliya,Landmark,Museum,6.974,80.795,500,60,0,1,1,0.0
+605,Seetha Amman Temple,Nuwara Eliya,Landmark,Temple,6.932,80.814,0,45,0,0,1,1.0
+606,Galway's Land National Park,Nuwara Eliya,Landmark,Park,6.966,80.78,1000,90,0,1,0,0.0
+607,Lover's Leap Waterfall,Nuwara Eliya,Landmark,Nature,6.973,80.794,0,60,0,1,0,0.0
+608,Single Tree Hill,Nuwara Eliya,Landmark,Viewpoint,6.957,80.763,0,90,0,1,0,0.0
+609,Nuwara Eliya Post Office,Nuwara Eliya,Landmark,Historic,6.971,80.768,0,15,0,0,1,0.0
+610,Holy Trinity Church,Nuwara Eliya,Landmark,Church,6.973,80.767,0,30,0,0,1,1.0
+611,Bomburu Ella Waterfall,Nuwara Eliya,Landmark,Nature,6.946,80.867,0,120,0,1,0,0.0
+612,Ambewela Farms,Nuwara Eliya,Landmark,Nature,6.878,80.811,200,120,0,1,0,0.0
+613,Moon Plains,Nuwara Eliya,Landmark,Viewpoint,6.949,80.793,400,90,0,1,0,0.0
+614,Sri Bhakta Hanuman Temple,Nuwara Eliya,Landmark,Temple,7.042,80.669,0,45,0,0,1,1.0
+615,St. Francis Xavier's Church,Nuwara Eliya,Landmark,Church,6.97,80.769,0,30,0,0,1,1.0
+616,Shanthipura Viewpoint,Nuwara Eliya,Landmark,Viewpoint,6.978,80.751,0,45,0,1,0,0.0
+617,Glen Falls,Nuwara Eliya,Landmark,Nature,6.965,80.762,0,45,0,1,0,0.0
+618,Swarnagiri Maha Viharaya,Nuwara Eliya,Landmark,Temple,6.96,80.764,0,30,0,0,1,1.0
+619,Kande Ela Reservoir,Nuwara Eliya,Landmark,Nature,6.89,80.803,0,60,0,1,0,0.0
+620,Bluefield Tea Gardens,Nuwara Eliya,Landmark,Historic,7.027,80.627,0,60,0,1,1,0.0
+621,Damro Labookellie Tea Centre,Nuwara Eliya,Landmark,Museum,7.018,80.665,0,60,0,1,1,0.0
+622,Horton Plains National Park,Nuwara Eliya,Landmark,Park,6.805,80.806,4500,240,0,1,0,0.0
+623,Devon Falls Viewpoint,Nuwara Eliya,Landmark,Viewpoint,6.965,80.635,0,30,0,1,0,0.0
+624,St. Clair's Falls Viewpoint,Nuwara Eliya,Landmark,Viewpoint,6.953,80.64,0,30,0,1,0,0.0
+625,Ramboda Falls,Nuwara Eliya,Landmark,Nature,7.044,80.677,0,60,0,1,0,0.0
+626,Grand Indian,Nuwara Eliya,Restaurant,Fine Dining,6.972,80.766,4500,90,0,0,0,0.0
+627,The Pub,Nuwara Eliya,Restaurant,Local,6.97,80.769,2500,60,0,0,0,0.0
+628,Salmiya Italian Restaurant,Nuwara Eliya,Restaurant,Italian,6.963,80.774,2000,90,0,0,0,0.0
+629,De Silva Food Centre,Nuwara Eliya,Restaurant,Local,6.97,80.768,1000,45,0,0,0,0.0
+630,Cafe Chill Nuwara Eliya,Nuwara Eliya,Restaurant,Cafe,6.971,80.768,3000,60,0,0,0,0.0
+631,Magnolia All Day Dining,Nuwara Eliya,Restaurant,Fine Dining,6.972,80.765,5000,120,0,0,0,0.0
+632,Hill Club Dining Room,Nuwara Eliya,Restaurant,Fine Dining,6.973,80.763,6000,120,0,0,1,0.0
+633,Milano Restaurant,Nuwara Eliya,Restaurant,Local,6.971,80.768,1500,60,0,0,0,0.0
+634,Sithma Restaurant,Nuwara Eliya,Restaurant,Local,6.97,80.769,800,45,0,0,0,0.0
+635,Barnes Hall,Nuwara Eliya,Restaurant,Cafe,6.971,80.765,3500,90,0,0,1,0.0
+636,Grand Thai,Nuwara Eliya,Restaurant,Fine Dining,6.972,80.766,4500,90,0,0,0,0.0
+637,The Sackville,Nuwara Eliya,Restaurant,Cafe,6.973,80.764,3000,90,0,0,1,0.0
+638,Themparadu,Nuwara Eliya,Restaurant,Local,6.965,80.778,2000,60,0,0,0,0.0
+639,Amba Estate Cafe,Nuwara Eliya,Restaurant,Cafe,6.94,80.78,1500,60,0,1,0,0.0
+640,Hela Bojun Hala,Nuwara Eliya,Restaurant,Local,6.969,80.768,500,45,0,0,0,0.0
+641,Nuwara Eliya Golf Club,Nuwara Eliya,Activity,Leisure,6.974,80.761,5000,180,0,1,1,0.0
+642,Gregory Lake Boat Ride,Nuwara Eliya,Activity,Leisure,6.959,80.782,1500,45,0,1,0,0.0
+643,Bale Bazaar Winter Market,Nuwara Eliya,Activity,Shopping,6.971,80.77,0,60,0,0,0,0.0
+644,Pedro Tea Tasting Workshop,Nuwara Eliya,Activity,Workshops,6.974,80.795,1500,60,0,0,1,0.0
+645,Horse Riding Gregory Lake,Nuwara Eliya,Activity,Fun-time,6.958,80.781,1000,30,0,1,0,0.0
+646,Adma Agro Strawberry Picking,Nuwara Eliya,Activity,Leisure,6.89,80.803,1000,60,0,1,0,0.0
+647,Lake Gregory Cycling,Nuwara Eliya,Activity,Fun-time,6.96,80.78,500,60,0,1,0,0.0
+648,Central Market Walk,Nuwara Eliya,Activity,Shopping,6.969,80.769,0,60,0,0,0,0.0
+649,Ayurvedic Massage Centre,Nuwara Eliya,Activity,Leisure,6.965,80.765,4000,120,0,0,0,0.0
+650,Moon Plains ATV Ride,Nuwara Eliya,Activity,Fun-time,6.949,80.793,3500,60,0,1,0,0.0
+651,Nine Arches Bridge,Ella,Landmark,Monument,6.8767,81.0608,0,60,0,1,1,0.0
+652,Little Adam's Peak,Ella,Landmark,Viewpoint,6.8644,81.0628,0,120,0,1,0,0.0
+653,Ella Rock,Ella,Landmark,Viewpoint,6.858,81.045,0,240,0,1,0,0.0
+654,Ravana Falls,Ella,Landmark,Nature,6.841,81.054,0,60,0,1,0,0.0
+655,Ravana Cave,Ella,Landmark,Historic,6.848,81.055,200,90,0,1,1,0.0
+656,Ella Railway Station,Ella,Landmark,Historic,6.875,81.047,0,30,0,0,1,0.0
+657,Demodara Railway Loop,Ella,Landmark,Historic,6.9006,81.0617,0,60,0,0,1,0.0
+658,Halpewatte Tea Factory,Ella,Landmark,Museum,6.892,81.041,500,90,0,1,1,0.0
+659,Dhowa Rock Temple,Ella,Landmark,Temple,6.852,81.026,0,45,0,0,1,1.0
+660,Kithal Ella Waterfall,Ella,Landmark,Nature,6.865,81.04,0,45,0,1,0,0.0
+661,Kinellan Tea Estate,Ella,Landmark,Historic,6.87,81.042,0,60,0,1,1,0.0
+662,Demodara Railway Station,Ella,Landmark,Historic,6.9008,81.0615,0,30,0,0,1,0.0
+663,Kital Ella Railway Station,Ella,Landmark,Historic,6.867,81.038,0,15,0,0,1,0.0
+664,Ella Gap Viewpoint,Ella,Landmark,Viewpoint,6.873,81.049,0,30,0,1,0,0.0
+665,Secret Waterfall Ella,Ella,Landmark,Nature,6.855,81.035,0,60,0,1,0,0.0
+666,Sri Shylashantharamaya Temple,Ella,Landmark,Temple,6.8745,81.0485,0,30,0,0,1,1.0
+667,Rakkhiththa Kanda Aranya Senasanaya,Ella,Landmark,Temple,6.82,81.065,0,60,0,1,0,1.0
+668,Nil Diya Pokuna,Ella,Landmark,Nature,6.84,81.05,1000,120,0,1,1,0.0
+669,Kombukara Nature Pool,Ella,Landmark,Nature,6.86,81.05,0,60,0,1,0,0.0
+670,Bambaragama Falls,Ella,Landmark,Nature,6.835,81.06,0,45,0,1,0,0.0
+671,Ella Forest Reserve,Ella,Landmark,Park,6.865,81.055,0,120,0,1,0,0.0
+672,Mahamevnawa Buddhist Monastery Ella,Ella,Landmark,Temple,6.88,81.05,0,45,0,0,0,1.0
+673,Muthiyangana Raja Maha Vihara,Ella,Landmark,Temple,6.989,81.054,0,60,0,0,1,1.0
+674,Porawagala View Point,Ella,Landmark,Viewpoint,6.83,81.04,0,45,0,1,0,0.0
+675,Dunhinda Falls,Ella,Landmark,Nature,7.016,81.063,200,120,0,1,0,0.0
+676,Cafe Chill,Ella,Restaurant,Cafe,6.8738,81.0484,3500,90,0,0,0,0.0
+677,Matey Hut,Ella,Restaurant,Local,6.8745,81.0465,1500,60,0,0,0,0.0
+678,360 Ella,Ella,Restaurant,Fine Dining,6.874,81.048,4000,90,0,0,0,0.0
+679,AK Ristoro,Ella,Restaurant,Italian,6.8755,81.049,3500,90,0,0,0,0.0
+680,Nine Arch Cafe,Ella,Restaurant,Cafe,6.8765,81.0605,2000,60,0,1,0,0.0
+681,Dream Cafe,Ella,Restaurant,Cafe,6.8742,81.0482,2500,60,0,0,0,0.0
+682,Ella Flower Garden Resort Restaurant,Ella,Restaurant,Local,6.868,81.055,3000,90,0,1,0,0.0
+683,Adam's Breeze,Ella,Restaurant,Local,6.866,81.058,2500,60,0,1,0,0.0
+684,Raha Ella,Ella,Restaurant,Local,6.8735,81.0485,1800,60,0,0,0,0.0
+685,Pasla Roti Hut,Ella,Restaurant,Local,6.8748,81.0475,1000,45,0,0,0,0.0
+686,The Barn by Rathna Flora,Ella,Restaurant,Cafe,6.875,81.046,3500,90,0,0,0,0.0
+687,Art Cafe Umbrella,Ella,Restaurant,Cafe,6.872,81.047,2000,60,0,0,0,0.0
+688,Jade Green,Ella,Restaurant,Local,6.8745,81.048,2500,60,0,0,0,0.0
+689,Ceylon Tea Factory Restaurant,Ella,Restaurant,Fine Dining,6.876,81.0495,5000,120,0,0,1,0.0
+690,Starbeans Espresso Cafe,Ella,Restaurant,Cafe,6.8739,81.0483,2500,60,0,0,0,0.0
+691,Ella Spice Garden Cooking Class,Ella,Activity,Workshops,6.8725,81.049,4000,180,0,0,0,0.0
+692,Flying Ravana Mega Zipline,Ella,Activity,Fun-time,6.864,81.062,6000,90,0,1,0,0.0
+693,Ella Swing,Ella,Activity,Fun-time,6.8645,81.0615,1500,30,0,1,0,0.0
+694,Uva Halpewatte Tea Factory Tour,Ella,Activity,Workshops,6.892,81.041,1000,90,0,1,1,0.0
+695,Hela Osu Suwapiyasa Ayurveda Spa,Ella,Activity,Leisure,6.875,81.048,5000,120,0,0,0,0.0
+696,Ella Town Souvenir Shopping,Ella,Activity,Shopping,6.874,81.0485,0,60,0,0,0,0.0
+697,Matey Hut Cooking Class,Ella,Activity,Workshops,6.8745,81.0465,3500,150,0,0,0,0.0
+698,Quad Bike ATV Ella,Ella,Activity,Fun-time,6.863,81.063,8000,60,0,1,0,0.0
+699,Ella Jungle Resort Waterfall Trek,Ella,Activity,Leisure,6.845,81.05,3000,180,0,1,0,0.0
+700,Kinellan Tea Plucking Experience,Ella,Activity,Workshops,6.87,81.042,2000,120,0,1,1,0.0
+701,Sri Subhadraramaya Temple,Hatton,Landmark,Temple,6.892,80.596,0,45,0,0,0,1.0
+702,Castlereagh Reservoir,Hatton,Landmark,Lake,6.874,80.57,0,60,0,1,0,0.0
+703,Devon Falls Viewpoint,Hatton,Landmark,Viewpoint,6.965,80.635,0,30,0,1,0,0.0
+704,St. Clair's Falls Viewpoint,Hatton,Landmark,Viewpoint,6.953,80.64,0,30,0,1,0,0.0
+705,Christ Church Warleigh,Hatton,Landmark,Church,6.885,80.591,0,45,0,0,1,1.0
+706,Adam's Peak (Sri Pada),Hatton,Landmark,Temple,6.809,80.499,0,360,0,1,1,1.0
+707,Laxapana Falls,Hatton,Landmark,Nature,6.899,80.498,0,90,0,1,0,0.0
+708,Aberdeen Falls,Hatton,Landmark,Nature,6.945,80.505,0,90,0,1,0,0.0
+709,Mlesna Tea Castle St. Clair,Hatton,Landmark,Museum,6.951,80.636,0,60,0,0,1,0.0
+710,Hatton Clock Tower,Hatton,Landmark,Monument,6.89,80.596,0,15,0,0,1,0.0
+711,Norton Bridge Dam,Hatton,Landmark,Viewpoint,6.905,80.522,0,30,0,1,0,0.0
+712,Sri Muthumariamman Kovil,Hatton,Landmark,Temple,6.891,80.597,0,30,0,0,0,1.0
+713,Holy Cross Church,Hatton,Landmark,Church,6.893,80.599,0,30,0,0,0,1.0
+714,Hatton Railway Station,Hatton,Landmark,Historic,6.889,80.597,0,20,0,0,1,0.0
+715,Carolina Tea Factory,Hatton,Landmark,Historic,6.941,80.556,500,60,0,0,1,0.0
+716,Maskeliya Reservoir,Hatton,Landmark,Lake,6.837,80.563,0,60,0,1,0,0.0
+717,Mousakelle Reservoir Viewpoint,Hatton,Landmark,Viewpoint,6.829,80.548,0,30,0,1,0,0.0
+718,Mohini Falls,Hatton,Landmark,Nature,6.82,80.53,0,30,0,1,0,0.0
+719,Peak Wilderness Sanctuary,Hatton,Landmark,Park,6.811,80.525,1000,180,0,1,0,0.0
+720,Gartmore Falls,Hatton,Landmark,Nature,6.804,80.551,0,60,0,1,0,0.0
+721,Watawala Railway Station,Hatton,Landmark,Historic,6.953,80.536,0,20,0,0,1,0.0
+722,Rozella Railway Station,Hatton,Landmark,Historic,6.927,80.565,0,20,0,0,1,0.0
+723,Kotagala Railway Station,Hatton,Landmark,Historic,6.915,80.612,0,20,0,0,1,0.0
+724,Bogawantalawa Valley Viewpoint,Hatton,Landmark,Viewpoint,6.803,80.665,0,45,0,1,0,0.0
+725,Norwood Bridge,Hatton,Landmark,Historic,6.835,80.601,0,15,0,0,1,0.0
+726,Tea Quest Restaurant,Hatton,Restaurant,Local,6.8905,80.5975,1500,60,0,0,0,0.0
+727,Cafe Hatton,Hatton,Restaurant,Cafe,6.8895,80.598,1200,45,0,0,0,0.0
+728,Sri Ram Vegetarian Restaurant,Hatton,Restaurant,Local,6.8915,80.5965,800,45,0,0,0,0.0
+729,Devon Tea Centre Restaurant,Hatton,Restaurant,Cafe,6.9655,80.6355,2000,60,0,1,0,0.0
+730,St. Clair's Tea Centre Cafe,Hatton,Restaurant,Cafe,6.9535,80.6405,2500,60,0,1,0,0.0
+731,The Argyle Restaurant,Hatton,Restaurant,Fine Dining,6.895,80.592,5000,90,0,0,0,0.0
+732,Bake House Hatton,Hatton,Restaurant,Cafe,6.89,80.5985,1000,45,0,0,0,0.0
+733,Hill Top Restaurant,Hatton,Restaurant,Local,6.892,80.5955,1500,60,0,0,0,0.0
+734,Greenhills Restaurant,Hatton,Restaurant,Local,6.888,80.599,1800,60,0,0,0,0.0
+735,Up Country Food Court,Hatton,Restaurant,Local,6.891,80.598,1200,45,0,0,0,0.0
+736,Castlereagh Bungalow Dining,Hatton,Restaurant,Fine Dining,6.8745,80.5705,8000,120,0,1,1,0.0
+737,Hatton Muslim Hotel,Hatton,Restaurant,Local,6.8912,80.5972,1000,45,0,0,0,0.0
+738,Tea Trails Norwood Restaurant,Hatton,Restaurant,Fine Dining,6.8355,80.6015,10000,120,0,1,1,0.0
+739,Glencairn Bungalow Dining,Hatton,Restaurant,Fine Dining,6.88,80.585,7500,120,0,1,1,0.0
+740,Salgado Bakers,Hatton,Restaurant,Cafe,6.8898,80.5978,500,30,0,0,0,0.0
+741,Tea Plucking Experience,Hatton,Activity,Workshops,6.875,80.571,2000,90,0,1,0,0.0
+742,Castlereagh Kayaking,Hatton,Activity,Fun-time,6.873,80.569,3500,120,0,1,0,0.0
+743,Hatton Town Market Shopping,Hatton,Activity,Shopping,6.8905,80.5965,0,60,0,0,0,0.0
+744,Adam's Peak Night Hike,Hatton,Activity,Leisure,6.809,80.499,0,480,0,1,1,1.0
+745,Tea Factory Guided Tour,Hatton,Activity,Workshops,6.941,80.556,1500,90,0,1,1,0.0
+746,Castlereagh Boat Ride,Hatton,Activity,Leisure,6.874,80.57,4000,60,0,1,0,0.0
+747,Devon Falls Trekking,Hatton,Activity,Leisure,6.965,80.635,2500,180,0,1,0,0.0
+748,Hatton Fresh Produce Market,Hatton,Activity,Shopping,6.8915,80.598,0,45,0,0,0,0.0
+749,Ceylon Tea Tasting Workshop,Hatton,Activity,Workshops,6.951,80.636,2500,60,0,0,1,0.0
+750,Bogawantalawa Mountain Biking,Hatton,Activity,Fun-time,6.803,80.665,5000,180,0,1,0,0.0
+751,Sigiriya Rock Fortress,Sigiriya,Landmark,Historic,7.957,80.7603,10500,180,0,1,1,0.0
+752,Dambulla Cave Temple,Dambulla,Landmark,Temple,7.8566,80.6485,3000,120,0,0,1,1.0
+753,Pidurangala Rock,Sigiriya,Landmark,Viewpoint,7.9654,80.7622,1000,120,0,1,1,1.0
+754,Minneriya National Park,Sigiriya,Landmark,Park,8.034,80.826,8000,180,0,1,0,0.0
+755,Golden Temple of Dambulla,Dambulla,Landmark,Temple,7.8645,80.6515,0,45,0,0,1,1.0
+756,Sigiriya Museum,Sigiriya,Landmark,Museum,7.954,80.758,1500,60,0,0,1,0.0
+757,Kaudulla National Park,Sigiriya,Landmark,Park,8.15,80.91,7500,180,0,1,0,0.0
+758,Popham's Arboretum,Dambulla,Landmark,Park,7.85,80.63,1500,90,0,1,0,0.0
+759,Ibbankatuwa Megalithic Tombs,Dambulla,Landmark,Historic,7.828,80.627,500,60,0,0,1,0.0
+760,Rose Quartz Mountain (Jathika Namal Uyana),Dambulla,Landmark,Nature,7.781,80.531,1000,120,0,1,0,0.0
+761,Kaludiya Pokuna,Dambulla,Landmark,Historic,7.873,80.686,0,90,0,1,1,0.0
+762,Ritigala Forest Monastery,Sigiriya,Landmark,Historic,8.113,80.655,1500,120,0,1,1,1.0
+763,Kandalama Reservoir,Dambulla,Landmark,Lake,7.885,80.697,0,60,0,1,0,0.0
+764,Sigiriya Frescoes,Sigiriya,Landmark,Historic,7.9572,80.7601,0,30,0,0,1,0.0
+765,Mirror Wall Sigiriya,Sigiriya,Landmark,Historic,7.9575,80.76,0,30,0,0,1,0.0
+766,Sigiriya Water Gardens,Sigiriya,Landmark,Historic,7.955,80.758,0,45,0,1,1,0.0
+767,Dambulla Produce Market,Dambulla,Landmark,Market,7.875,80.65,0,60,0,0,0,0.0
+768,Pelwehera Farm,Dambulla,Landmark,Nature,7.892,80.665,200,60,0,1,0,0.0
+769,Sigiriya Lion's Paws,Sigiriya,Landmark,Monument,7.958,80.7605,0,30,0,0,1,0.0
+770,Rangiri Dambulla International Stadium,Dambulla,Landmark,Park,7.871,80.651,0,60,0,0,0,0.0
+771,Dambulla Somawathi Stupa,Dambulla,Landmark,Temple,7.859,80.648,0,45,0,0,1,1.0
+772,Kimbissa Ancient Village Temple,Sigiriya,Landmark,Temple,7.93,80.74,0,45,0,0,1,1.0
+773,Mapagala Fortress,Sigiriya,Landmark,Historic,7.95,80.761,0,60,0,0,1,0.0
+774,Menikdena Archaeological Reserve,Dambulla,Landmark,Historic,7.8,80.6,500,90,0,1,1,1.0
+775,Hurulu Eco Park,Sigiriya,Landmark,Park,8.085,80.82,6000,180,0,1,0,0.0
+776,Mango Mango,Dambulla,Restaurant,Local,7.875,80.65,2500,60,0,0,0,0.0
+777,Rasta Rant,Sigiriya,Restaurant,Cafe,7.95,80.75,2000,90,0,0,0,0.0
+778,Pradeep Restaurant,Sigiriya,Restaurant,Local,7.955,80.745,1500,60,0,0,0,0.0
+779,Wijesiri Family Restaurant,Sigiriya,Restaurant,Local,7.96,80.748,1800,60,0,0,0,0.0
+780,Cafe Gazebo,Sigiriya,Restaurant,Cafe,7.95,80.74,2500,60,0,0,0,0.0
+781,Ahinsa Restaurant,Sigiriya,Restaurant,Local,7.956,80.742,1200,45,0,0,0,0.0
+782,Bentota Bake House Dambulla,Dambulla,Restaurant,Cafe,7.865,80.65,1000,30,0,0,0,0.0
+783,Sakura Restaurant,Dambulla,Restaurant,Fine Dining,7.87,80.645,4500,90,0,0,0,0.0
+784,Benthota Village Restaurant,Dambulla,Restaurant,Local,7.86,80.64,1500,60,0,0,0,0.0
+785,Chooti Restaurant,Sigiriya,Restaurant,Local,7.952,80.745,1800,60,0,0,0,0.0
+786,Sigiri Nirmana Restaurant,Sigiriya,Restaurant,Local,7.948,80.74,2000,60,0,0,0,0.0
+787,Heritance Kandalama Dining,Dambulla,Restaurant,Fine Dining,7.886,80.697,8000,120,0,1,0,0.0
+788,Kanchana Restaurant,Sigiriya,Restaurant,Local,7.96,80.75,2200,60,0,0,0,0.0
+789,Dambulla Heritage Restaurant,Dambulla,Restaurant,Local,7.865,80.655,1800,60,0,0,0,0.0
+790,New Sigiri Caffe,Sigiriya,Restaurant,Cafe,7.953,80.746,1500,60,0,0,0,0.0
+791,Sigiriya Village Bullock Cart Tour,Sigiriya,Activity,Fun-time,7.94,80.745,3500,120,0,1,1,0.0
+792,Minneriya Elephant Safari,Dambulla,Activity,Leisure,8.035,80.825,15000,180,0,1,0,0.0
+793,Hot Air Ballooning Dambulla,Dambulla,Activity,Fun-time,7.885,80.695,30000,240,0,1,0,0.0
+794,Traditional Cooking Class Sigiriya,Sigiriya,Activity,Workshops,7.952,80.742,4000,150,0,0,0,0.0
+795,Wood Carving Workshop Sigiriya,Sigiriya,Activity,Workshops,7.945,80.74,2500,90,0,0,1,0.0
+796,Dambulla Wholesale Market Tour,Dambulla,Activity,Shopping,7.876,80.651,0,60,0,0,0,0.0
+797,Sigiriya Ayurveda Spa,Sigiriya,Activity,Leisure,7.948,80.738,6000,120,0,0,0,0.0
+798,Kandalama Boat Ride,Dambulla,Activity,Leisure,7.886,80.698,2500,60,0,1,0,0.0
+799,Elephant Ride Habarana,Sigiriya,Activity,Leisure,8.03,80.75,5000,60,0,1,0,0.0
+800,Batik Factory Tour Dambulla,Dambulla,Activity,Workshops,7.86,80.64,1000,60,0,0,1,0.0
+801,Jaya Sri Maha Bodhi,Anuradhapura,Landmark,Temple,8.3444,80.3966,0,60,0,1,1,1.0
+802,Ruwanwelisaya,Anuradhapura,Landmark,Temple,8.35,80.3961,0,90,0,0,1,1.0
+803,Thuparamaya,Anuradhapura,Landmark,Temple,8.3556,80.3965,0,45,0,0,1,1.0
+804,Jetavanaramaya,Anuradhapura,Landmark,Temple,8.3526,80.4027,8000,60,0,0,1,1.0
+805,Abhayagiri Viharaya,Anuradhapura,Landmark,Temple,8.3712,80.3953,8000,90,0,0,1,1.0
+806,Lovamahapaya,Anuradhapura,Landmark,Historic,8.3458,80.397,0,30,0,0,1,1.0
+807,Mirisawetiya Vihara,Anuradhapura,Landmark,Temple,8.3448,80.3888,0,45,0,0,1,1.0
+808,Lankarama,Anuradhapura,Landmark,Temple,8.3622,80.3883,0,30,0,0,1,1.0
+809,Isurumuniya,Anuradhapura,Landmark,Temple,8.3344,80.39,500,60,0,0,1,1.0
+810,Kuttam Pokuna (Twin Ponds),Anuradhapura,Landmark,Historic,8.3742,80.4014,0,30,0,0,1,0.0
+811,Samadhi Buddha Statue,Anuradhapura,Landmark,Monument,8.3705,80.398,0,30,0,1,1,1.0
+812,Eth Pokuna (Elephant Pond),Anuradhapura,Landmark,Historic,8.3688,80.3934,0,30,0,0,1,0.0
+813,Anuradhapura Archaeological Museum,Anuradhapura,Landmark,Museum,8.3491,80.3946,1500,90,0,0,1,0.0
+814,Abhayagiri Museum,Anuradhapura,Landmark,Museum,8.371,80.3955,0,60,0,0,1,0.0
+815,Sandakada Pahana (Moonstone),Anuradhapura,Landmark,Historic,8.3725,80.392,0,30,0,0,1,0.0
+816,Ratnaprasada Guardstone,Anuradhapura,Landmark,Historic,8.3718,80.393,0,30,0,0,1,0.0
+817,Nuwara Wewa,Anuradhapura,Landmark,Lake,8.3445,80.4215,0,60,0,1,0,0.0
+818,Tissa Wewa,Anuradhapura,Landmark,Lake,8.34,80.38,0,60,0,1,0,0.0
+819,Basawakkulama Wewa,Anuradhapura,Landmark,Lake,8.351,80.386,0,60,0,1,1,0.0
+820,Vessagiri Ruins,Anuradhapura,Landmark,Historic,8.3245,80.388,0,45,0,1,1,1.0
+821,Ranmasu Uyana (Royal Park),Anuradhapura,Landmark,Park,8.3385,80.39,0,60,0,1,1,0.0
+822,Dakkhina Stupa,Anuradhapura,Landmark,Historic,8.3365,80.3945,0,30,0,0,1,1.0
+823,Nellikulama Temple,Anuradhapura,Landmark,Temple,8.32,80.36,0,45,0,0,0,1.0
+824,Toluvila Ruins,Anuradhapura,Landmark,Historic,8.333,80.405,0,30,0,0,1,1.0
+825,Ashokaramaya Ruins,Anuradhapura,Landmark,Historic,8.363,80.384,0,30,0,0,1,1.0
+826,Mango Mango,Anuradhapura,Restaurant,Local,8.3265,80.4132,2500,60,0,0,0,0.0
+827,Casserole Restaurant,Anuradhapura,Restaurant,Fine Dining,8.33,80.41,4500,90,0,0,0,0.0
+828,Seedevi Family Restaurant,Anuradhapura,Restaurant,Local,8.3285,80.412,2000,60,0,0,0,0.0
+829,Walkers Restaurant,Anuradhapura,Restaurant,Local,8.325,80.415,1500,60,0,0,0,0.0
+830,Milano Tourist Rest Restaurant,Anuradhapura,Restaurant,Local,8.331,80.411,1800,60,0,0,0,0.0
+831,Nelum Kole Bath Kade,Anuradhapura,Restaurant,Local,8.335,80.41,800,45,0,0,0,0.0
+832,Salgado Hotel & Bakery,Anuradhapura,Restaurant,Cafe,8.3355,80.409,1000,45,0,0,0,0.0
+833,Rajarata Hotel Dining,Anuradhapura,Restaurant,Fine Dining,8.3405,80.416,5000,120,0,0,0,0.0
+834,Ambula Anuradhapura,Anuradhapura,Restaurant,Local,8.336,80.408,1200,45,0,0,0,0.0
+835,Charing Cross Cafe,Anuradhapura,Restaurant,Cafe,8.332,80.413,1500,60,0,0,0,0.0
+836,Little Paradise Restaurant,Anuradhapura,Restaurant,Local,8.324,80.411,2000,60,0,0,0,0.0
+837,Water's Edge Family Restaurant,Anuradhapura,Restaurant,Local,8.345,80.42,3000,90,0,1,0,0.0
+838,Sanctuary at Tissawewa Restaurant,Anuradhapura,Restaurant,Fine Dining,8.338,80.386,5500,120,0,1,1,0.0
+839,Hotel White House Restaurant,Anuradhapura,Restaurant,Local,8.3315,80.4115,2200,60,0,0,0,0.0
+840,The Lakeside at Nuwarawewa,Anuradhapura,Restaurant,Fine Dining,8.342,80.421,6000,120,0,1,0,0.0
+841,Anuradhapura Bicycle Tour,Anuradhapura,Activity,Leisure,8.33,80.41,2500,180,0,1,1,0.0
+842,Traditional Wood Carving Workshop,Anuradhapura,Activity,Workshops,8.32,80.415,3000,120,0,0,1,0.0
+843,Anuradhapura New Town Market,Anuradhapura,Activity,Shopping,8.328,80.412,0,60,0,0,0,0.0
+844,Tissa Wewa Sunset Walk,Anuradhapura,Activity,Leisure,8.34,80.38,0,60,0,1,0,0.0
+845,Wilpattu Safari Day Tour,Anuradhapura,Activity,Fun-time,8.335,80.41,15000,360,0,1,0,0.0
+846,Clay Pottery Making Class,Anuradhapura,Activity,Workshops,8.315,80.405,2000,90,0,0,1,0.0
+847,Nuwara Wewa Boat Safari,Anuradhapura,Activity,Leisure,8.345,80.421,3500,90,0,1,0,0.0
+848,Anuradhapura Shopping Arcade,Anuradhapura,Activity,Shopping,8.329,80.414,0,60,0,0,0,0.0
+849,Ayurveda Relaxation Spa,Anuradhapura,Activity,Leisure,8.3305,80.4125,5000,120,0,0,0,0.0
+850,Anuradhapura Night Food Market,Anuradhapura,Activity,Fun-time,8.327,80.413,1500,90,0,0,0,0.0
+851,Gal Vihara,Polonnaruwa,Landmark,Temple,7.9656,81.0051,0,60,0,0,1,1.0
+852,Polonnaruwa Vatadage,Polonnaruwa,Landmark,Temple,7.9472,81.0011,0,45,0,0,1,1.0
+853,Royal Palace of King Parakramabahu,Polonnaruwa,Landmark,Historic,7.936,81.0003,0,45,0,0,1,0.0
+854,Rankoth Vehera,Polonnaruwa,Landmark,Temple,7.9577,81.0033,0,45,0,0,1,1.0
+855,Parakrama Samudra,Polonnaruwa,Landmark,Lake,7.93,80.98,0,120,0,1,1,0.0
+856,Archaeological Museum Polonnaruwa,Polonnaruwa,Landmark,Museum,7.9333,80.9983,9000,90,0,0,1,0.0
+857,Lankatilaka Vihara,Polonnaruwa,Landmark,Temple,7.961,81.0035,0,45,0,0,1,1.0
+858,Nissanka Latha Mandapaya,Polonnaruwa,Landmark,Historic,7.9475,81.0013,0,30,0,0,1,0.0
+859,Kiri Vehera,Polonnaruwa,Landmark,Temple,7.962,81.0038,0,30,0,0,1,1.0
+860,Thuparama Image House,Polonnaruwa,Landmark,Temple,7.9468,81.001,0,45,0,0,1,1.0
+861,Hatadage,Polonnaruwa,Landmark,Temple,7.9474,81.0015,0,30,0,0,1,1.0
+862,Gal Potha (Stone Book),Polonnaruwa,Landmark,Historic,7.9476,81.0018,0,30,0,0,1,0.0
+863,Kumara Pokuna,Polonnaruwa,Landmark,Historic,7.9365,81.002,0,30,0,0,1,0.0
+864,Shiva Devalaya No. 2,Polonnaruwa,Landmark,Temple,7.943,81.0025,0,30,0,0,1,1.0
+865,Shiva Devalaya No. 1,Polonnaruwa,Landmark,Temple,7.9465,81.0018,0,30,0,0,1,1.0
+866,Nelum Pokuna (Lotus Pond),Polonnaruwa,Landmark,Historic,7.966,81.0035,0,30,0,0,1,0.0
+867,Pabalu Vehera,Polonnaruwa,Landmark,Temple,7.949,81.003,0,30,0,0,1,1.0
+868,Satmahal Prasada,Polonnaruwa,Landmark,Historic,7.9478,81.0017,0,20,0,0,1,0.0
+869,Tivanka Image House,Polonnaruwa,Landmark,Temple,7.9715,81.0055,0,45,0,0,1,1.0
+870,Pothgul Viharaya,Polonnaruwa,Landmark,Temple,7.921,80.999,0,45,0,0,1,1.0
+871,Statue of King Parakramabahu,Polonnaruwa,Landmark,Monument,7.922,80.9995,0,30,0,0,1,0.0
+872,Baddhasima Prasada,Polonnaruwa,Landmark,Historic,7.9605,81.003,0,30,0,0,1,0.0
+873,Somawathiya Chaitiya Sanctuary,Polonnaruwa,Landmark,Park,8.115,81.168,2500,180,0,1,1,1.0
+874,Wasgamuwa National Park,Polonnaruwa,Landmark,Park,7.716,80.933,6500,240,0,1,0,0.0
+875,Giritale Tank,Polonnaruwa,Landmark,Lake,7.994,80.923,0,60,0,1,0,0.0
+876,Priyamali Gedara,Polonnaruwa,Restaurant,Local,7.945,81.0,1500,60,0,0,0,0.0
+877,Jaga Food,Polonnaruwa,Restaurant,Local,7.935,80.995,2000,60,0,0,0,0.0
+878,Thidas Arana Restaurant,Polonnaruwa,Restaurant,Fine Dining,7.94,81.0,4000,90,0,0,0,0.0
+879,The Lake Restaurant,Polonnaruwa,Restaurant,Fine Dining,7.93,80.985,5500,120,0,1,0,0.0
+880,Giritale Hotel Restaurant,Polonnaruwa,Restaurant,Fine Dining,7.995,80.925,6000,120,0,1,0,0.0
+881,Seya Polonnaruwa,Polonnaruwa,Restaurant,Cafe,7.933,80.99,1500,60,0,0,0,0.0
+882,Hotel Sudu Araliya Dining,Polonnaruwa,Restaurant,Fine Dining,7.932,80.988,7500,120,0,1,0,0.0
+883,Polonnaruwa Rest House Restaurant,Polonnaruwa,Restaurant,Local,7.934,80.995,3000,90,0,0,1,0.0
+884,Banana Leaf Polonnaruwa,Polonnaruwa,Restaurant,Local,7.942,80.998,1200,45,0,0,0,0.0
+885,Darshana Hotel,Polonnaruwa,Restaurant,Local,7.945,80.992,1000,45,0,0,0,0.0
+886,Royal Lotus Restaurant,Polonnaruwa,Restaurant,Fine Dining,7.996,80.926,5000,90,0,1,0,0.0
+887,Cafe Chill Polonnaruwa,Polonnaruwa,Restaurant,Cafe,7.938,80.995,2200,60,0,0,0,0.0
+888,Deer Park Hotel Dining,Polonnaruwa,Restaurant,Fine Dining,7.994,80.92,6500,120,0,1,0,0.0
+889,Wijaya Inn Restaurant,Polonnaruwa,Restaurant,Local,7.94,80.99,1800,60,0,0,0,0.0
+890,Mahanuge Restaurant,Polonnaruwa,Restaurant,Local,7.937,80.992,2500,90,0,0,0,0.0
+891,Polonnaruwa Bicycle Tour,Polonnaruwa,Activity,Leisure,7.94,80.995,1500,240,0,1,1,0.0
+892,Parakrama Samudra Boat Ride,Polonnaruwa,Activity,Leisure,7.93,80.985,3000,60,0,1,0,0.0
+893,Wood Carving Workshop Polonnaruwa,Polonnaruwa,Activity,Workshops,7.945,80.99,2000,90,0,0,1,0.0
+894,Batik Shopping Polonnaruwa,Polonnaruwa,Activity,Shopping,7.942,80.992,0,60,0,0,0,0.0
+895,Jeep Safari Wasgamuwa,Polonnaruwa,Activity,Fun-time,7.716,80.933,12000,240,0,1,0,0.0
+896,Traditional Sri Lankan Cooking Class,Polonnaruwa,Activity,Workshops,7.935,80.995,3500,150,0,0,0,0.0
+897,Polonnaruwa Local Market Walk,Polonnaruwa,Activity,Shopping,7.94,80.995,0,60,0,0,0,0.0
+898,Monkey Kingdom Tour,Polonnaruwa,Activity,Leisure,7.933,80.998,4000,120,0,1,1,0.0
+899,Giritale Tank Bird Watching,Polonnaruwa,Activity,Leisure,7.994,80.923,2500,120,0,1,0,0.0
+900,Ayurveda Spa Polonnaruwa,Polonnaruwa,Activity,Leisure,7.932,80.988,5500,120,0,0,0,0.0
+901,Yala National Park,Tissamaharama,Landmark,Park,6.3753,81.444,15000,240,0,1,0,0.0
+902,Tissa Wewa,Tissamaharama,Landmark,Nature,6.2861,81.2869,0,60,0,1,0,0.0
+903,Tissamaharama Raja Maha Vihara,Tissamaharama,Landmark,Temple,6.2797,81.2844,0,45,0,0,1,1.0
+904,Yatala Vehera,Tissamaharama,Landmark,Temple,6.275,81.28,0,30,0,0,1,1.0
+905,Bundala National Park,Tissamaharama,Landmark,Park,6.2052,81.2294,8000,180,0,1,0,0.0
+906,Kirinda Viharaya,Tissamaharama,Landmark,Temple,6.2166,81.3344,0,45,1,0,1,1.0
+907,Kirinda Beach,Tissamaharama,Landmark,Beach,6.2155,81.332,0,120,1,1,0,0.0
+908,Sandagiri Stupa,Tissamaharama,Landmark,Temple,6.2808,81.2855,0,30,0,0,1,1.0
+909,Sithulpawwa Rock Temple,Tissamaharama,Landmark,Temple,6.398,81.411,0,90,0,1,1,1.0
+910,Kataragama Temple,Tissamaharama,Landmark,Temple,6.415,81.3325,0,60,0,0,1,1.0
+911,Lunugamvehera National Park,Tissamaharama,Landmark,Park,6.3772,81.1813,6000,180,0,1,0,0.0
+912,Kumana National Park,Tissamaharama,Landmark,Park,6.5167,81.65,10000,240,0,1,0,0.0
+913,Nimalawa Sanctuary,Tissamaharama,Landmark,Nature,6.23,81.3,0,90,0,1,0,0.0
+914,Debarawewa Lake,Tissamaharama,Landmark,Nature,6.295,81.275,0,60,0,1,0,0.0
+915,Yoda Wewa,Tissamaharama,Landmark,Nature,6.255,81.315,0,60,0,1,0,0.0
+916,Magul Maha Viharaya,Tissamaharama,Landmark,Temple,6.402,81.425,500,60,0,0,1,1.0
+917,Palatupana Beach,Tissamaharama,Landmark,Beach,6.25,81.38,0,120,1,1,0,0.0
+918,Yala Block 1 Entrance,Tissamaharama,Landmark,Park,6.2711,81.3933,0,30,0,1,0,0.0
+919,Menik Ganga,Tissamaharama,Landmark,Nature,6.4,81.335,0,60,0,1,0,0.0
+920,Sella Kataragama Temple,Tissamaharama,Landmark,Temple,6.44,81.315,0,45,0,0,1,1.0
+921,Tissamaharama Clock Tower,Tissamaharama,Landmark,Monument,6.28,81.286,0,15,0,0,1,0.0
+922,Kiri Vehera Kataragama,Tissamaharama,Landmark,Temple,6.417,81.331,0,45,0,0,1,1.0
+923,Ranminitenna Tele Cinema Village,Tissamaharama,Landmark,Museum,6.315,81.34,1000,90,0,0,1,0.0
+924,Beralihela,Tissamaharama,Landmark,Viewpoint,6.32,81.24,0,90,0,1,0,0.0
+925,Akurugoda Ruins,Tissamaharama,Landmark,Historic,6.278,81.282,0,45,0,0,1,0.0
+926,Roots Restaurant,Tissamaharama,Restaurant,Local,6.2785,81.285,1500,60,0,0,0,0.0
+927,Chef Lady Restaurant,Tissamaharama,Restaurant,Local,6.281,81.2875,1800,60,0,0,0,0.0
+928,Refresh Cabanas Restaurant,Tissamaharama,Restaurant,Local,6.276,81.283,2000,60,0,0,0,0.0
+929,Smoky Kitchen,Tissamaharama,Restaurant,Fine Dining,6.282,81.288,4500,90,0,0,0,0.0
+930,Flavors Restaurant Tissa,Tissamaharama,Restaurant,Local,6.2805,81.2865,1200,45,0,0,0,0.0
+931,The Thaulle Restaurant,Tissamaharama,Restaurant,Fine Dining,6.265,81.31,5500,120,0,1,0,0.0
+932,Yala Peace Haven Restaurant,Tissamaharama,Restaurant,Local,6.2755,81.2825,2500,60,0,0,0,0.0
+933,Tissa Inn Restaurant,Tissamaharama,Restaurant,Local,6.279,81.284,1500,60,0,0,0,0.0
+934,Waka Waka Restaurant,Tissamaharama,Restaurant,Cafe,6.2815,81.289,2000,60,0,0,0,0.0
+935,River Side Restaurant,Tissamaharama,Restaurant,Local,6.283,81.2855,1800,60,0,1,0,0.0
+936,Water Safari Restaurant,Tissamaharama,Restaurant,Fine Dining,6.285,81.282,5000,120,0,1,0,0.0
+937,Nature Resort Restaurant,Tissamaharama,Restaurant,Local,6.274,81.281,1500,60,0,0,0,0.0
+938,Leopard Cafe,Tissamaharama,Restaurant,Cafe,6.27,81.39,2500,60,0,1,0,0.0
+939,Chill Cafe Tissa,Tissamaharama,Restaurant,Cafe,6.2788,81.2855,1500,60,0,0,0,0.0
+940,Safari Lounge,Tissamaharama,Restaurant,Cafe,6.277,81.2835,1800,60,0,0,0,0.0
+941,Yala Morning Safari,Tissamaharama,Activity,Leisure,6.271,81.393,12000,240,0,1,0,0.0
+942,Bundala Bird Watching Tour,Tissamaharama,Activity,Leisure,6.205,81.229,6000,180,0,1,0,0.0
+943,Tissa Wewa Boat Ride,Tissamaharama,Activity,Fun-time,6.286,81.2865,3000,60,0,1,0,0.0
+944,Potters Village Visit,Tissamaharama,Activity,Workshops,6.29,81.27,1000,90,0,0,1,0.0
+945,Curd Making Workshop,Tissamaharama,Activity,Workshops,6.26,81.31,1500,60,0,0,0,0.0
+946,Yala Night Safari Camping,Tissamaharama,Activity,Fun-time,6.375,81.444,25000,720,0,1,0,0.0
+947,Tissamaharama Sunday Market,Tissamaharama,Activity,Shopping,6.28,81.285,0,60,0,0,0,0.0
+948,Kataragama Pooja Experience,Tissamaharama,Activity,Leisure,6.415,81.3325,0,90,0,0,1,1.0
+949,Debarawewa Lake Fishing,Tissamaharama,Activity,Fun-time,6.295,81.275,2000,120,0,1,0,0.0
+950,Gem Shopping Tissa,Tissamaharama,Activity,Shopping,6.2795,81.2845,0,60,0,0,0,0.0
+951,Udawalawe National Park,Udawalawe,Landmark,Park,6.4382,80.8893,12000,240,0,1,0,0.0
+952,Elephant Transit Home,Udawalawe,Landmark,Nature,6.4601,80.8687,1500,60,0,1,0,0.0
+953,Udawalawe Reservoir,Udawalawe,Landmark,Lake,6.4678,80.8654,0,60,0,1,0,0.0
+954,Sankhapala Raja Maha Viharaya,Udawalawe,Landmark,Temple,6.3885,80.7856,0,60,0,0,1,1.0
+955,Walawe River,Udawalawe,Landmark,Nature,6.425,80.88,0,90,0,1,0,0.0
+956,Maduwanwela Walawwa,Udawalawe,Landmark,Historic,6.3458,80.7412,500,90,0,0,1,0.0
+957,Wavulpane Limestone Cave,Udawalawe,Landmark,Nature,6.3892,80.6975,1000,120,0,1,1,0.0
+958,Chandrika Wewa,Udawalawe,Landmark,Lake,6.3325,80.8416,0,60,0,1,0,0.0
+959,Mau Ara Reservoir,Udawalawe,Landmark,Lake,6.395,80.952,0,60,0,1,0,0.0
+960,Ramba Viharaya,Udawalawe,Landmark,Temple,6.2355,80.9664,0,45,0,0,1,1.0
+961,Udawalawe Dam,Udawalawe,Landmark,Monument,6.452,80.875,0,30,0,1,1,0.0
+962,Suriyakanda Viewpoint,Udawalawe,Landmark,Viewpoint,6.456,80.603,0,60,0,1,0,0.0
+963,Panamure Elephant Kraal,Udawalawe,Landmark,Historic,6.355,80.801,0,45,0,0,1,0.0
+964,Udawalawe Spillway,Udawalawe,Landmark,Viewpoint,6.458,80.878,0,30,0,1,0,0.0
+965,Sri Bodhirajarama Viharaya,Udawalawe,Landmark,Temple,6.471,80.886,0,30,0,0,0,1.0
+966,Diyawini Ella,Udawalawe,Landmark,Nature,6.662,80.812,0,90,0,1,0,0.0
+967,Duvili Ella,Udawalawe,Landmark,Nature,6.671,80.818,0,90,0,1,0,0.0
+968,Handagiriya Temple,Udawalawe,Landmark,Temple,6.435,80.89,0,45,0,0,1,1.0
+969,Uggal Aluthnuwara Devalaya,Udawalawe,Landmark,Temple,6.67,80.78,0,45,0,0,1,1.0
+970,Habaralu Wewa,Udawalawe,Landmark,Lake,6.43,80.91,0,60,0,1,0,0.0
+971,Kiriibban Wewa,Udawalawe,Landmark,Lake,6.415,80.93,0,60,0,1,0,0.0
+972,Rakwana Viewpoint,Udawalawe,Landmark,Viewpoint,6.465,80.612,0,45,0,1,0,0.0
+973,National Park Visitor Centre,Udawalawe,Landmark,Museum,6.46,80.869,0,30,0,1,1,0.0
+974,Kachchigala Wewa,Udawalawe,Landmark,Lake,6.35,80.88,0,60,0,1,0,0.0
+975,Sevanagala Sugar Factory Monument,Udawalawe,Landmark,Historic,6.38,80.91,0,30,0,0,1,0.0
+976,Common Lanka Restaurant,Udawalawe,Restaurant,Local,6.4695,80.888,1500,60,0,0,0,0.0
+977,Kalu's Hideaway Restaurant,Udawalawe,Restaurant,Fine Dining,6.452,80.891,4500,90,0,0,0,0.0
+978,Grand Udawalawe Safari Resort Dining,Udawalawe,Restaurant,Fine Dining,6.458,80.882,5500,120,0,0,0,0.0
+979,Centauria Wild Dining,Udawalawe,Restaurant,Fine Dining,6.462,80.875,5000,90,0,1,0,0.0
+980,Mansala Safari House Cafe,Udawalawe,Restaurant,Cafe,6.468,80.885,2000,60,0,0,0,0.0
+981,Elephant Rest Restaurant,Udawalawe,Restaurant,Local,6.4605,80.87,1800,60,0,0,0,0.0
+982,Eliyanth Udawalawe Restaurant,Udawalawe,Restaurant,Local,6.47,80.889,1200,45,0,0,0,0.0
+983,Master Campers Dining,Udawalawe,Restaurant,Fine Dining,6.44,80.895,6000,120,0,1,0,0.0
+984,Udawalawe Safari Village Restaurant,Udawalawe,Restaurant,Local,6.465,80.88,1500,60,0,0,0,0.0
+985,Athgira River Camp Restaurant,Udawalawe,Restaurant,Cafe,6.425,80.875,2500,90,0,1,0,0.0
+986,Jungle Paradise Restaurant,Udawalawe,Restaurant,Local,6.466,80.882,1500,60,0,0,0,0.0
+987,Niwahana Restaurant,Udawalawe,Restaurant,Local,6.471,80.887,1000,45,0,0,0,0.0
+988,Walawa Blue Sapphire Restaurant,Udawalawe,Restaurant,Local,6.4685,80.886,1800,60,0,0,0,0.0
+989,Big Game Camp Dining,Udawalawe,Restaurant,Fine Dining,6.445,80.898,6500,120,0,1,0,0.0
+990,The Countryside Udawalawe,Udawalawe,Restaurant,Local,6.4675,80.883,1200,45,0,0,0,0.0
+991,Udawalawe Jeep Safari,Udawalawe,Activity,Fun-time,6.4382,80.8893,12000,240,0,1,0,0.0
+992,Elephant Feeding Observation,Udawalawe,Activity,Leisure,6.4601,80.8687,1500,45,0,1,0,0.0
+993,Walawe River Boat Safari,Udawalawe,Activity,Leisure,6.425,80.88,4000,120,0,1,0,0.0
+994,Traditional Village Tour,Udawalawe,Activity,Leisure,6.475,80.89,3000,150,0,0,1,0.0
+995,Sri Lankan Cooking Class,Udawalawe,Activity,Workshops,6.469,80.8885,3500,120,0,0,0,0.0
+996,Udawalawe Night Safari,Udawalawe,Activity,Fun-time,6.438,80.889,15000,180,0,1,0,0.0
+997,Bird Watching Walk,Udawalawe,Activity,Leisure,6.4678,80.8654,2500,120,0,1,0,0.0
+998,Udawalawe Fresh Produce Market,Udawalawe,Activity,Shopping,6.4717,80.8872,0,60,0,0,0,0.0
+999,Pottery Making Workshop,Udawalawe,Activity,Workshops,6.472,80.885,2000,90,0,0,1,0.0
+1000,Camping by the Walawe River,Udawalawe,Activity,Fun-time,6.426,80.881,8000,720,0,1,0,0.0
+1001,Koneswaram Temple,Trincomalee,Landmark,Temple,8.583,81.2335,0,60,0,0,1,1.0
+1002,Fort Frederick,Trincomalee,Landmark,Historic,8.5794,81.2311,0,90,0,0,1,0.0
+1003,Pigeon Island National Park,Trincomalee,Landmark,Park,8.7214,81.199,5000,180,1,1,0,0.0
+1004,Nilaveli Beach,Trincomalee,Landmark,Beach,8.6853,81.1917,0,120,1,1,0,0.0
+1005,Uppuveli Beach,Trincomalee,Landmark,Beach,8.6046,81.2185,0,120,1,1,0,0.0
+1006,Marble Beach,Trincomalee,Landmark,Beach,8.5146,81.2003,200,120,1,1,0,0.0
+1007,Kanniya Hot Springs,Trincomalee,Landmark,Nature,8.6111,81.1895,500,45,0,1,1,0.0
+1008,Trincomalee War Cemetery,Trincomalee,Landmark,Historic,8.6015,81.2081,0,45,0,0,1,0.0
+1009,Lover's Leap,Trincomalee,Landmark,Viewpoint,8.5836,81.234,0,30,1,1,1,0.0
+1010,Pathrakali Amman Temple,Trincomalee,Landmark,Temple,8.5732,81.2291,0,45,0,0,0,1.0
+1011,Maritime and Naval History Museum,Trincomalee,Landmark,Museum,8.5723,81.2298,1000,60,0,0,1,0.0
+1012,Orr's Hill Army Museum,Trincomalee,Landmark,Museum,8.5667,81.2167,500,60,0,0,1,0.0
+1013,Velgam Vehera,Trincomalee,Landmark,Temple,8.6672,81.1444,0,60,0,0,1,1.0
+1014,Dutch Bay,Trincomalee,Landmark,Beach,8.575,81.2315,0,90,1,1,1,0.0
+1015,Trincomalee Clock Tower,Trincomalee,Landmark,Monument,8.5733,81.2272,0,15,0,0,1,0.0
+1016,Swami Rock,Trincomalee,Landmark,Viewpoint,8.5828,81.2338,0,30,1,1,1,0.0
+1017,Gokana Raja Maha Viharaya,Trincomalee,Landmark,Temple,8.5786,81.2315,0,45,0,0,1,1.0
+1018,Sandy Bay Beach,Trincomalee,Landmark,Beach,8.5613,81.2373,0,90,1,1,0,0.0
+1019,Coral Cove Beach,Trincomalee,Landmark,Beach,8.5441,81.2366,0,120,1,1,0,0.0
+1020,Diamond Hill,Trincomalee,Landmark,Viewpoint,8.5444,81.2014,0,60,0,1,0,0.0
+1021,Trincomalee Harbour Viewpoint,Trincomalee,Landmark,Viewpoint,8.5615,81.2255,0,30,1,0,1,0.0
+1022,Sri Lakshmi Narayana Perumal Kovil,Trincomalee,Landmark,Temple,8.6254,81.2011,0,45,0,0,0,1.0
+1023,Sober Island,Trincomalee,Landmark,Nature,8.5414,81.2104,1500,120,1,1,1,0.0
+1024,Kinniya Bridge,Trincomalee,Landmark,Monument,8.5085,81.1819,0,30,0,0,1,0.0
+1025,Koneswaram Museum,Trincomalee,Landmark,Museum,8.5825,81.233,200,45,0,0,1,1.0
+1026,Fernando's Bar,Trincomalee,Restaurant,Cafe,8.605,81.218,3000,90,1,0,0,0.0
+1027,Dutch Bank Cafe,Trincomalee,Restaurant,Fine Dining,8.5728,81.2295,4500,90,1,0,1,0.0
+1028,Cafe on the 18th,Trincomalee,Restaurant,Cafe,8.579,81.231,2500,60,0,0,0,0.0
+1029,Trinco Lanka Restaurant,Trincomalee,Restaurant,Local,8.5755,81.2265,1500,60,0,0,0,0.0
+1030,Tonics,Trincomalee,Restaurant,Local,8.601,81.219,2000,60,0,0,0,0.0
+1031,Gomesz's Pasta Hut,Trincomalee,Restaurant,Local,8.576,81.228,1800,60,0,0,0,0.0
+1032,Anna Inn Restaurant,Trincomalee,Restaurant,Local,8.5745,81.2275,1200,45,0,0,0,0.0
+1033,Palm Beach Restaurant,Trincomalee,Restaurant,Local,8.606,81.2175,2500,60,1,0,0,0.0
+1034,Green Park Beach Hotel Restaurant,Trincomalee,Restaurant,Fine Dining,8.574,81.232,4000,90,1,0,0,0.0
+1035,Crab Seafood Restaurant,Trincomalee,Restaurant,Fine Dining,8.608,81.2165,5500,120,1,0,0,0.0
+1036,The Seafood Restaurant Nilaveli,Trincomalee,Restaurant,Local,8.685,81.192,3500,90,1,0,0,0.0
+1037,Nilaa Rice & Curry,Trincomalee,Restaurant,Local,8.6035,81.2185,1000,45,0,0,0,0.0
+1038,Rice 'n' Curry Restaurant,Trincomalee,Restaurant,Local,8.604,81.218,1200,45,0,0,0,0.0
+1039,Be Cool Juice Bar,Trincomalee,Restaurant,Cafe,8.6045,81.217,800,30,0,0,0,0.0
+1040,Cafe Green Trinco,Trincomalee,Restaurant,Cafe,8.577,81.2285,1500,60,0,0,0,0.0
+1041,Whale Watching Trincomalee,Trincomalee,Activity,Fun-time,8.575,81.2325,10000,240,1,1,0,0.0
+1042,Pigeon Island Snorkeling,Trincomalee,Activity,Fun-time,8.7214,81.199,8000,180,1,1,0,0.0
+1043,Trinco Scuba Diving Centre,Trincomalee,Activity,Fun-time,8.6055,81.218,12000,180,1,1,0,0.0
+1044,Trincomalee Fish Market,Trincomalee,Activity,Shopping,8.5715,81.2305,0,45,1,0,0,0.0
+1045,Batik Shopping Trinco,Trincomalee,Activity,Shopping,8.574,81.226,0,60,0,0,0,0.0
+1046,Deep Sea Fishing Trincomalee,Trincomalee,Activity,Leisure,8.573,81.232,15000,240,1,1,0,0.0
+1047,Sunset Cruise Trincomalee,Trincomalee,Activity,Leisure,8.5615,81.2255,6000,120,1,1,0,0.0
+1048,Nilaveli Water Sports,Trincomalee,Activity,Fun-time,8.686,81.1915,5000,120,1,1,0,0.0
+1049,Trincomalee Tuk Tuk Tour,Trincomalee,Activity,Leisure,8.5755,81.2285,3500,180,0,0,1,0.0
+1050,Uppuveli Yoga Class,Trincomalee,Activity,Workshops,8.607,81.216,2000,90,1,0,0,0.0
+1051,Pasikudah Beach,Pasikudah,Landmark,Beach,7.927,81.5625,0,120,1,1,0,0.0
+1052,Kalkudah Beach,Pasikudah,Landmark,Beach,7.915,81.56,0,120,1,1,0,0.0
+1053,Coconut Cultural Park Pasikudah,Pasikudah,Landmark,Park,7.93,81.558,500,60,0,1,0,0.0
+1054,Valaichchenai Fishery Harbour,Pasikudah,Landmark,Market,7.925,81.54,0,45,1,0,1,0.0
+1055,Sri Munneswaram Kovil Pasikudah,Pasikudah,Landmark,Temple,7.931,81.555,0,30,0,0,0,1.0
+1056,Elephant Rock Viewpoint Pasikudah,Pasikudah,Landmark,Viewpoint,7.935,81.566,0,45,1,1,0,0.0
+1057,Pasikudah Reef,Pasikudah,Landmark,Nature,7.928,81.568,0,90,1,1,0,0.0
+1058,Vandalous Point,Pasikudah,Landmark,Viewpoint,7.938,81.57,0,30,1,1,0,0.0
+1059,Valachchenai Railway Station,Pasikudah,Landmark,Historic,7.921,81.535,0,15,0,0,1,0.0
+1060,Kalkudah Railway Station,Pasikudah,Landmark,Historic,7.91,81.545,0,15,0,0,1,0.0
+1061,Kalkudah Lagoon,Pasikudah,Landmark,Nature,7.905,81.55,0,60,0,1,0,0.0
+1062,Sri Muthumariamman Temple Valachchenai,Pasikudah,Landmark,Temple,7.92,81.538,0,45,0,0,0,1.0
+1063,Kayankerni Bridge,Pasikudah,Landmark,Monument,8.01,81.51,0,20,0,0,1,0.0
+1064,Kayankerni Reef,Pasikudah,Landmark,Nature,8.012,81.52,0,90,1,1,0,0.0
+1065,Oddamavadi Bridge,Pasikudah,Landmark,Monument,7.923,81.52,0,30,0,0,1,0.0
+1066,Pasikudah Bay Viewpoint,Pasikudah,Landmark,Viewpoint,7.9255,81.561,0,30,1,1,0,0.0
+1067,Sri Valampuri Vinayagar Temple,Pasikudah,Landmark,Temple,7.926,81.55,0,30,0,0,0,1.0
+1068,St. Nicholas Church Valachchenai,Pasikudah,Landmark,Church,7.922,81.536,0,30,0,0,0,1.0
+1069,Valachchenai Mosque,Pasikudah,Landmark,Mosque,7.924,81.537,0,30,0,0,0,1.0
+1070,Nasivanthivu Island,Pasikudah,Landmark,Nature,7.95,81.54,1000,120,1,1,0,0.0
+1071,Pethalai Beach,Pasikudah,Landmark,Beach,7.94,81.56,0,90,1,1,0,0.0
+1072,Vakaneri Tank,Pasikudah,Landmark,Lake,7.96,81.45,0,60,0,1,0,0.0
+1073,Valachchenai Paper Mill Monument,Pasikudah,Landmark,Historic,7.928,81.525,0,45,0,0,1,0.0
+1074,Kalkudah Bay,Pasikudah,Landmark,Beach,7.912,81.565,0,90,1,1,0,0.0
+1075,Pasikudah Public Park,Pasikudah,Landmark,Park,7.929,81.559,0,45,0,1,0,0.0
+1076,Rupsy's Seafood Restaurant,Pasikudah,Restaurant,Seafood,7.9265,81.5615,3000,90,1,0,0,0.0
+1077,Captain Seafood Pasikudah,Pasikudah,Restaurant,Seafood,7.9285,81.56,3500,90,1,0,0,0.0
+1078,The Vandalous Bay Restaurant,Pasikudah,Restaurant,Fine Dining,7.93,81.563,5000,120,1,0,0,0.0
+1079,Machan Pasikudah,Pasikudah,Restaurant,Local,7.929,81.557,2000,60,0,0,0,0.0
+1080,Roys Inn Restaurant,Pasikudah,Restaurant,Local,7.925,81.555,1500,60,0,0,0,0.0
+1081,Sunrise Cafe Pasikudah,Pasikudah,Restaurant,Cafe,7.927,81.562,1200,45,1,0,0,0.0
+1082,Ocean Reef Restaurant,Pasikudah,Restaurant,Seafood,7.928,81.564,4000,90,1,0,0,0.0
+1083,Passi Villa Restaurant,Pasikudah,Restaurant,Local,7.924,81.558,1800,60,0,0,0,0.0
+1084,Ninnu Restaurant,Pasikudah,Restaurant,Cafe,7.926,81.559,1500,60,0,0,0,0.0
+1085,East Coast Restaurant,Pasikudah,Restaurant,Local,7.92,81.545,1000,45,0,0,0,0.0
+1086,Amaya Beach Main Restaurant,Pasikudah,Restaurant,Fine Dining,7.9295,81.5625,6500,120,1,0,0,0.0
+1087,Uga Bay Dining,Pasikudah,Restaurant,Fine Dining,7.9275,81.5635,8000,120,1,0,0,0.0
+1088,Maalu Maalu Karadiya Restaurant,Pasikudah,Restaurant,Seafood,7.9285,81.563,6000,120,1,0,0,0.0
+1089,Kalkudah Rotti Hut,Pasikudah,Restaurant,Local,7.915,81.555,800,30,0,0,0,0.0
+1090,Sandy Beach Restaurant,Pasikudah,Restaurant,Seafood,7.918,81.561,2500,90,1,0,0,0.0
+1091,Pasikudah Water Sports Centre,Pasikudah,Activity,Fun-time,7.928,81.562,5000,120,1,1,0,0.0
+1092,Scuba Diving Kayankerni,Pasikudah,Activity,Fun-time,8.012,81.52,12000,180,1,1,0,0.0
+1093,Snorkeling at Pasikudah Reef,Pasikudah,Activity,Leisure,7.9285,81.565,3000,90,1,1,0,0.0
+1094,Deep Sea Fishing Pasikudah,Pasikudah,Activity,Leisure,7.925,81.565,15000,240,1,1,0,0.0
+1095,Valachchenai Fish Market Walk,Pasikudah,Activity,Shopping,7.925,81.54,0,60,1,0,0,0.0
+1096,Spa Ceylon Pasikudah,Pasikudah,Activity,Leisure,7.929,81.561,6000,120,0,0,0,0.0
+1097,Kalkudah Lagoon Boat Safari,Pasikudah,Activity,Leisure,7.905,81.55,3500,120,0,1,0,0.0
+1098,Traditional Cooking Class Pasikudah,Pasikudah,Activity,Workshops,7.926,81.558,4000,150,0,0,0,0.0
+1099,Jet Skiing Pasikudah Bay,Pasikudah,Activity,Fun-time,7.9275,81.5625,4500,30,1,1,0,0.0
+1100,Local Handicraft Shop Valachchenai,Pasikudah,Activity,Shopping,7.921,81.538,0,60,0,0,0,0.0
+1101,Arugam Bay Beach,Arugam Bay,Landmark,Beach,6.8436,81.8276,0,120,1,1,0,0.0
+1102,Main Surf Point,Arugam Bay,Landmark,Viewpoint,6.8361,81.8327,0,60,1,1,0,0.0
+1103,Elephant Rock,Arugam Bay,Landmark,Viewpoint,6.8041,81.8262,0,90,1,1,0,0.0
+1104,Peanut Farm Beach,Arugam Bay,Landmark,Beach,6.8152,81.8245,0,120,1,1,0,0.0
+1105,Whiskey Point,Arugam Bay,Landmark,Beach,6.9022,81.8541,0,120,1,1,0,0.0
+1106,Pottuvil Point,Arugam Bay,Landmark,Beach,6.8901,81.845,0,90,1,1,0,0.0
+1107,Panama Beach,Arugam Bay,Landmark,Beach,6.7554,81.8112,0,120,1,1,0,0.0
+1108,Kumana National Park,Arugam Bay,Landmark,Park,6.5167,81.65,8000,240,0,1,0,0.0
+1109,Muhudu Maha Viharaya,Arugam Bay,Landmark,Temple,6.877,81.8381,0,45,1,0,1,1.0
+1110,Magul Maha Viharaya,Arugam Bay,Landmark,Temple,6.8402,81.7455,500,60,0,0,1,1.0
+1111,Kudumbigala Sanctuary,Arugam Bay,Landmark,Temple,6.645,81.761,0,90,0,1,1,1.0
+1112,Lahugala Kitulana National Park,Arugam Bay,Landmark,Park,6.8751,81.7202,4000,180,0,1,0,0.0
+1113,Okanda Murugan Kovil,Arugam Bay,Landmark,Temple,6.619,81.8194,0,45,1,0,1,1.0
+1114,Crocodile Rock,Arugam Bay,Landmark,Viewpoint,6.8191,81.8302,0,60,1,1,0,0.0
+1115,Pasarchena Beach,Arugam Bay,Landmark,Beach,6.8621,81.8335,0,90,1,1,0,0.0
+1116,Arugam Bay Lagoon,Arugam Bay,Landmark,Nature,6.8295,81.821,0,60,0,1,0,0.0
+1117,Pottuvil Lagoon,Arugam Bay,Landmark,Nature,6.8833,81.8155,0,90,0,1,0,0.0
+1118,Urani Lagoon,Arugam Bay,Landmark,Nature,6.915,81.848,0,90,0,1,0,0.0
+1119,Sangamankanda Lighthouse,Arugam Bay,Landmark,Monument,7.0264,81.8795,0,45,1,1,1,0.0
+1120,Radella Tank,Arugam Bay,Landmark,Lake,6.845,81.79,0,60,0,1,0,0.0
+1121,Panama Wewa,Arugam Bay,Landmark,Lake,6.762,81.795,0,60,0,1,0,0.0
+1122,Shasthrawela Maninaga Pabbatha Viharaya,Arugam Bay,Landmark,Temple,6.778,81.8055,0,45,0,1,1,1.0
+1123,Semanikulam Lake,Arugam Bay,Landmark,Lake,6.86,81.8,0,45,0,1,0,0.0
+1124,Arugam Bay Bridge,Arugam Bay,Landmark,Monument,6.852,81.8285,0,30,1,1,0,0.0
+1125,Sengamuwa Wewa,Arugam Bay,Landmark,Lake,6.92,81.83,0,60,0,1,0,0.0
+1126,Hideaway Blue,Arugam Bay,Restaurant,Cafe,6.844,81.827,2500,60,0,0,0,0.0
+1127,The Spice Trail,Arugam Bay,Restaurant,Fine Dining,6.8415,81.8268,4500,90,0,0,0,0.0
+1128,Siam View Hotel Restaurant,Arugam Bay,Restaurant,Local,6.8422,81.8275,2000,60,0,0,0,0.0
+1129,Hello Burger,Arugam Bay,Restaurant,Local,6.8405,81.828,1800,45,0,0,0,0.0
+1130,Meena's Seafood Restaurant,Arugam Bay,Restaurant,Local,6.838,81.8295,3000,90,1,0,0,0.0
+1131,Mama's Restaurant,Arugam Bay,Restaurant,Local,6.839,81.829,1500,60,0,0,0,0.0
+1132,Gecko Restaurant,Arugam Bay,Restaurant,Cafe,6.843,81.8272,2200,60,0,0,0,0.0
+1133,Beach Hut,Arugam Bay,Restaurant,Local,6.8375,81.83,1500,60,1,0,0,0.0
+1134,Pizza Hub,Arugam Bay,Restaurant,Local,6.845,81.8265,2500,60,0,0,0,0.0
+1135,Blue Ocean,Arugam Bay,Restaurant,Local,6.841,81.827,1800,60,0,0,0,0.0
+1136,Sirisena Restaurant,Arugam Bay,Restaurant,Local,6.8365,81.831,1200,45,0,0,0,0.0
+1137,Hangten Rooftop Restaurant,Arugam Bay,Restaurant,Fine Dining,6.84,81.8285,4000,90,1,0,0,0.0
+1138,Seahorse Inn Restaurant,Arugam Bay,Restaurant,Local,6.846,81.826,2500,60,0,0,0,0.0
+1139,Tom and Jerry,Arugam Bay,Restaurant,Local,6.8425,81.8275,1500,60,0,0,0,0.0
+1140,Leaf and Vine,Arugam Bay,Restaurant,Cafe,6.8435,81.827,2000,60,0,0,0,0.0
+1141,Safa Surf School,Arugam Bay,Activity,Fun-time,6.836,81.8325,4000,120,1,1,0,0.0
+1142,Arugam Bay Surf Club,Arugam Bay,Activity,Fun-time,6.837,81.832,3500,120,1,1,0,0.0
+1143,Pottuvil Lagoon Eco Safari,Arugam Bay,Activity,Leisure,6.883,81.815,3000,120,0,1,0,0.0
+1144,Kumana Jeep Safari,Arugam Bay,Activity,Fun-time,6.516,81.65,15000,240,0,1,0,0.0
+1145,Ecowave Travels Cooking Class,Arugam Bay,Activity,Workshops,6.875,81.825,3500,150,0,0,0,0.0
+1146,Arugam Bay Friday Market,Arugam Bay,Activity,Shopping,6.878,81.829,0,60,0,0,0,0.0
+1147,Hideaway Yoga Class,Arugam Bay,Activity,Leisure,6.844,81.827,2000,90,0,1,0,0.0
+1148,Panama Village Tour,Arugam Bay,Activity,Leisure,6.76,81.8,2500,120,0,0,1,0.0
+1149,Arugam Bay Ayurveda Spa,Arugam Bay,Activity,Leisure,6.842,81.826,5000,120,0,0,0,0.0
+1150,Surfboard Shaping Workshop,Arugam Bay,Activity,Workshops,6.84,81.828,6000,180,1,0,0,0.0
+1151,Nallur Kandaswamy Kovil,Jaffna,Landmark,Temple,9.6746,80.0305,0,60,0,0,1,1.0
+1152,Jaffna Fort,Jaffna,Landmark,Historic,9.6615,79.9983,0,90,1,0,1,0.0
+1153,Jaffna Public Library,Jaffna,Landmark,Historic,9.6626,80.0094,0,45,0,0,1,0.0
+1154,Jaffna Archaeological Museum,Jaffna,Landmark,Museum,9.6698,80.021,200,60,0,0,1,0.0
+1155,Casuarina Beach,Jaffna,Landmark,Beach,9.761,79.88,100,120,1,1,0,0.0
+1156,Keerimalai Naguleswaram Kovil,Jaffna,Landmark,Temple,9.8142,80.0125,0,45,1,0,1,1.0
+1157,Keerimalai Sacred Water Spring,Jaffna,Landmark,Nature,9.8145,80.0128,100,60,1,1,1,1.0
+1158,Dambakola Patuna Sangamitta Temple,Jaffna,Landmark,Temple,9.8185,79.945,0,60,1,0,1,1.0
+1159,Nagadeepa Purana Viharaya,Jaffna,Landmark,Temple,9.615,79.7735,0,60,1,0,1,1.0
+1160,Nainativu Nagapooshani Amman Kovil,Jaffna,Landmark,Temple,9.617,79.774,0,60,1,0,1,1.0
+1161,Point Pedro Lighthouse,Jaffna,Landmark,Monument,9.8335,80.2395,0,30,1,0,1,0.0
+1162,Kandarodai Viharaya (Kadurugoda),Jaffna,Landmark,Temple,9.743,79.986,0,45,0,0,1,1.0
+1163,Nilavarai Bottomless Well,Jaffna,Landmark,Nature,9.7525,80.0635,50,30,0,1,1,0.0
+1164,Fort Hammenhiel,Jaffna,Landmark,Historic,9.728,79.845,0,60,1,0,1,0.0
+1165,Delft Island Fort,Jaffna,Landmark,Historic,9.516,79.682,0,60,1,0,1,0.0
+1166,Elephant Pass War Memorial,Jaffna,Landmark,Monument,9.5285,80.3955,0,45,0,1,1,0.0
+1167,Jaffna Clock Tower,Jaffna,Landmark,Monument,9.6635,80.0135,0,15,0,0,1,0.0
+1168,Old Park Jaffna,Jaffna,Landmark,Park,9.663,80.0185,0,45,0,1,1,0.0
+1169,Subramaniam Park,Jaffna,Landmark,Park,9.6645,80.011,0,45,0,1,0,0.0
+1170,Maruthanamadam Anjaneyar Temple,Jaffna,Landmark,Temple,9.7205,80.0225,0,30,0,0,0,1.0
+1171,Selva Sannidhi Murugan Kovil,Jaffna,Landmark,Temple,9.809,80.17,0,45,0,1,0,1.0
+1172,Charty Beach,Jaffna,Landmark,Beach,9.67,79.945,0,90,1,1,0,0.0
+1173,Sangupiddy Bridge Viewpoint,Jaffna,Landmark,Viewpoint,9.57,80.2,0,30,1,1,0,0.0
+1174,Delft Island Baobab Tree,Jaffna,Landmark,Nature,9.518,79.68,0,20,0,1,1,0.0
+1175,Chundikulam National Park,Jaffna,Landmark,Park,9.485,80.56,2000,180,1,1,0,0.0
+1176,Mangos Indian Veg,Jaffna,Restaurant,Local,9.672,80.0265,1500,60,0,0,0,0.0
+1177,Malayan Cafe,Jaffna,Restaurant,Local,9.6655,80.0145,800,45,0,0,0,0.0
+1178,Rio Ice Cream,Jaffna,Restaurant,Cafe,9.674,80.028,500,30,0,0,0,0.0
+1179,Rolex Restaurant,Jaffna,Restaurant,Local,9.666,80.0135,1000,45,0,0,0,0.0
+1180,Cosy Restaurant,Jaffna,Restaurant,Local,9.6675,80.018,1500,60,0,0,0,0.0
+1181,Green Grass Hotel Restaurant,Jaffna,Restaurant,Fine Dining,9.6685,80.015,2500,90,0,0,0,0.0
+1182,Jetwing Jaffna Dining,Jaffna,Restaurant,Fine Dining,9.6635,80.0105,4500,90,0,0,0,0.0
+1183,Ammachi Traditional Food Center,Jaffna,Restaurant,Local,9.671,80.02,500,45,0,0,1,0.0
+1184,Lingan Ice Cream,Jaffna,Restaurant,Cafe,9.6735,80.0275,500,30,0,0,0,0.0
+1185,The Thinnai Amudham,Jaffna,Restaurant,Fine Dining,9.6845,80.0295,4000,90,0,0,0,0.0
+1186,Tilko City Hotel Restaurant,Jaffna,Restaurant,Fine Dining,9.664,80.0115,3000,90,0,0,0,0.0
+1187,Nallur Bhavan,Jaffna,Restaurant,Local,9.675,80.0295,1200,60,0,0,0,0.0
+1188,Akshathai Jaffna,Jaffna,Restaurant,Local,9.665,80.013,1500,60,0,0,0,0.0
+1189,Water's Edge Jaffna,Jaffna,Restaurant,Seafood,9.66,79.996,3000,90,1,0,0,0.0
+1190,U.S. Hotel Restaurant,Jaffna,Restaurant,Local,9.667,80.0155,1800,60,0,0,0,0.0
+1191,Jaffna Market Walk,Jaffna,Activity,Shopping,9.6655,80.0135,0,90,0,0,1,0.0
+1192,Kurikadduwan Ferry Ride,Jaffna,Activity,Leisure,9.585,79.84,200,60,1,1,0,0.0
+1193,Traditional Palmyrah Handicrafts,Jaffna,Activity,Workshops,9.668,80.02,1500,60,0,0,1,0.0
+1194,Jaffna City Tuk Tuk Tour,Jaffna,Activity,Fun-time,9.6625,80.009,3500,120,0,0,1,0.0
+1195,Jaffna Peninsula Cycling Tour,Jaffna,Activity,Leisure,9.665,80.015,2500,180,0,1,1,0.0
+1196,Casuarina Beach Swimming,Jaffna,Activity,Leisure,9.7615,79.8805,100,120,1,1,0,0.0
+1197,Jaffna Seafood Cooking Class,Jaffna,Activity,Workshops,9.684,80.029,4000,150,0,0,0,0.0
+1198,Chundikulam Bird Watching,Jaffna,Activity,Leisure,9.4855,80.5605,2500,120,1,1,0,0.0
+1199,Shopping at KKS Road,Jaffna,Activity,Shopping,9.6665,80.014,0,90,0,0,0,0.0
+1200,Delft Island Wild Pony Spotting,Jaffna,Activity,Leisure,9.515,79.685,1500,120,1,1,1,0.0
+1201,Ruhunu Maha Kataragama Devalaya,Kataragama,Landmark,Temple,6.4165,81.3331,0,120,0,0,1,1.0
+1202,Kiri Vehera,Kataragama,Landmark,Temple,6.4215,81.3315,0,60,0,0,1,1.0
+1203,Sella Kataragama Temple,Kataragama,Landmark,Temple,6.4398,81.3142,0,60,0,0,1,1.0
+1204,Wedasiti Kanda,Kataragama,Landmark,Temple,6.3865,81.325,200,120,0,1,1,1.0
+1205,Hambantota Salt Pans,Hambantota,Landmark,Viewpoint,6.1305,81.13,0,45,0,1,0,0.0
+1206,Mirijjawila Botanical Garden,Hambantota,Landmark,Park,6.151,81.074,1500,120,0,1,0,0.0
+1207,Martello Tower Hambantota,Hambantota,Landmark,Museum,6.1235,81.125,0,30,0,0,1,0.0
+1208,Hambantota Beach,Hambantota,Landmark,Beach,6.1205,81.1215,0,90,1,1,0,0.0
+1209,Ridiyagama Safari Park,Hambantota,Landmark,Park,6.2905,80.994,3000,180,0,1,0,0.0
+1210,Mahinda Rajapaksa International Stadium,Hambantota,Landmark,Monument,6.3685,81.0315,0,60,0,0,0,0.0
+1211,Bundala National Park,Hambantota,Landmark,Park,6.2052,81.2294,8000,240,0,1,0,0.0
+1212,Kalametiya Bird Sanctuary,Hambantota,Landmark,Nature,6.09,80.95,0,180,1,1,0,0.0
+1213,Ussangoda National Park,Hambantota,Landmark,Park,6.098,80.988,500,90,1,1,1,0.0
+1214,Walawe River Mouth,Hambantota,Landmark,Nature,6.102,81.012,0,60,1,1,0,0.0
+1215,Kataragama Museum,Kataragama,Landmark,Museum,6.4175,81.332,200,45,0,0,1,1.0
+1216,Siva Devalaya Kataragama,Kataragama,Landmark,Temple,6.416,81.3335,0,30,0,0,1,1.0
+1217,Theja Rama Viharaya,Kataragama,Landmark,Temple,6.414,81.334,0,30,0,0,0,1.0
+1218,Hambantota Fishing Harbour,Hambantota,Landmark,Market,6.1245,81.126,0,60,1,0,0,0.0
+1219,Ramba Viharaya,Hambantota,Landmark,Temple,6.2355,80.9664,0,60,0,0,1,1.0
+1220,Karagan Lewaya,Hambantota,Landmark,Lake,6.135,81.11,0,60,0,1,0,0.0
+1221,Tsunami Memorial Hambantota,Hambantota,Landmark,Monument,6.125,81.128,0,30,0,0,1,0.0
+1222,Kataragama Suspension Bridge,Kataragama,Landmark,Monument,6.415,81.331,0,20,0,1,0,0.0
+1223,Mahapelena Beach,Hambantota,Landmark,Beach,6.115,81.1,0,90,1,1,0,0.0
+1224,Kochchigala Beach,Hambantota,Landmark,Beach,6.105,81.05,0,90,1,1,0,0.0
+1225,Godawaya Ancient Port Ruins,Hambantota,Landmark,Historic,6.111,81.033,0,60,1,0,1,0.0
+1226,Jade Green Hambantota,Hambantota,Restaurant,Local,6.126,81.122,1500,60,0,0,0,0.0
+1227,The Oasis Restaurant,Hambantota,Restaurant,Fine Dining,6.127,81.12,3500,90,0,0,0,0.0
+1228,Kataragama Rest House Dining,Kataragama,Restaurant,Local,6.413,81.3325,1800,60,0,0,0,0.0
+1229,Bojunhala Shangri-La,Hambantota,Restaurant,Fine Dining,6.108,81.015,7500,120,0,0,0,0.0
+1230,Peacock Beach Hotel Restaurant,Hambantota,Restaurant,Fine Dining,6.1255,81.1275,4500,90,1,0,0,0.0
+1231,Sunflower Restaurant,Kataragama,Restaurant,Local,6.4155,81.33,1200,60,0,0,0,0.0
+1232,Shanmugas Vegetarian Kataragama,Kataragama,Restaurant,Local,6.416,81.334,800,45,0,0,0,0.0
+1233,Sri Lanka Food City Restaurant,Hambantota,Restaurant,Local,6.128,81.123,1000,45,0,0,0,0.0
+1234,New Rest House Restaurant,Kataragama,Restaurant,Local,6.4145,81.3315,1500,60,0,0,0,0.0
+1235,Ulhaiya Restaurant Shangri-La,Hambantota,Restaurant,Fine Dining,6.1085,81.0155,8000,120,1,0,0,0.0
+1236,Sera Restaurant Shangri-La,Hambantota,Restaurant,Fine Dining,6.109,81.016,8500,120,0,0,0,0.0
+1237,Kataragama Food Court,Kataragama,Restaurant,Local,6.414,81.332,1000,45,0,0,0,0.0
+1238,Hasinthi Restaurant,Kataragama,Restaurant,Local,6.412,81.3305,1200,45,0,0,0,0.0
+1239,Tissa Kataragama Food Cabana,Kataragama,Restaurant,Cafe,6.41,81.33,1500,60,0,0,0,0.0
+1240,Gimhan Restaurant,Hambantota,Restaurant,Cafe,6.125,81.121,1800,60,0,0,0,0.0
+1241,Safari at Ridiyagama,Hambantota,Activity,Fun-time,6.2905,80.994,6000,180,0,1,0,0.0
+1242,Kataragama Pooja Experience,Kataragama,Activity,Leisure,6.4165,81.3331,0,90,0,0,1,1.0
+1243,Bundala Bird Watching Safari,Hambantota,Activity,Leisure,6.2052,81.2294,10000,240,0,1,0,0.0
+1244,Artisan Village Hambantota,Hambantota,Activity,Workshops,6.1082,81.0152,2000,90,0,0,1,0.0
+1245,Gem Shopping Kataragama,Kataragama,Activity,Shopping,6.4135,81.333,0,60,0,0,0,0.0
+1246,Kataragama Friday Market,Kataragama,Activity,Shopping,6.415,81.33,0,60,0,0,0,0.0
+1247,Hambantota Dry Fish Market,Hambantota,Activity,Shopping,6.124,81.1265,0,45,1,0,0,0.0
+1248,Kalametiya Boat Ride,Hambantota,Activity,Leisure,6.09,80.95,3500,120,0,1,0,0.0
+1249,Salt Pan Harvesting Tour,Hambantota,Activity,Workshops,6.1305,81.13,1000,60,0,1,1,0.0
+1250,Shangri-La Golf Experience,Hambantota,Activity,Leisure,6.11,81.0165,15000,240,1,1,0,0.0
+1251,Kelaniya Raja Maha Vihara,Kelaniya,Landmark,Temple,6.9542,79.9158,0,60,0,0,1,1.0
+1252,Manelwatta Temple,Kelaniya,Landmark,Temple,6.973,79.945,0,45,0,0,1,1.0
+1253,Vidyalankara Pirivena,Kelaniya,Landmark,Temple,6.9697,79.9238,0,45,0,0,1,1.0
+1254,Kelani River Bank Point,Kelaniya,Landmark,Viewpoint,6.953,79.911,0,30,0,1,0,0.0
+1255,Guruge Nature Park,Ja-Ela,Landmark,Park,7.0422,79.8974,1500,180,0,1,0,0.0
+1256,Muthurajawela Visitor Centre,Ja-Ela,Landmark,Nature,7.0855,79.8864,1000,120,0,1,1,0.0
+1257,Ja-Ela Railway Station,Ja-Ela,Landmark,Historic,7.0805,79.8938,0,15,0,0,1,0.0
+1258,Ekala Clock Tower,Ja-Ela,Landmark,Monument,7.078,79.912,0,15,0,0,1,0.0
+1259,Preethipura Beach,Wattala,Landmark,Beach,6.994,79.8655,0,90,1,1,0,0.0
+1260,Hamilton Canal Viewpoint,Wattala,Landmark,Historic,6.9922,79.871,0,30,0,1,1,0.0
+1261,St. Anne's Church Wattala,Wattala,Landmark,Church,6.985,79.8845,0,30,0,0,1,1.0
+1262,Crow Island Beach Park,Wattala,Landmark,Park,6.9749,79.869,0,60,1,1,0,0.0
+1263,Hekitta Junction Monument,Wattala,Landmark,Monument,6.983,79.877,0,15,0,0,1,0.0
+1264,Lunawa Lagoon,Moratuwa,Landmark,Lake,6.782,79.879,0,60,0,1,0,0.0
+1265,Bolgoda Lake Viewpoint,Moratuwa,Landmark,Lake,6.795,79.9,0,60,0,1,0,0.0
+1266,Holy Emmanuel Church,Moratuwa,Landmark,Church,6.775,79.8785,0,45,0,0,1,1.0
+1267,Moratuwa Railway Station,Moratuwa,Landmark,Historic,6.7725,79.882,0,20,0,0,1,0.0
+1268,St. Sebastian's Church,Moratuwa,Landmark,Church,6.783,79.875,0,30,0,0,1,1.0
+1269,Panadura Beach,Panadura,Landmark,Beach,6.711,79.897,0,120,1,1,0,0.0
+1270,Rankoth Viharaya,Panadura,Landmark,Temple,6.714,79.904,0,60,0,0,1,1.0
+1271,Panadura Clock Tower,Panadura,Landmark,Monument,6.7155,79.907,0,15,0,0,1,0.0
+1272,Sri Sugatha Maha Viharaya,Panadura,Landmark,Temple,6.718,79.915,0,45,0,0,1,1.0
+1273,Keppetipola Monument,Panadura,Landmark,Monument,6.712,79.905,0,20,0,0,1,0.0
+1274,Gorakana Bolgoda Resort Area,Panadura,Landmark,Viewpoint,6.735,79.91,0,60,0,1,0,0.0
+1275,Panadura Fishery Harbour,Panadura,Landmark,Historic,6.708,79.898,0,45,1,0,1,0.0
+1276,Macao Chinese Restaurant,Kelaniya,Restaurant,Fine Dining,6.952,79.92,3500,90,0,0,0,0.0
+1277,Otha Cafe,Kelaniya,Restaurant,Cafe,6.955,79.918,1500,60,0,0,0,0.0
+1278,Kelaniya Rest House,Kelaniya,Restaurant,Local,6.956,79.914,2000,60,0,0,0,0.0
+1279,K-Zone Food Court Ja-Ela,Ja-Ela,Restaurant,Local,7.0785,79.892,1200,45,0,0,0,0.0
+1280,The Fab Ja-Ela,Ja-Ela,Restaurant,Cafe,7.08,79.893,1000,30,0,0,0,0.0
+1281,Blue Sky Restaurant,Ja-Ela,Restaurant,Local,7.082,79.891,1800,60,0,0,0,0.0
+1282,The Fishery Restaurant,Wattala,Restaurant,Fine Dining,6.992,79.866,6000,120,1,0,0,0.0
+1283,Al Maas Family Restaurant,Wattala,Restaurant,Local,6.9855,79.886,1500,60,0,0,0,0.0
+1284,Dinemore Wattala,Wattala,Restaurant,Local,6.986,79.888,1800,60,0,0,0,0.0
+1285,The Pizza Bakery Moratuwa,Moratuwa,Restaurant,Cafe,6.774,79.88,2500,60,0,0,0,0.0
+1286,Caravan Fresh Moratuwa,Moratuwa,Restaurant,Cafe,6.78,79.878,1200,45,0,0,0,0.0
+1287,K-Zone Moratuwa Food Court,Moratuwa,Restaurant,Local,6.781,79.877,1000,45,0,0,0,0.0
+1288,Rantharu Restaurant,Panadura,Restaurant,Local,6.716,79.906,1500,60,0,0,0,0.0
+1289,Navro Beach Resort Dining,Panadura,Restaurant,Fine Dining,6.71,79.896,4500,90,1,0,0,0.0
+1290,The Fab Panadura,Panadura,Restaurant,Cafe,6.713,79.905,1000,45,0,0,0,0.0
+1291,Kelani River Boat Ride,Kelaniya,Activity,Leisure,6.9525,79.9105,2500,60,0,1,0,0.0
+1292,Guruge Park Amusement Rides,Ja-Ela,Activity,Fun-time,7.0425,79.8975,2000,120,0,0,0,0.0
+1293,Muthurajawela Boat Safari,Ja-Ela,Activity,Leisure,7.086,79.887,3500,150,0,1,0,0.0
+1294,Reality Plaza Shopping,Ja-Ela,Activity,Shopping,7.081,79.894,0,90,0,0,0,0.0
+1295,Arpico Supercentre Shopping,Wattala,Activity,Shopping,6.987,79.889,0,60,0,0,0,0.0
+1296,K-Zone Shopping Mall,Moratuwa,Activity,Shopping,6.7815,79.8775,0,120,0,0,0,0.0
+1297,Moratuwa Wood Carving Workshop,Moratuwa,Activity,Workshops,6.785,79.885,1500,90,0,0,1,0.0
+1298,Bolgoda Lake Boat Ride,Moratuwa,Activity,Leisure,6.796,79.901,3000,120,0,1,0,0.0
+1299,Water Sports at Bolgoda,Panadura,Activity,Fun-time,6.736,79.911,4000,120,0,1,0,0.0
+1300,Panadura Market Walk,Panadura,Activity,Shopping,6.7145,79.9065,0,60,0,0,1,0.0
+1301,Kachchimalai Mosque,Beruwala,Landmark,Mosque,6.4745,79.9802,0,45,1,0,1,1.0
+1302,Barberyn Island Lighthouse,Beruwala,Landmark,Monument,6.4633,79.9768,2000,90,1,1,1,0.0
+1303,Beruwala Fish Harbour,Beruwala,Landmark,Market,6.477,79.9825,0,60,1,0,1,0.0
+1304,Brief Garden by Bevis Bawa,Beruwala,Landmark,Park,6.4251,80.0152,2000,120,0,1,1,0.0
+1305,Kande Viharaya Temple,Aluthgama,Landmark,Temple,6.4468,79.9986,0,90,0,0,1,1.0
+1306,Kaluwamodara Bridge,Aluthgama,Landmark,Viewpoint,6.442,79.9975,0,15,0,1,1,0.0
+1307,Bentota River Mouth,Aluthgama,Landmark,Nature,6.4295,79.9942,0,45,1,1,0,0.0
+1308,Sea Turtle Conservation Project,Kosgoda,Landmark,Nature,6.3352,80.0305,1500,60,1,1,0,0.0
+1309,Victor Hasselblad Turtle Hatchery,Kosgoda,Landmark,Nature,6.3385,80.0282,1000,60,1,1,0,0.0
+1310,Kosgoda Beach,Kosgoda,Landmark,Beach,6.336,80.027,0,120,1,1,0,0.0
+1311,Ahungalla Beach,Ahungalla,Landmark,Beach,6.3105,80.0355,0,180,1,1,0,0.0
+1312,Ahungalla Sea Turtle Hatchery,Ahungalla,Landmark,Nature,6.305,80.038,1000,45,1,1,0,0.0
+1313,Galagoda Sailatalaramaya Viharaya,Ahungalla,Landmark,Temple,6.2735,80.078,0,45,0,0,1,1.0
+1314,Madu Ganga Estuary,Ahungalla,Landmark,Nature,6.28,80.06,0,60,0,1,0,0.0
+1315,Moragalla Beach,Beruwala,Landmark,Beach,6.452,79.985,0,120,1,1,0,0.0
+1316,Sapugoda Sri Maha Viharaya,Beruwala,Landmark,Temple,6.47,79.995,0,45,0,0,1,1.0
+1317,Aluthgama Clock Tower,Aluthgama,Landmark,Monument,6.4355,79.998,0,10,0,0,0,0.0
+1318,Sri Kalyanaramaya Temple,Aluthgama,Landmark,Temple,6.432,80.005,0,30,0,0,1,1.0
+1319,Duwa Temple,Kosgoda,Landmark,Temple,6.35,80.04,0,30,0,0,0,1.0
+1320,Urulasmulla Temple,Kosgoda,Landmark,Temple,6.325,80.05,0,30,0,0,0,1.0
+1321,Nape Temple,Ahungalla,Landmark,Temple,6.315,80.045,0,30,0,0,0,1.0
+1322,Welikanda Temple,Ahungalla,Landmark,Temple,6.295,80.055,0,30,0,0,0,1.0
+1323,Bentota Ganga Viewpoint,Aluthgama,Landmark,Viewpoint,6.431,79.9995,0,20,0,1,0,0.0
+1324,Beruwala Lighthouse View,Beruwala,Landmark,Viewpoint,6.475,79.978,0,30,1,1,0,0.0
+1325,Kosgoda Estuary,Kosgoda,Landmark,Nature,6.342,80.032,0,60,1,1,0,0.0
+1326,The Palms Restaurant,Beruwala,Restaurant,Fine Dining,6.458,79.984,4500,90,1,0,0,0.0
+1327,Fresh Seafood Restaurant,Beruwala,Restaurant,Seafood,6.476,79.9815,3500,90,1,0,0,0.0
+1328,Perera and Sons Aluthgama,Aluthgama,Restaurant,Cafe,6.435,79.9985,800,30,0,0,0,0.0
+1329,Machan Aluthgama,Aluthgama,Restaurant,Local,6.437,79.999,2500,60,0,0,0,0.0
+1330,Sasika Restaurant,Aluthgama,Restaurant,Local,6.433,79.9975,1500,45,0,0,0,0.0
+1331,Oasis Restaurant,Kosgoda,Restaurant,Local,6.334,80.0315,2000,60,0,0,0,0.0
+1332,Kosgoda Beach Restaurant,Kosgoda,Restaurant,Seafood,6.3355,80.0275,3000,90,1,0,0,0.0
+1333,Heritance Ahungalla Dining,Ahungalla,Restaurant,Fine Dining,6.312,80.035,6500,120,1,0,0,0.0
+1334,White Heaven Restaurant,Ahungalla,Restaurant,Local,6.308,80.0385,2500,60,1,0,0,0.0
+1335,Saffron & Blue Restaurant,Kosgoda,Restaurant,Fine Dining,6.329,80.031,5500,120,1,0,0,0.0
+1336,Sunshine Restaurant,Beruwala,Restaurant,Seafood,6.455,79.986,3000,90,1,0,0,0.0
+1337,Malli's Seafood,Aluthgama,Restaurant,Seafood,6.4325,79.997,3500,90,1,0,0,0.0
+1338,Golden Grill,Aluthgama,Restaurant,Fine Dining,6.429,79.9955,5000,120,0,0,0,0.0
+1339,Fisherman's Wharf,Beruwala,Restaurant,Seafood,6.4765,79.982,4000,90,1,0,0,0.0
+1340,Cafe J Aluthgama,Aluthgama,Restaurant,Cafe,6.436,79.998,1800,45,0,0,0,0.0
+1341,Boat Trip on Bentota River,Aluthgama,Activity,Leisure,6.43,79.999,3500,120,0,1,0,0.0
+1342,Beruwala Gem Market Walk,Beruwala,Activity,Shopping,6.4755,79.991,0,90,0,0,1,0.0
+1343,Turtle Releasing Experience,Kosgoda,Activity,Fun-time,6.3352,80.0305,2500,45,1,1,0,0.0
+1344,Ahungalla Village Cycling,Ahungalla,Activity,Leisure,6.31,80.036,2000,150,0,1,0,0.0
+1345,Confifi Marina Water Sports,Beruwala,Activity,Fun-time,6.457,79.9845,6000,120,1,1,0,0.0
+1346,Aluthgama Weekly Fair,Aluthgama,Activity,Shopping,6.438,79.9995,0,90,0,0,0,0.0
+1347,Cinnamon Peeling Workshop,Kosgoda,Activity,Workshops,6.34,80.045,1500,90,0,1,1,0.0
+1348,Traditional Mask Carving,Ahungalla,Activity,Workshops,6.29,80.065,2500,120,0,0,1,0.0
+1349,Ayurveda Spa Experience,Beruwala,Activity,Leisure,6.46,79.983,7000,120,0,0,0,0.0
+1350,Mask & Puppet Museum Visit,Ahungalla,Activity,Leisure,6.275,80.075,500,60,0,0,1,0.0
+1351,Talpe Natural Rock Pools,Talpe,Landmark,Nature,5.9892,80.2789,0,60,1,1,0,0.0
+1352,Ahangama Stilt Fishermen,Ahangama,Landmark,Viewpoint,5.9725,80.3622,500,30,1,0,1,0.0
+1353,Matara Star Fort,Matara,Landmark,Museum,5.9472,80.5458,500,60,0,0,1,0.0
+1354,Paravi Duwa Temple,Matara,Landmark,Temple,5.9423,80.5485,0,45,1,0,1,1.0
+1355,Mulkirigala Raja Maha Vihara,Tangalle,Landmark,Temple,6.1189,80.7395,500,90,0,1,1,1.0
+1356,Hummanya Blow Hole,Tangalle,Landmark,Nature,5.9964,80.7103,250,45,1,1,0,0.0
+1357,Dondra Head Lighthouse,Matara,Landmark,Monument,5.9214,80.5898,500,45,1,0,1,0.0
+1358,Goyambokka Beach,Tangalle,Landmark,Beach,6.0155,80.776,0,120,1,1,0,0.0
+1359,Rekawa Turtle Sanctuary,Tangalle,Landmark,Nature,6.046,80.852,1500,90,1,1,0,0.0
+1360,Kataluva Purana Vihara,Ahangama,Landmark,Temple,5.9925,80.32,0,45,0,0,1,1.0
+1361,Weherahena Poorwarama Temple,Matara,Landmark,Temple,5.961,80.575,0,60,0,0,1,1.0
+1362,Madiha Beach,Matara,Landmark,Beach,5.939,80.51,0,120,1,1,0,0.0
+1363,Tangalle Lagoon,Tangalle,Landmark,Nature,6.027,80.799,0,60,0,1,0,0.0
+1364,Parewella Natural Swimming Area,Tangalle,Landmark,Beach,6.0202,80.7935,0,90,1,1,0,0.0
+1365,Medaketiya Beach,Tangalle,Landmark,Beach,6.031,80.805,0,120,1,1,0,0.0
+1366,Koggala Lake,Ahangama,Landmark,Lake,5.99,80.31,0,120,0,1,0,0.0
+1367,Polhena Beach,Matara,Landmark,Beach,5.9372,80.5218,0,120,1,1,0,0.0
+1368,Old Dutch Market Matara,Matara,Landmark,Historic,5.9452,80.545,0,30,0,0,1,0.0
+1369,Matara Bodhiya,Matara,Landmark,Temple,5.9455,80.5435,0,30,0,0,0,1.0
+1370,Wewurukannala Vihara,Tangalle,Landmark,Temple,5.989,80.686,200,60,0,0,1,1.0
+1371,Hiriketiya Bay Viewpoint,Tangalle,Landmark,Viewpoint,5.965,80.6815,0,30,1,1,0,0.0
+1372,Handunugoda Tea Estate,Ahangama,Landmark,Historic,6.01,80.33,1000,90,0,1,1,0.0
+1373,Silent Beach,Tangalle,Landmark,Beach,6.0095,80.758,0,120,1,1,0,0.0
+1374,Tangalle Fort,Tangalle,Landmark,Historic,6.0232,80.7915,0,30,0,0,1,0.0
+1375,Rumassala South View,Talpe,Landmark,Viewpoint,6.015,80.25,0,45,1,1,0,0.0
+1376,The Social,Talpe,Restaurant,Cafe,5.991,80.275,2500,60,0,0,0,0.0
+1377,Marshmello Cafe,Ahangama,Restaurant,Cafe,5.971,80.365,2000,60,0,0,0,0.0
+1378,Cactus Ahangama,Restaurant,Asian,5.9680,80.375,3500.0,90,1,0,0,0,
+1379,The Dutchman's Street,Matara,Restaurant,Fine Dining,5.943,80.546,4500,120,1,0,1,0.0
+1380,Ceylon Curry House,Matara,Restaurant,Local,5.948,80.544,1500,60,0,0,0,0.0
+1381,The Cavern,Tangalle,Restaurant,Seafood,6.015,80.778,4000,90,1,0,0,0.0
+1382,Cactus Tangalle,Restaurant,International,6.0250,80.801,3500.0,90,1,0,0,0,
+1383,Amanwella Dining,Tangalle,Restaurant,Fine Dining,6.008,80.762,15000,120,1,0,0,0.0
+1384,Little Tuna Sushi,Ahangama,Restaurant,Japanese,5.972,80.364,4000,90,0,0,0,0.0
+1385,Abba's Beach Restaurant,Matara,Restaurant,Seafood,5.938,80.523,3000,90,1,0,0,0.0
+1386,Dream Family Restaurant,Tangalle,Restaurant,Local,6.028,80.806,1800,60,0,0,0,0.0
+1387,Wijaya Beach Restaurant,Talpe,Restaurant,Fine Dining,6.002,80.262,5000,120,1,0,0,0.0
+1388,Trax Ahangama,Restaurant,Cafe,5.9740,80.361,2500.0,90,0,0,0,0,
+1389,Swell Cafe,Ahangama,Restaurant,Cafe,5.9695,80.371,2200,60,0,0,0,0.0
+1390,Mangrove Chalets Dining,Tangalle,Restaurant,Local,6.035,80.815,2500,90,0,1,0,0.0
+1391,Surfing at Ahangama,Ahangama,Activity,Fun-time,5.97,80.365,4000,120,1,1,0,0.0
+1392,Tangalle Lagoon Canoeing,Tangalle,Activity,Leisure,6.0275,80.8,3000,90,0,1,0,0.0
+1393,Koggala Folk Museum Tour,Ahangama,Activity,Leisure,5.9908,80.306,1000,90,0,0,1,0.0
+1394,Matara City Shopping Walk,Matara,Activity,Shopping,5.946,80.542,0,120,0,0,0,0.0
+1395,Rekawa Night Turtle Watching,Tangalle,Activity,Leisure,6.046,80.852,3000,120,1,1,0,0.0
+1396,Surf School Hiriketiya,Tangalle,Activity,Fun-time,5.966,80.683,4500,120,1,1,0,0.0
+1397,Traditional Cooking with Kumari,Ahangama,Activity,Workshops,5.975,80.368,4000,180,0,0,0,0.0
+1398,Talpe Bike Tour,Talpe,Activity,Leisure,5.989,80.279,2500,180,0,1,0,0.0
+1399,Matara Gem and Jewelry Visit,Matara,Activity,Shopping,5.9485,80.543,0,60,0,0,1,0.0
+1400,Whale Watching from Mirissa (Access from Matara),Matara,Activity,Fun-time,5.948,80.453,12000,300,1,1,0,0.0
+1401,Lipton's Seat,Haputale,Landmark,Viewpoint,6.7794,81.0181,500,90,0,1,1,0.0
+1402,Adisham Bungalow,Haputale,Landmark,Historic,6.7758,80.9347,500,60,0,1,1,1.0
+1403,Diyaluma Falls,Haputale,Landmark,Nature,6.7212,81.0298,0,120,0,1,0,0.0
+1404,Bambarakanda Falls,Belihuloya,Landmark,Nature,6.7733,80.835,0,120,0,1,0,0.0
+1405,Muthiyangana Raja Maha Viharaya,Badulla,Landmark,Temple,6.9892,81.0544,0,60,0,0,1,1.0
+1406,Dunhinda Falls,Badulla,Landmark,Nature,7.0161,81.0633,200,90,0,1,0,0.0
+1407,Dhowa Rock Temple,Bandarawela,Landmark,Temple,6.8202,81.0261,0,45,0,0,1,1.0
+1408,Bogoda Wooden Bridge,Badulla,Landmark,Historic,6.9295,81.0102,0,45,0,1,1,0.0
+1409,St. Benedict's Monastery,Haputale,Landmark,Church,6.7755,80.935,0,30,0,0,1,1.0
+1410,Surathali Ella,Belihuloya,Landmark,Nature,6.7235,80.8405,0,45,0,1,0,0.0
+1411,Pahanthudawa Waterfall,Belihuloya,Landmark,Nature,6.716,80.785,0,60,0,1,0,0.0
+1412,Idalgashinna Railway Station,Haputale,Landmark,Historic,6.7844,80.8925,0,45,0,1,1,0.0
+1413,Haputale Gap,Haputale,Landmark,Viewpoint,6.7675,80.95,0,30,0,1,0,0.0
+1414,Porawagala Viewpoint,Bandarawela,Landmark,Viewpoint,6.818,81.022,0,45,0,1,0,0.0
+1415,Kandapola Tea Estate,Badulla,Landmark,Historic,6.98,81.06,0,60,0,1,1,0.0
+1416,St. Mark's Church,Badulla,Landmark,Church,6.988,81.056,0,30,0,0,1,1.0
+1417,Badulla Clock Tower,Badulla,Landmark,Monument,6.9888,81.0565,0,15,0,0,1,0.0
+1418,Bandarawela Hotel Garden,Bandarawela,Landmark,Park,6.8315,80.9875,0,30,0,1,1,0.0
+1419,Demodara Railway Loop,Badulla,Landmark,Historic,6.9006,81.0617,0,60,0,1,1,0.0
+1420,Nonpareil Estate Viewpoint,Belihuloya,Landmark,Viewpoint,6.745,80.795,0,90,0,1,1,0.0
+1421,Sabaragamuwa University View,Belihuloya,Landmark,Viewpoint,6.7125,80.7905,0,30,0,1,0,0.0
+1422,Rawana Ella (Upper Falls),Haputale,Landmark,Nature,6.755,80.985,0,60,0,1,1,0.0
+1423,Catherine's Seat,Haputale,Landmark,Viewpoint,6.778,80.96,0,45,0,1,1,0.0
+1424,Haldummulla Ancient Fort,Haputale,Landmark,Historic,6.715,80.885,0,60,0,1,1,0.0
+1425,Kataragama Devalaya Badulla,Badulla,Landmark,Temple,6.985,81.055,0,30,0,0,1,1.0
+1426,Bandarawela Hotel Restaurant,Bandarawela,Restaurant,Fine Dining,6.8314,80.9872,4000,90,0,0,1,0.0
+1427,Risara Bakers,Haputale,Restaurant,Local,6.7678,80.9515,800,45,0,0,0,0.0
+1428,Hyacinth Cafe,Bandarawela,Restaurant,Cafe,6.8305,80.9865,1500,60,0,0,0,0.0
+1429,Belihuloya Rest House,Belihuloya,Restaurant,Local,6.7165,80.7865,2500,90,0,1,1,0.0
+1430,Vimukthi Family Restaurant,Badulla,Restaurant,Local,6.989,81.057,1200,60,0,0,0,0.0
+1431,Logos Cafe,Haputale,Restaurant,Cafe,6.768,80.951,1800,60,0,0,0,0.0
+1432,The Tea Garden,Bandarawela,Restaurant,Cafe,6.833,80.989,2000,60,0,1,0,0.0
+1433,River Garden Resort Restaurant,Belihuloya,Restaurant,Fine Dining,6.717,80.788,4500,90,0,1,0,0.0
+1434,Hotel Mount Feast Dining,Haputale,Restaurant,Local,6.766,80.953,2200,60,0,1,0,0.0
+1435,Orient Hotel Restaurant,Bandarawela,Restaurant,Fine Dining,6.832,80.988,3500,90,0,0,0,0.0
+1436,Sithara Hotel,Badulla,Restaurant,Local,6.9875,81.0555,1000,45,0,0,0,0.0
+1437,Aman Food Court,Badulla,Restaurant,Local,6.991,81.058,1200,45,0,0,0,0.0
+1438,Olympic Hotel,Haputale,Restaurant,Local,6.7675,80.9512,1000,45,0,0,0,0.0
+1439,Nightingale Cafe,Bandarawela,Restaurant,Cafe,6.829,80.985,1500,60,0,0,0,0.0
+1440,Water's Edge Belihuloya,Belihuloya,Restaurant,Local,6.7155,80.7845,1800,60,0,1,0,0.0
+1441,Canoeing in Samanalawewa,Belihuloya,Activity,Leisure,6.685,80.795,4500,120,0,1,0,0.0
+1442,Tea Plucking Experience at Dambatenne,Haputale,Activity,Workshops,6.779,80.995,1500,90,0,1,1,0.0
+1443,Badulla Town Market Walk,Badulla,Activity,Shopping,6.9895,81.056,0,60,0,0,0,0.0
+1444,Hike to Idalgashinna,Haputale,Activity,Fun-time,6.784,80.892,0,180,0,1,0,0.0
+1445,Diyaluma Upper Pool Trek,Haputale,Activity,Fun-time,6.722,81.0305,0,180,0,1,0,0.0
+1446,Bandarawela Sunday Fair,Bandarawela,Activity,Shopping,6.831,80.986,0,90,0,0,0,0.0
+1447,River Bathing Belihuloya,Belihuloya,Activity,Leisure,6.716,80.785,0,60,0,1,0,0.0
+1448,Railway Trekking (Badulla to Ella),Badulla,Activity,Fun-time,6.989,81.054,0,240,0,1,1,0.0
+1449,Bird Watching in Tangamale,Haputale,Activity,Leisure,6.775,80.93,0,120,0,1,0,0.0
+1450,Pottery Workshop Belihuloya,Belihuloya,Activity,Workshops,6.71,80.78,2000,90,0,0,1,0.0
+1451,Ramboda Falls,Ramboda,Landmark,Nature,7.0435,80.6765,0,60,0,1,0,0.0
+1452,Sri Bhakta Hanuman Temple,Ramboda,Landmark,Temple,7.0423,80.6695,0,45,0,0,1,1.0
+1453,Ramboda Tunnel,Ramboda,Landmark,Historic,7.0465,80.6725,0,10,0,0,1,0.0
+1454,Kotmale Reservoir Viewpoint,Ramboda,Landmark,Viewpoint,7.051,80.665,0,30,0,1,0,0.0
+1455,Chariot Path of King Ravana,Ramboda,Landmark,Historic,7.018,80.72,0,180,0,1,1,0.0
+1456,Gerandi Ella,Ramboda,Landmark,Nature,7.062,80.668,0,90,0,1,0,0.0
+1457,Puna Ella,Ramboda,Landmark,Nature,7.045,80.678,0,45,0,1,0,0.0
+1458,Kondagala Mountain,Ramboda,Landmark,Viewpoint,7.025,80.71,0,150,0,1,0,0.0
+1459,Kelani River,Kitulgala,Landmark,Nature,6.992,80.415,0,60,0,1,0,0.0
+1460,Belilena Cave,Kitulgala,Landmark,Historic,7.0125,80.4355,500,90,0,1,1,0.0
+1461,Makandawa Forest Reserve,Kitulgala,Landmark,Park,6.985,80.42,1000,180,0,1,0,0.0
+1462,Kitulgala Suspension Bridge,Kitulgala,Landmark,Monument,6.9915,80.418,0,20,0,1,0,0.0
+1463,Aberdeen Falls,Kitulgala,Landmark,Nature,6.945,80.505,0,120,0,1,0,0.0
+1464,Laxapana Falls,Kitulgala,Landmark,Nature,6.899,80.498,0,120,0,1,0,0.0
+1465,Bridge on the River Kwai Site,Kitulgala,Landmark,Historic,6.988,80.412,0,45,0,1,1,0.0
+1466,Sinharaja Forest Reserve (Pitadeniya),Deniyaya,Landmark,Park,6.386,80.536,2500,240,0,1,0,0.0
+1467,Patna Division Viewpoint,Deniyaya,Landmark,Viewpoint,6.368,80.595,200,60,0,1,0,0.0
+1468,Hathmale Ella,Deniyaya,Landmark,Nature,6.345,80.575,0,60,0,1,0,0.0
+1469,Gatabaruwa Raja Maha Vihara,Deniyaya,Landmark,Temple,6.295,80.565,0,60,0,0,1,1.0
+1470,Deniyaya Clock Tower,Deniyaya,Landmark,Monument,6.3425,80.5615,0,15,0,0,1,0.0
+1471,Beverley Tea Estate Viewpoint,Deniyaya,Landmark,Viewpoint,6.375,80.585,0,45,0,1,1,0.0
+1472,Arnuwa Waterfall,Deniyaya,Landmark,Nature,6.355,80.54,0,60,0,1,0,0.0
+1473,Sathmala Ella,Deniyaya,Landmark,Nature,6.332,80.612,0,90,0,1,0,0.0
+1474,Brahmana Ella,Deniyaya,Landmark,Nature,6.382,80.552,0,60,0,1,0,0.0
+1475,Sinharaja Information Centre,Deniyaya,Landmark,Museum,6.341,80.56,0,30,0,1,1,0.0
+1476,Ramboda Falls Hotel Restaurant,Ramboda,Restaurant,Fine Dining,7.0438,80.6755,4500,90,0,1,0,0.0
+1477,Blue Field Tea Garden Restaurant,Ramboda,Restaurant,Cafe,7.027,80.627,2500,60,0,1,1,0.0
+1478,Thuruliya Tea Cafe,Ramboda,Restaurant,Cafe,7.038,80.665,1800,45,0,1,0,0.0
+1479,River Side Restaurant,Kitulgala,Restaurant,Local,6.9935,80.4135,1500,60,0,1,0,0.0
+1480,Plantation Hotel Dining,Kitulgala,Restaurant,Fine Dining,6.991,80.417,4000,90,0,1,0,0.0
+1481,Kitulgala Rest House,Kitulgala,Restaurant,Local,6.9925,80.4145,2000,60,0,1,1,0.0
+1482,Royal River Resort Restaurant,Kitulgala,Restaurant,Fine Dining,6.985,80.425,5000,120,0,1,0,0.0
+1483,White Water Curry House,Kitulgala,Restaurant,Local,6.9945,80.412,1200,45,0,0,0,0.0
+1484,Deniyaya Rest House,Deniyaya,Restaurant,Local,6.3435,80.5625,1800,60,0,0,1,0.0
+1485,Rainforest Eco Lodge Dining,Deniyaya,Restaurant,Fine Dining,6.372,80.592,6000,120,0,1,0,0.0
+1486,Sinharaja Forest Gate Cafe,Deniyaya,Restaurant,Cafe,6.3855,80.5355,1500,60,0,1,0,0.0
+1487,Deniyaya Food Court,Deniyaya,Restaurant,Local,6.342,80.561,1000,45,0,0,0,0.0
+1488,Tea Breeze Deniyaya,Deniyaya,Restaurant,Cafe,6.344,80.563,1200,45,0,1,0,0.0
+1489,The Tea Hills Ramboda,Ramboda,Restaurant,Cafe,7.041,80.668,2000,60,0,1,0,0.0
+1490,Bridge View Cafe,Kitulgala,Restaurant,Cafe,6.9912,80.4178,1200,45,0,1,0,0.0
+1491,White Water Rafting Kelani River,Kitulgala,Activity,Fun-time,6.992,80.415,6000,120,0,1,0,0.0
+1492,Waterfall Abseiling (Sandun Ella),Kitulgala,Activity,Fun-time,6.985,80.43,8000,180,0,1,0,0.0
+1493,Canyoning & Confidence Jumps,Kitulgala,Activity,Fun-time,6.987,80.428,5000,120,0,1,0,0.0
+1494,Sinharaja Rainforest Trekking,Deniyaya,Activity,Leisure,6.386,80.536,4500,240,0,1,0,0.0
+1495,Tea Plucking Experience Deniyaya,Deniyaya,Activity,Workshops,6.375,80.585,2000,90,0,1,1,0.0
+1496,Bird Watching Pitadeniya,Deniyaya,Activity,Leisure,6.385,80.535,3000,180,0,1,0,0.0
+1497,Ramboda Tea Factory Tour,Ramboda,Activity,Workshops,7.0275,80.6275,1500,60,0,0,1,0.0
+1498,Kitulgala Village Walk,Kitulgala,Activity,Leisure,6.995,80.41,0,90,0,1,1,0.0
+1499,Deniyaya Town Market Shopping,Deniyaya,Activity,Shopping,6.342,80.561,0,60,0,0,0,0.0
+1500,River Bathing Experience,Kitulgala,Activity,Leisure,6.993,80.416,0,60,0,1,0,0.0
+1501,Mihintale Rock (Aradhana Gala),Mihintale,Landmark,Viewpoint,8.3514,80.5186,1000,120,0,1,1,1.0
+1502,Ambasthala Dagaba,Mihintale,Landmark,Temple,8.351,80.5175,0,45,0,0,1,1.0
+1503,Maha Stupa,Mihintale,Landmark,Temple,8.3522,80.519,0,45,0,0,1,1.0
+1504,Mihintale Archaeological Museum,Mihintale,Landmark,Museum,8.3475,80.5055,500,60,0,0,1,0.0
+1505,Kaludiya Pokuna,Mihintale,Landmark,Historic,8.3422,80.5122,0,90,0,1,1,1.0
+1506,Kantaka Cetiya,Mihintale,Landmark,Temple,8.3495,80.5145,0,45,0,0,1,1.0
+1507,Sinha Pokuna (Lion Pond),Mihintale,Landmark,Historic,8.3502,80.516,0,20,0,0,1,0.0
+1508,Indikatu Seya,Mihintale,Landmark,Temple,8.3435,80.507,0,30,0,0,1,1.0
+1509,Mihintale Hospital Ruins,Mihintale,Landmark,Historic,8.3465,80.5045,0,45,0,0,1,0.0
+1510,Habarana Lake,Habarana,Landmark,Lake,8.0375,80.7525,0,60,0,1,0,0.0
+1511,Hurulu Eco Park Entrance,Habarana,Landmark,Park,8.0855,80.821,5000,180,0,1,0,0.0
+1512,Minneriya National Park,Habarana,Landmark,Park,8.0345,80.8265,7500,180,0,1,0,0.0
+1513,Habarana Temple,Habarana,Landmark,Temple,8.0325,80.751,0,30,0,0,1,1.0
+1514,Kaudulla National Park,Habarana,Landmark,Park,8.1505,80.911,7500,180,0,1,0,0.0
+1515,Kalawewa Tank,Kekirawa,Landmark,Lake,7.975,80.542,0,90,0,1,1,0.0
+1516,Avukana Buddha Statue,Kekirawa,Landmark,Monument,8.0185,80.5135,1000,60,0,0,1,1.0
+1517,Reswehera (Sasseruwa) Temple,Kekirawa,Landmark,Temple,8.025,80.425,0,90,0,1,1,1.0
+1518,Kekirawa Railway Station,Kekirawa,Landmark,Historic,8.0415,80.6035,0,15,0,0,1,0.0
+1519,Vijithapura Raja Maha Viharaya,Kekirawa,Landmark,Temple,7.981,80.563,0,45,0,0,1,1.0
+1520,Balalu Wewa,Kekirawa,Landmark,Lake,7.971,80.525,0,60,0,1,1,0.0
+1521,Ritigala Strict Nature Reserve,Habarana,Landmark,Park,8.1135,80.6555,1500,150,0,1,1,1.0
+1522,Madirigiriya Vatadage,Habarana,Landmark,Temple,8.1525,80.991,0,60,0,0,1,1.0
+1523,Ibbankatuwa Tombs (Access from Kekirawa),Kekirawa,Landmark,Historic,7.8285,80.6275,500,60,0,0,1,0.0
+1524,Habarana Jungle Viewpoint,Habarana,Landmark,Viewpoint,8.045,80.76,0,45,0,1,0,0.0
+1525,Mihintale Staircase (1840 Steps),Mihintale,Landmark,Historic,8.3485,80.51,0,45,0,1,1,1.0
+1526,Cinnamon Lodge Dining,Habarana,Restaurant,Fine Dining,8.034,80.7545,6000,120,0,1,0,0.0
+1527,Aliya Resort & Spa Restaurant,Habarana,Restaurant,Fine Dining,7.995,80.73,7000,120,0,1,0,0.0
+1528,Lucky Restaurant,Habarana,Restaurant,Local,8.0335,80.7515,1200,60,0,0,0,0.0
+1529,Dewata Food Court,Habarana,Restaurant,Local,8.0315,80.752,800,45,0,0,0,0.0
+1530,Habarana Village by Cinnamon Dining,Habarana,Restaurant,Fine Dining,8.036,80.753,5500,120,0,1,0,0.0
+1531,Hotel Sigiriya Restaurant (Access from Habarana),Habarana,Restaurant,Fine Dining,7.9555,80.7565,4500,90,0,1,0,0.0
+1532,Heritage Mihintale Restaurant,Mihintale,Restaurant,Local,8.347,80.5035,1800,60,0,0,1,0.0
+1533,Mihintale Food Cabin,Mihintale,Restaurant,Local,8.348,80.504,1000,45,0,0,0,0.0
+1534,The Other Corner Restaurant,Habarana,Restaurant,Cafe,8.05,80.755,3000,90,0,1,0,0.0
+1535,Sorabora Restaurant,Kekirawa,Restaurant,Local,8.042,80.6025,1200,60,0,0,0,0.0
+1536,Kekirawa Rest House Restaurant,Kekirawa,Restaurant,Local,8.04,80.601,2000,60,0,0,1,0.0
+1537,Diyathra Restaurant,Kekirawa,Restaurant,Local,7.976,80.541,1500,60,0,1,0,0.0
+1538,Jaga Food,Habarana,Restaurant,Local,8.02,80.745,2200,90,0,1,0,0.0
+1539,Mango Mango (Access from Dambulla),Kekirawa,Restaurant,Local,7.8755,80.6515,2500,60,0,0,0,0.0
+1540,Gami Pubuduwa Hela Bojun,Habarana,Restaurant,Local,8.0305,80.7505,500,45,0,0,0,0.0
+1541,Habarana Elephant Safari,Habarana,Activity,Leisure,8.03,80.75,5000,60,0,1,0,0.0
+1542,Minneriya Jeep Safari,Habarana,Activity,Fun-time,8.035,80.825,15000,180,0,1,0,0.0
+1543,Hiriwadunna Village Tour,Habarana,Activity,Leisure,8.025,80.77,4000,150,0,1,1,0.0
+1544,Bullock Cart Ride Habarana,Habarana,Activity,Fun-time,8.031,80.755,2500,60,0,1,1,0.0
+1545,Kekirawa Sunday Market,Kekirawa,Activity,Shopping,8.0425,80.604,0,90,0,0,0,0.0
+1546,Habarana Lake Canoeing,Habarana,Activity,Leisure,8.038,80.753,3000,60,0,1,0,0.0
+1547,Mihintale Sunset Hiking,Mihintale,Activity,Leisure,8.3514,80.5186,0,120,0,1,1,1.0
+1548,Avukana Cultural Walk,Kekirawa,Activity,Leisure,8.0185,80.5135,0,60,0,0,1,1.0
+1549,Hurulu Eco Park Night Safari,Habarana,Activity,Fun-time,8.0855,80.821,12000,180,0,1,0,0.0
+1550,Ritigala Jungle Trek,Habarana,Activity,Leisure,8.1135,80.6555,2000,180,0,1,1,0.0
+1551,Medirigiriya Vatadage,Medirigiriya,Landmark,Temple,8.1528,80.9912,0,90,0,0,1,1.0
+1552,Ritigala Buddhist Monastery,Ritigala,Landmark,Historic,8.1132,80.6552,1500,180,0,1,1,1.0
+1553,Banda Pokuna,Ritigala,Landmark,Nature,8.1105,80.654,0,45,0,1,1,0.0
+1554,Kaudulla National Park Entrance,Medirigiriya,Landmark,Park,8.15,80.91,7500,180,0,1,0,0.0
+1555,Minneriya-Giritale Sanctuary,Medirigiriya,Landmark,Park,8.034,80.826,6000,180,0,1,0,0.0
+1556,Kaudulla Tank,Medirigiriya,Landmark,Lake,8.16,80.92,0,60,0,1,0,0.0
+1557,Kavudulla Reservoir Viewpoint,Medirigiriya,Landmark,Viewpoint,8.155,80.915,0,30,0,1,0,0.0
+1558,Divulankadawala Ancient Stupa,Medirigiriya,Landmark,Temple,8.165,80.985,0,45,0,0,1,1.0
+1559,Ritigala Summit View,Ritigala,Landmark,Viewpoint,8.115,80.658,0,60,0,1,0,0.0
+1560,Medirigiriya Old Market Square,Medirigiriya,Landmark,Historic,8.148,80.995,0,45,0,0,1,0.0
+1561,Gal Viharaya Medirigiriya,Medirigiriya,Landmark,Temple,8.1535,80.9905,0,30,0,0,1,1.0
+1562,Ambagaswewa Tank,Medirigiriya,Landmark,Lake,8.175,81.01,0,60,0,1,0,0.0
+1563,Ritigala Medical Herb Garden,Ritigala,Landmark,Nature,8.111,80.652,0,60,0,1,1,0.0
+1564,Na-Uyana Aranya (Access Point),Ritigala,Landmark,Temple,8.1,80.64,0,120,0,1,0,1.0
+1565,Medirigiriya Library Monument,Medirigiriya,Landmark,Monument,8.145,80.996,0,20,0,0,1,0.0
+1566,Pansalgoda Temple,Ritigala,Landmark,Temple,8.095,80.665,0,30,0,0,0,1.0
+1567,Kandakadu Nature Reserve,Medirigiriya,Landmark,Park,8.21,81.05,0,120,0,1,0,0.0
+1568,Angamedilla National Park,Medirigiriya,Landmark,Park,7.915,80.95,5000,180,0,1,0,0.0
+1569,Hurulu Eco Park North,Ritigala,Landmark,Park,8.08,80.81,6000,180,0,1,0,0.0
+1570,Galpaya Archaeological Site,Medirigiriya,Landmark,Historic,8.158,81.02,0,60,0,0,1,0.0
+1571,Mahasen Wewa,Medirigiriya,Landmark,Lake,8.13,80.98,0,60,0,1,1,0.0
+1572,Ritigala Entrance Gate,Ritigala,Landmark,Monument,8.11,80.65,0,15,0,0,1,0.0
+1573,Medirigiriya Clock Tower,Medirigiriya,Landmark,Monument,8.147,80.994,0,10,0,0,1,0.0
+1574,Bisokotuwa Ancient Sluice,Medirigiriya,Landmark,Historic,8.162,80.922,0,30,0,1,1,0.0
+1575,Vatadage Museum Hall,Medirigiriya,Landmark,Museum,8.152,80.9915,200,45,0,0,1,0.0
+1576,Medirigiriya Heritage Restaurant,Medirigiriya,Restaurant,Local,8.149,80.993,1200,60,0,0,1,0.0
+1577,Ritigala Village Kitchen,Ritigala,Restaurant,Local,8.108,80.648,1000,60,0,1,0,0.0
+1578,Kavudulla Lake Side Cafe,Medirigiriya,Restaurant,Cafe,8.154,80.914,1500,60,0,1,0,0.0
+1579,Vatadage View Cafe,Medirigiriya,Restaurant,Cafe,8.151,80.99,800,45,0,0,0,0.0
+1580,Gami Rasa Medirigiriya,Medirigiriya,Restaurant,Local,8.146,80.997,1000,45,0,0,0,0.0
+1581,Ritigala Hideaway Dining,Ritigala,Restaurant,Fine Dining,8.105,80.645,4500,90,0,1,0,0.0
+1582,Farmer's Stop Medirigiriya,Medirigiriya,Restaurant,Local,8.15,81.005,900,45,0,0,0,0.0
+1583,Green Leaf Cafe,Ritigala,Restaurant,Cafe,8.11,80.64,1200,60,0,1,0,0.0
+1584,Wew-Theera Dining,Medirigiriya,Restaurant,Local,8.161,80.925,1800,60,0,1,0,0.0
+1585,Ancient Flavors Restaurant,Medirigiriya,Restaurant,Local,8.153,80.992,1500,60,0,0,1,0.0
+1586,Kaudulla Eco Resort Dining,Medirigiriya,Restaurant,Fine Dining,8.17,80.91,5000,120,0,1,0,0.0
+1587,Ritigala Nature Rest,Ritigala,Restaurant,Local,8.112,80.642,1500,60,0,1,0,0.0
+1588,Sunrise Bakery Medirigiriya,Medirigiriya,Restaurant,Cafe,8.1475,80.9955,500,30,0,0,0,0.0
+1589,Bojun Hala Medirigiriya,Medirigiriya,Restaurant,Local,8.1465,80.9945,800,45,0,0,0,0.0
+1590,Wild View Restaurant,Ritigala,Restaurant,Local,8.115,80.635,2000,60,0,1,0,0.0
+1591,Kaudulla Jeep Safari,Medirigiriya,Activity,Fun-time,8.15,80.91,12000,180,0,1,0,0.0
+1592,Ritigala Forest Trekking,Ritigala,Activity,Leisure,8.1132,80.6552,3000,180,0,1,0,0.0
+1593,Medirigiriya Pottery Workshop,Medirigiriya,Activity,Workshops,8.155,81.0,2000,90,0,0,1,0.0
+1594,Traditional Agriculture Tour,Medirigiriya,Activity,Leisure,8.16,80.95,3000,120,0,1,0,0.0
+1595,Bird Watching at Kaudulla,Medirigiriya,Activity,Leisure,8.16,80.92,2500,120,0,1,0,0.0
+1596,Ritigala Ayurvedic Herb Tour,Ritigala,Activity,Workshops,8.111,80.652,2000,90,0,1,1,0.0
+1597,Medirigiriya Sunday Fair,Medirigiriya,Activity,Shopping,8.1485,80.9945,0,90,0,0,0,0.0
+1598,Lake Fishing Experience,Medirigiriya,Activity,Fun-time,8.162,80.925,2500,120,0,1,0,0.0
+1599,Cane Basket Weaving Class,Medirigiriya,Activity,Workshops,8.145,81.002,1500,90,0,0,0,0.0
+1600,Night Nature Walk Ritigala,Ritigala,Activity,Fun-time,8.11,80.65,4000,120,0,1,0,0.0
+1601,Bundala National Park,Bundala,Landmark,Park,6.2052,81.2294,8000,240,1,1,0,0.0
+1602,Sinharaja Forest Reserve (Kudawa Entrance),Sinharaja,Landmark,Park,6.441,80.415,2500,300,0,1,0,0.0
+1603,Weerawila Lake,Weerawila,Landmark,Nature,6.3265,81.2312,0,60,0,1,0,0.0
+1604,Bundala Salterns,Bundala,Landmark,Viewpoint,6.185,81.205,0,45,1,1,0,0.0
+1605,Weerawila Tissa Sanctuary,Weerawila,Landmark,Park,6.32,81.245,0,120,0,1,0,0.0
+1606,Sinharaja Information Center,Sinharaja,Landmark,Museum,6.4425,80.4165,0,45,0,1,1,0.0
+1607,Mulkirigala Rock Temple (Access point),Sinharaja,Landmark,Temple,6.1189,80.7395,500,90,0,0,1,1.0
+1608,Pathiniya Lagoon,Bundala,Landmark,Nature,6.215,81.185,0,60,1,1,0,0.0
+1609,Sinharaja Rain Forest (Lankagama Entrance),Sinharaja,Landmark,Park,6.33,80.47,2500,240,0,1,0,0.0
+1610,Weerawila Bird Watching Tower,Weerawila,Landmark,Viewpoint,6.329,81.225,0,30,0,1,0,0.0
+1611,Bundala Beach,Bundala,Landmark,Beach,6.175,81.215,0,120,1,1,0,0.0
+1612,Sinharaja Giant Fern Point,Sinharaja,Landmark,Nature,6.438,80.41,0,30,0,1,0,0.0
+1613,Duwili Ella Waterfall (Sinharaja),Sinharaja,Landmark,Nature,6.452,80.395,0,120,0,1,0,0.0
+1614,Weerawila Raja Maha Viharaya,Weerawila,Landmark,Temple,6.3255,81.238,0,45,0,0,1,1.0
+1615,Bundala Village Temple,Bundala,Landmark,Temple,6.201,81.182,0,30,0,0,0,1.0
+1616,Sinharaja South Viewpoint,Sinharaja,Landmark,Viewpoint,6.325,80.475,0,60,0,1,0,0.0
+1617,Bundala Turtle Nesting Site,Bundala,Landmark,Nature,6.18,81.21,0,60,1,1,0,0.0
+1618,Sinharaja Conservation Museum,Sinharaja,Landmark,Museum,6.443,80.417,0,60,0,0,1,0.0
+1619,Weerawila Tank Sluice Gate,Weerawila,Landmark,Monument,6.3305,81.2345,0,15,0,1,1,0.0
+1620,Walawe River Mouth (Bundala Side),Bundala,Landmark,Nature,6.102,81.012,0,60,1,1,0,0.0
+1621,Sinharaja Orchids Trail,Sinharaja,Landmark,Nature,6.4405,80.42,0,90,0,1,0,0.0
+1622,Debarawewa Wewa Viewpoint,Weerawila,Landmark,Viewpoint,6.295,81.275,0,45,0,1,0,0.0
+1623,Sinharaja Endemic Bird Point,Sinharaja,Landmark,Nature,6.445,80.425,0,120,0,1,0,0.0
+1624,Bundala Lagoon,Bundala,Landmark,Nature,6.195,81.19,0,90,1,1,0,0.0
+1625,Hambantota Botanical Garden (Access point),Weerawila,Landmark,Park,6.151,81.074,1500,120,0,1,0,0.0
+1626,Bundala Safari Lodge Dining,Bundala,Restaurant,Fine Dining,6.1955,81.2015,4500,90,0,1,0,0.0
+1627,The Rainforest Eco Lodge Restaurant,Sinharaja,Restaurant,Fine Dining,6.372,80.592,6000,120,0,1,0,0.0
+1628,Weerawila Lake Side Restaurant,Weerawila,Restaurant,Local,6.328,81.232,1500,60,0,1,0,0.0
+1629,Sinharaja Forest Gate Cafe,Sinharaja,Restaurant,Cafe,6.4415,80.4155,1200,60,0,1,0,0.0
+1630,Bundala Village Kitchen,Bundala,Restaurant,Local,6.2005,81.1835,1000,45,0,0,0,0.0
+1631,Weerawila Rest House,Weerawila,Restaurant,Local,6.3275,81.2355,2200,60,0,0,1,0.0
+1632,Sinharaja Adventure Resort Dining,Sinharaja,Restaurant,Local,6.435,80.412,2500,90,0,1,0,0.0
+1633,Sarath's Lake View Dining,Weerawila,Restaurant,Local,6.331,81.229,1200,60,0,1,0,0.0
+1634,Bundala Birders Retreat,Bundala,Restaurant,Cafe,6.192,81.21,1800,60,1,1,0,0.0
+1635,Sinharaja Green House Cafe,Sinharaja,Restaurant,Cafe,6.3315,80.4685,1500,45,0,1,0,0.0
+1636,Double Tree by Hilton Weerawila Dining,Weerawila,Restaurant,Fine Dining,6.315,81.235,8000,120,0,1,0,0.0
+1637,River Side Inn Sinharaja,Sinharaja,Restaurant,Local,6.444,80.418,1800,60,0,1,0,0.0
+1638,Weerawila Junction Tea Stall,Weerawila,Restaurant,Local,6.3315,81.236,500,30,0,0,0,0.0
+1639,Bundala Lagoon View Point Restaurant,Bundala,Restaurant,Local,6.202,81.191,2000,60,1,1,0,0.0
+1640,Sinharaja Village Foods,Sinharaja,Restaurant,Local,6.3305,80.471,800,45,0,0,0,0.0
+1641,Bundala Bird Watching Jeep Safari,Bundala,Activity,Leisure,6.2052,81.2294,10000,180,1,1,0,0.0
+1642,Sinharaja Rainforest Trekking,Sinharaja,Activity,Fun-time,6.441,80.415,5000,300,0,1,0,0.0
+1643,Weerawila Lake Boat Safari,Weerawila,Activity,Leisure,6.3265,81.2312,3500,90,0,1,0,0.0
+1644,Sinharaja Bird Watching Tour,Sinharaja,Activity,Leisure,6.442,80.416,4000,180,0,1,0,0.0
+1645,Bundala Night Turtle Watching,Bundala,Activity,Fun-time,6.18,81.21,3500,120,1,1,0,0.0
+1646,Traditional Cane Weaving Workshop,Sinharaja,Activity,Workshops,6.439,80.413,2000,120,0,0,1,0.0
+1647,Weerawila Fishing Experience,Weerawila,Activity,Fun-time,6.327,81.23,2500,120,0,1,0,0.0
+1648,Sinharaja River Bathing,Sinharaja,Activity,Leisure,6.445,80.414,0,90,0,1,0,0.0
+1649,Bundala Salt Pan Harvesting Tour,Bundala,Activity,Workshops,6.185,81.205,1500,60,0,1,1,0.0
+1650,Weerawila Roadside Curd Shopping,Weerawila,Activity,Shopping,6.332,81.237,0,30,0,1,0,0.0
+1651,Nilaveli Beach,Nilaveli,Landmark,Beach,8.6853,81.1917,0,120,1,1,0,0.0
+1652,Pigeon Island National Park,Nilaveli,Landmark,Park,8.7214,81.199,5500,180,1,1,0,0.0
+1653,Irakkakandi Bridge,Nilaveli,Landmark,Viewpoint,8.7115,81.1878,0,30,1,1,0,0.0
+1654,Velgam Vehera,Nilaveli,Landmark,Temple,8.6672,81.1444,0,60,0,1,1,1.0
+1655,Kuchchaveli Beach,Nilaveli,Landmark,Beach,8.8166,81.1,0,120,1,1,0,0.0
+1656,Kalkudah Beach,Kalkudah,Landmark,Beach,7.915,81.56,0,150,1,1,0,0.0
+1657,Pasikudah Bay,Kalkudah,Landmark,Beach,7.927,81.5625,0,180,1,1,0,0.0
+1658,Coconut Cultural Park,Kalkudah,Landmark,Park,7.93,81.558,500,60,0,1,0,0.0
+1659,Valaichchenai Lagoon,Kalkudah,Landmark,Nature,7.923,81.532,0,60,0,1,0,0.0
+1660,Batticaloa Fort,Batticaloa,Landmark,Historic,7.7194,81.6917,0,60,0,0,1,0.0
+1661,Batticaloa Gate,Batticaloa,Landmark,Monument,7.7185,81.6925,0,20,0,0,1,0.0
+1662,Batticaloa Lighthouse,Batticaloa,Landmark,Monument,7.7511,81.6872,0,45,1,1,1,0.0
+1663,Kallady Beach,Batticaloa,Landmark,Beach,7.7083,81.7167,0,120,1,1,0,0.0
+1664,Kallady Bridge,Batticaloa,Landmark,Monument,7.71,81.701,0,30,0,1,1,0.0
+1665,St. Mary's Cathedral,Batticaloa,Landmark,Church,7.717,81.698,0,30,0,0,1,1.0
+1666,Mahatma Gandhi Park,Batticaloa,Landmark,Park,7.718,81.693,0,45,0,1,1,0.0
+1667,Batticaloa Museum,Batticaloa,Landmark,Museum,7.719,81.691,200,45,0,0,1,0.0
+1668,Mamangam Hindu Temple,Batticaloa,Landmark,Temple,7.7345,81.682,0,45,0,0,1,1.0
+1669,Sivanantha Thaba Vanam,Batticaloa,Landmark,Temple,7.705,81.705,0,45,0,1,0,1.0
+1670,Unnichchai Tank,Batticaloa,Landmark,Lake,7.665,81.495,0,90,0,1,0,0.0
+1671,Kattankudy Heritage Museum,Batticaloa,Landmark,Museum,7.685,81.73,500,90,0,0,1,1.0
+1672,Eravur Cultural Point,Batticaloa,Landmark,Historic,7.77,81.605,0,45,0,0,1,0.0
+1673,Lady Manning Drive,Batticaloa,Landmark,Viewpoint,7.715,81.695,0,30,0,1,1,0.0
+1674,Navalady Sea View,Batticaloa,Landmark,Viewpoint,7.74,81.695,0,45,1,1,0,0.0
+1675,Sathurukondan Wetland,Batticaloa,Landmark,Nature,7.755,81.665,0,60,0,1,0,0.0
+1676,Nilaveli Beach Hotel Restaurant,Nilaveli,Restaurant,Fine Dining,8.687,81.191,5000,90,1,0,0,0.0
+1677,That's Why Nilaveli,Nilaveli,Restaurant,Cafe,8.684,81.1905,2500,60,1,0,0,0.0
+1678,Family Restaurant Nilaveli,Nilaveli,Restaurant,Local,8.682,81.189,1500,60,0,0,0,0.0
+1679,Captain Seafood Pasikudah,Kalkudah,Restaurant,Seafood,7.9285,81.56,3500,90,1,0,0,0.0
+1680,Rupsy's Seafood,Kalkudah,Restaurant,Seafood,7.9265,81.5615,3000,90,1,0,0,0.0
+1681,Ninnu Restaurant,Kalkudah,Restaurant,Local,7.926,81.559,1800,45,0,0,0,0.0
+1682,7 Degree North,Batticaloa,Restaurant,Fine Dining,7.712,81.699,4500,90,0,1,0,0.0
+1683,Deep Sea Seafood,Batticaloa,Restaurant,Seafood,7.72,81.694,3000,90,0,0,0,0.0
+1684,New Rest House Batticaloa,Batticaloa,Restaurant,Local,7.721,81.692,2000,60,0,1,1,0.0
+1685,Bridge View Cafe,Batticaloa,Restaurant,Cafe,7.709,81.702,1500,60,0,1,0,0.0
+1686,Golden Cafe Batticaloa,Batticaloa,Restaurant,Local,7.715,81.69,1000,45,0,0,0,0.0
+1687,Riviera Resort Restaurant,Batticaloa,Restaurant,Fine Dining,7.745,81.675,4000,90,0,1,0,0.0
+1688,Batticaloa Food Court,Batticaloa,Restaurant,Local,7.716,81.695,800,45,0,0,0,0.0
+1689,Jungle Beach Dining,Nilaveli,Restaurant,Fine Dining,8.745,81.155,7500,120,1,1,0,0.0
+1690,Reef Edge Restaurant,Kalkudah,Restaurant,Seafood,7.928,81.564,4000,90,1,0,0,0.0
+1691,Cafe on the Coast,Nilaveli,Restaurant,Cafe,8.683,81.1915,1800,60,1,0,0,0.0
+1692,Pigeon Island Snorkeling,Nilaveli,Activity,Fun-time,8.7214,81.199,4500,180,1,1,0,0.0
+1693,Whale Watching Nilaveli,Nilaveli,Activity,Leisure,8.685,81.192,12000,240,1,1,0,0.0
+1694,Batticaloa Lagoon Boat Ride,Batticaloa,Activity,Leisure,7.718,81.692,3500,60,0,1,0,0.0
+1695,Pasikudah Water Sports,Kalkudah,Activity,Fun-time,7.928,81.562,6000,120,1,1,0,0.0
+1696,Batticaloa Market Shopping,Batticaloa,Activity,Shopping,7.717,81.689,0,90,0,0,0,0.0
+1697,Kallady Beach Cycling,Batticaloa,Activity,Leisure,7.708,81.716,1500,120,1,1,0,0.0
+1698,Nilaveli Scuba Diving,Nilaveli,Activity,Fun-time,8.686,81.193,15000,180,1,1,0,0.0
+1699,Traditional Palm Craft Class,Batticaloa,Activity,Workshops,7.725,81.685,2000,90,0,0,1,0.0
+1700,Kayaking in Kalkudah Lagoon,Kalkudah,Activity,Leisure,7.9235,81.5325,3000,120,0,1,0,0.0
+1701,Mannar Fort,Mannar,Landmark,Historic,8.979,79.9125,0,60,1,0,1,0.0
+1702,Shrine of Our Lady of Madhu,Mannar,Landmark,Temple,8.8525,80.203,0,120,0,1,1,1.0
+1703,Thiruketheeswaram Kovil,Mannar,Landmark,Temple,8.9436,79.9602,0,60,0,0,1,1.0
+1704,Mannar Baobab Tree,Mannar,Landmark,Nature,8.981,79.9045,0,20,0,1,1,0.0
+1705,Talaimannar Pier and Lighthouse,Mannar,Landmark,Monument,9.0885,79.734,0,60,1,0,1,0.0
+1706,Adam's Bridge Viewpoint,Mannar,Landmark,Viewpoint,9.07,79.62,0,90,1,1,1,0.0
+1707,Kachcheri Road Park,Mannar,Landmark,Park,8.9805,79.911,0,45,0,1,0,0.0
+1708,Vavuniya Clock Tower,Vavuniya,Landmark,Monument,8.7512,80.498,0,15,0,0,1,0.0
+1709,Grand Friday Mosque,Vavuniya,Landmark,Mosque,8.753,80.4965,0,30,0,0,0,1.0
+1710,Vavuniya Archaeological Museum,Vavuniya,Landmark,Museum,8.7505,80.4995,200,60,0,0,1,0.0
+1711,Iratperiyakulam Tank,Vavuniya,Landmark,Lake,8.718,80.515,0,60,0,1,1,0.0
+1712,Kandasamy Kovil,Vavuniya,Landmark,Temple,8.7555,80.5015,0,45,0,0,0,1.0
+1713,Madukanda Vihara,Vavuniya,Landmark,Temple,8.742,80.548,0,60,0,1,1,1.0
+1714,Kilinochchi Water Tower War Memorial,Kilinochchi,Landmark,Monument,9.3885,80.398,0,30,0,0,1,0.0
+1715,Iranamadu Tank Viewpoint,Kilinochchi,Landmark,Lake,9.336,80.4615,0,60,0,1,0,0.0
+1716,Kilinochchi War Cemetery,Kilinochchi,Landmark,Historic,9.375,80.41,0,45,0,0,1,0.0
+1717,Hasalaka Gamini Memorial,Kilinochchi,Landmark,Monument,9.528,80.396,0,20,0,0,1,0.0
+1718,Ambal Kulam,Kilinochchi,Landmark,Nature,9.395,80.42,0,45,0,1,0,0.0
+1719,Kalmunai Beach,Kalmunai,Landmark,Beach,7.416,81.848,0,120,1,1,0,0.0
+1720,Kalmunai Rest House Garden,Kalmunai,Landmark,Park,7.4175,81.829,0,45,0,1,1,0.0
+1721,Maruthamunai Cultural Point,Kalmunai,Landmark,Historic,7.442,81.825,0,60,1,0,1,0.0
+1722,Sainthamaruthu Sea View,Kalmunai,Landmark,Viewpoint,7.385,81.842,0,45,1,1,0,0.0
+1723,Karaitivu Hindu Temple,Kalmunai,Landmark,Temple,7.361,81.8385,0,45,0,0,0,1.0
+1724,Paddiruppu Bridge View,Kalmunai,Landmark,Viewpoint,7.285,81.815,0,30,0,1,1,0.0
+1725,Kallady Lagoon (South Access),Kalmunai,Landmark,Nature,7.35,81.81,0,90,0,1,0,0.0
+1726,Four-Seven Restaurant,Mannar,Restaurant,Local,8.9815,79.9105,1200,60,0,0,0,0.0
+1727,Hotel Palmyrah Dining,Mannar,Restaurant,Fine Dining,8.975,79.914,3500,90,0,0,0,0.0
+1728,Mannar Sea Food Hut,Mannar,Restaurant,Seafood,8.985,79.902,2500,90,1,0,0,0.0
+1729,Vavuniya Rest House Restaurant,Vavuniya,Restaurant,Local,8.7525,80.495,2000,60,0,0,1,0.0
+1730,Al-Maha Family Restaurant,Vavuniya,Restaurant,Local,8.754,80.4985,1500,60,0,0,0,0.0
+1731,Casserole Vavuniya,Vavuniya,Restaurant,Fine Dining,8.756,80.501,4000,90,0,0,0,0.0
+1732,Kilinochchi Rest House,Kilinochchi,Restaurant,Local,9.3895,80.3995,1800,60,0,0,1,0.0
+1733,Amma Food Center,Kilinochchi,Restaurant,Local,9.392,80.402,600,45,0,0,0,0.0
+1734,Golden Cafe Kilinochchi,Kilinochchi,Restaurant,Cafe,9.387,80.4005,1200,45,0,0,0,0.0
+1735,Sea Breeze Kalmunai,Kalmunai,Restaurant,Seafood,7.4155,81.847,2800,90,1,0,0,0.0
+1736,Green Garden Restaurant,Kalmunai,Restaurant,Local,7.418,81.831,1500,60,0,0,0,0.0
+1737,Kalmunai City Cafe,Kalmunai,Restaurant,Cafe,7.419,81.8285,1000,45,0,0,0,0.0
+1738,Nanattan Rice and Curry,Mannar,Restaurant,Local,8.85,79.95,800,45,0,1,0,0.0
+1739,Point Pedro Road Bakers,Vavuniya,Restaurant,Cafe,8.7535,80.4975,500,30,0,0,0,0.0
+1740,Heritage Kitchen Kalmunai,Kalmunai,Restaurant,Local,7.41,81.835,1800,60,0,0,0,0.0
+1741,Bird Watching at Vankalai Sanctuary,Mannar,Activity,Leisure,8.895,79.94,2500,180,1,1,0,0.0
+1742,Mannar Causeway Sunset Walk,Mannar,Activity,Leisure,8.973,79.925,0,60,1,1,0,0.0
+1743,Donkey Rescue and Sanctuary Tour,Mannar,Activity,Fun-time,8.98,79.915,1000,60,0,1,0,0.0
+1744,Vavuniya Night Market,Vavuniya,Activity,Shopping,8.7515,80.497,0,90,0,0,0,0.0
+1745,Iranamadu Tank Boat Ride,Kilinochchi,Activity,Leisure,9.335,80.46,3000,60,0,1,0,0.0
+1746,Maruthamunai Handloom Weaving Tour,Kalmunai,Activity,Workshops,7.445,81.826,1500,120,0,0,1,0.0
+1747,Kalmunai Beach Volleyball,Kalmunai,Activity,Fun-time,7.4165,81.8485,0,120,1,1,0,0.0
+1748,Vavuniya Bazaar Shopping,Vavuniya,Activity,Shopping,8.7525,80.4985,0,120,0,0,0,0.0
+1749,Mannar Island Cycling Tour,Mannar,Activity,Leisure,8.98,79.91,2000,240,1,1,1,0.0
+1750,Kalmunai Fishery Market Walk,Kalmunai,Activity,Shopping,7.414,81.845,0,60,1,0,0,0.0
+1751,Colombo,Colombo,City,Hub,6.9271,79.8612,0,0,0,0,1,0.0
+1752,Kandy,Kandy,City,Hub,7.2906,80.6337,0,0,0,1,1,1.0
+1753,Galle,Galle,City,Hub,6.0367,80.217,0,0,1,0,1,0.0
+1754,Jaffna,Jaffna,City,Hub,9.6615,80.0088,0,0,1,0,1,1.0
+1755,Anuradhapura,Anuradhapura,City,Hub,8.3114,80.4037,0,0,0,1,1,1.0
+1756,Nuwara Eliya,Nuwara Eliya,City,Hub,6.9497,80.7891,0,0,0,1,1,0.0
+1757,Matara,Matara,City,Hub,5.9549,80.555,0,0,1,0,1,1.0
+1758,Negombo,Gampaha,City,Hub,7.2089,79.8448,0,0,1,0,1,0.0
+1759,Sigiriya,Matale,City,Hub,7.957,80.7603,0,0,0,1,1,0.0
+1760,Ella,Badulla,City,Hub,6.8735,81.047,0,0,0,1,0,0.0
+1761,Trincomalee,Trincomalee,City,Hub,8.5711,81.2335,0,0,1,1,1,1.0
+1762,Batticaloa,Batticaloa,City,Hub,7.7102,81.6924,0,0,1,1,1,0.0
+1763,Ratnapura,Ratnapura,City,Hub,6.7056,80.3847,0,0,0,1,1,1.0
+1764,Badulla,Badulla,City,Hub,6.9934,81.055,0,0,0,1,1,1.0
+1765,Kurunegala,Kurunegala,City,Hub,7.4817,80.3609,0,0,0,1,1,0.0
+1766,Kalutara,Kalutara,City,Hub,6.5854,79.9607,0,0,1,0,1,1.0
+1767,Bentota,Galle,City,Hub,6.42,80.0,0,0,1,1,0,0.0
+1768,Hikkaduwa,Galle,City,Hub,6.1395,80.1063,0,0,1,1,0,0.0
+1769,Unawatuna,Galle,City,Hub,6.0174,80.2489,0,0,1,1,0,0.0
+1770,Mirissa,Matara,City,Hub,5.9483,80.4535,0,0,1,1,0,0.0
+1771,Weligama,Matara,City,Hub,5.973,80.4295,0,0,1,1,0,0.0
+1772,Tangalle,Hambantota,City,Hub,6.0243,80.7936,0,0,1,1,1,0.0
+1773,Hambantota,Hambantota,City,Hub,6.1246,81.1246,0,0,1,1,1,0.0
+1774,Kataragama,Monaragala,City,Hub,6.4137,81.3327,0,0,0,1,1,1.0
+1775,Polonnaruwa,Polonnaruwa,City,Hub,7.9403,81.0188,0,0,0,1,1,1.0
+1776,Dambulla,Matale,City,Hub,7.8608,80.6516,0,0,0,1,1,1.0
+1777,Matale,Matale,City,Hub,7.4675,80.6234,0,0,0,1,1,1.0
+1778,Gampaha,Gampaha,City,Urban,7.084,79.9927,0,0,0,1,0,0.0
+1779,Wattala,Gampaha,City,Urban,6.983,79.8884,0,0,1,0,0,0.0
+1780,Ja-Ela,Gampaha,City,Urban,7.0786,79.8913,0,0,0,1,0,0.0
+1781,Mount Lavinia,Colombo,City,Urban,6.8301,79.8641,0,0,1,0,1,0.0
+1782,Dehiwala,Colombo,City,Urban,6.8511,79.8665,0,0,1,1,0,0.0
+1783,Nugegoda,Colombo,City,Urban,6.8752,79.8907,0,0,0,0,0,0.0
+1784,Kotte,Colombo,City,Hub,6.892,79.9168,0,0,0,1,1,0.0
+1785,Battaramulla,Colombo,City,Urban,6.899,79.9231,0,0,0,1,0,0.0
+1786,Malabe,Colombo,City,Urban,6.9042,79.9551,0,0,0,1,0,0.0
+1787,Homagama,Colombo,City,Urban,6.84,80.0041,0,0,0,1,0,0.0
+1788,Avissawella,Colombo,City,Urban,6.9555,80.2155,0,0,0,1,1,0.0
+1789,Hanwella,Colombo,City,Urban,6.9014,80.0825,0,0,0,1,1,0.0
+1790,Maharagama,Colombo,City,Urban,6.8483,79.9265,0,0,0,0,0,0.0
+1791,Moratuwa,Colombo,City,Urban,6.7749,79.8817,0,0,1,1,0,0.0
+1792,Panadura,Kalutara,City,Urban,6.711,79.9077,0,0,1,0,1,0.0
+1793,Beruwala,Kalutara,City,Hub,6.4788,79.988,0,0,1,0,1,1.0
+1794,Aluthgama,Kalutara,City,Urban,6.4355,79.9986,0,0,1,1,0,0.0
+1795,Ambalangoda,Galle,City,Urban,6.2366,80.0543,0,0,1,0,1,0.0
+1796,Ahangama,Galle,City,Urban,5.9722,80.3622,0,0,1,1,0,0.0
+1797,Geldara,Kalutara,City,Urban,6.678,79.953,0,0,0,1,0,0.0
+1798,Horana,Kalutara,City,Urban,6.7126,80.0624,0,0,0,1,1,0.0
+1799,Bandarawela, Badulla,City,Urban,6.8314,80.9872,0,0,0,1,1,0.0
+1800,Haputale,Badulla,City,Urban,6.7678,80.9515,0,0,0,1,1,0.0
+1801,Passara,Badulla,City,Urban,6.9333,81.15,0,0,0,1,0,0.0
+1802,Mahiyanganaya,Badulla,City,Hub,7.32,80.9983,0,0,0,1,1,1.0
+1803,Ampara,Ampara,City,Hub,7.2842,81.6747,0,0,0,1,0,0.0
+1804,Arugam Bay,Ampara,City,Hub,6.8415,81.8285,0,0,1,1,0,0.0
+1805,Pottuvil,Ampara,City,Urban,6.871,81.8268,0,0,1,1,1,1.0
+1806,Monaragala,Monaragala,City,Hub,6.8725,81.3503,0,0,0,1,0,0.0
+1807,Wellawaya,Monaragala,City,Urban,6.7408,81.1039,0,0,0,1,1,0.0
+1808,Buttala,Monaragala,City,Urban,6.7583,81.2444,0,0,0,1,1,0.0
+1809,Puttalam,Puttalam,City,Hub,8.033,79.8256,0,0,1,1,1,0.0
+1810,Chilaw,Puttalam,City,Hub,7.575,79.795,0,0,1,0,1,1.0
+1811,Marawila,Puttalam,City,Urban,7.41,79.83,0,0,1,0,0,0.0
+1812,Kalpitiya,Puttalam,City,Hub,8.2325,79.7628,0,0,1,1,1,0.0
+1813,Mannar,Mannar,City,Hub,8.981,79.9044,0,0,1,1,1,1.0
+1814,Vavuniya,Vavuniya,City,Hub,8.7514,80.4971,0,0,0,1,1,1.0
+1815,Kilinochchi,Kilinochchi,City,Hub,9.3883,80.3983,0,0,0,1,1,0.0
+1816,Mullaitivu,Mullaitivu,City,Hub,9.2667,80.8167,0,0,1,1,1,0.0
+1817,Point Pedro,Jaffna,City,Urban,9.8167,80.2333,0,0,1,0,1,0.0
+1818,Kayts,Jaffna,City,Urban,9.6833,79.9,0,0,1,0,1,1.0
+1819,Chavakachcheri,Jaffna,City,Urban,9.65,80.15,0,0,0,1,1,0.0
+1820,Mankulam,Mullaitivu,City,Urban,9.1333,80.45,0,0,0,1,1,0.0
+1821,Kegalle,Kegalle,City,Hub,7.2513,80.3464,0,0,0,1,1,0.0
+1822,Mawanella,Kegalle,City,Urban,7.253,80.446,0,0,0,1,1,0.0
+1823,Kitulgala,Kegalle,City,Urban,6.992,80.415,0,0,0,1,0,0.0
+1824,Kuliyapitiya,Kurunegala,City,Urban,7.4689,80.0401,0,0,0,0,0,0.0
+1825,Pannala,Kurunegala,City,Urban,7.345,79.985,0,0,0,0,0,0.0
+1826,Narammala,Kurunegala,City,Urban,7.4333,80.2167,0,0,0,0,1,0.0
+1827,Nikaweratiya,Kurunegala,City,Urban,7.7475,80.1214,0,0,0,1,0,0.0
+1828,Pelmadulla,Ratnapura,City,Urban,6.621,80.548,0,0,0,1,1,0.0
+1829,Balangoda,Ratnapura,City,Urban,6.65,80.7,0,0,0,1,1,0.0
+1830,Embilipitiya,Ratnapura,City,Hub,6.3386,80.8493,0,0,0,1,0,0.0
+1831,Rakwana,Ratnapura,City,Urban,6.4633,80.605,0,0,0,1,0,0.0
+1832,Eheliyagoda,Ratnapura,City,Urban,6.85,80.2667,0,0,0,1,0,0.0
+1833,Kuruwita,Ratnapura,City,Urban,6.77,80.37,0,0,0,1,1,1.0
+1834,Deniyaya,Matara,City,Urban,6.3425,80.5615,0,0,0,1,0,0.0
+1835,Dickwella,Matara,City,Urban,5.9658,80.7031,0,0,1,1,1,1.0
+1836,Akurana,Kandy,City,Urban,7.3667,80.6167,0,0,0,1,0,1.0
+1837,Gampola,Kandy,City,Urban,7.1633,80.5667,0,0,0,1,1,1.0
+1838,Peradeniya,Kandy,City,Urban,7.268,80.592,0,0,0,1,1,0.0
+1839,Katugastota,Kandy,City,Urban,7.3245,80.6275,0,0,0,1,0,0.0
+1840,Nawalapitiya,Kandy,City,Urban,7.05,80.5333,0,0,0,1,0,0.0
+1841,Haputale,Badulla,City,Urban,6.7678,80.9515,0,0,0,1,1,0.0
+1842,Welimada,Badulla,City,Urban,6.9,80.9167,0,0,0,1,1,0.0
+1843,Nilaveli,Trincomalee,City,Urban,8.6853,81.1917,0,0,1,1,0,0.0
+1844,Kinniya,Trincomalee,City,Urban,8.5,81.1833,0,0,1,1,1,0.0
+1845,Kalkudah,Batticaloa,City,Urban,7.915,81.56,0,0,1,1,0,0.0
+1846,Pasikudah,Batticaloa,City,Urban,7.927,81.5625,0,0,1,1,0,0.0
+1847,Chenkalady,Batticaloa,City,Urban,7.7667,81.5833,0,0,0,1,0,0.0
+1848,Hingurakgoda,Polonnaruwa,City,Urban,8.05,80.9833,0,0,0,1,0,0.0
+1849,Medirigiriya,Polonnaruwa,City,Urban,8.1472,80.9942,0,0,0,1,1,1.0
+1850,Galnewa,Anuradhapura,City,Urban,8.0,80.4167,0,0,0,1,1,0.0
+1851,Kekirawa,Anuradhapura,City,Urban,8.0415,80.6035,0,0,0,1,1,1.0
